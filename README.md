@@ -1,4 +1,4 @@
- # UCAS University Scraper
+# UCAS University Scraper
 
 This project scrapes detailed data from the UCAS website for all UK universities, modularly extracting information from each available tab (About, Stats, Student Life, Courses, Apprenticeships, International, Student Support).
 
@@ -6,8 +6,8 @@ This project scrapes detailed data from the UCAS website for all UK universities
 
 ### 1. Clone the Repository
 ```
-git clone <repo-url>
-cd ucas
+git clone https://github.com/AnshumanAtrey/ucas_scraper.git
+cd ucas_scraper
 ```
 
 ### 2. Install Dependencies
