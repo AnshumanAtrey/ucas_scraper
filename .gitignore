@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Output and generated files
+output/
+
+# Example HTML and test data
+/dom_examples/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS junk
+*.swp
+*.swo
