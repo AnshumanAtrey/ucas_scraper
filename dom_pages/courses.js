@@ -81,7 +81,7 @@ const scrapeCoursesTab = async (page, browser) => {
         if (visitedPages.has(url)) break;
         visitedPages.add(url);
         // Scrape all course cards on this page
-        const coursesOnPage = await coursePage.evaluate(() => {
+        let coursesOnPage = await coursePage.evaluate(() => {
           const courses = [];
           document.querySelectorAll('.card--course-details').forEach(card => {
             const title = card.querySelector('.course-title')?.textContent?.trim() || '';
@@ -97,6 +97,56 @@ const scrapeCoursesTab = async (page, browser) => {
           });
           return courses;
         });
+        // For each course, visit its detail page and scrape all entry requirements
+        for (let i = 0; i < coursesOnPage.length; i++) {
+          const course = coursesOnPage[i];
+          if (!course.detailLink) continue;
+          try {
+            const detailPage = await browser.newPage();
+            await detailPage.goto(course.detailLink, { waitUntil: 'networkidle2' });
+            // Wait for the entry requirements modal or section to be present
+            await detailPage.waitForSelector('.course-details-list, .modal__content', { timeout: 15000 });
+            // Scrape entry requirements from the detail page
+            const entryRequirements = await detailPage.evaluate(() => {
+              // Try to find all entry requirements in the modal or section
+              const reqs = {};
+              // UCAS Tariff Points
+              const ucas = document.querySelector('.ucas-points dd')?.textContent?.trim();
+              if (ucas) reqs.ucasTariff = ucas;
+              // A Levels
+              const alevels = Array.from(document.querySelectorAll('label[for$="ALevel_radio"] .qualification-value')).map(e => e.textContent.trim()).join(', ');
+              if (alevels) reqs.aLevels = alevels;
+              // BTEC
+              const btec = Array.from(document.querySelectorAll('label[for$="BtecLevel3NationalExtendedDiploma_radio"] .qualification-value')).map(e => e.textContent.trim()).join(', ');
+              if (btec) reqs.btec = btec;
+              // Scottish Higher
+              const sh = Array.from(document.querySelectorAll('label[for$="ScottishHigher_radio"] .qualification-value')).map(e => e.textContent.trim()).join(', ');
+              if (sh) reqs.scottishHigher = sh;
+              // Scottish Advanced Higher
+              const sah = Array.from(document.querySelectorAll('label[for$="ScottishAdvancedHigher_radio"] .qualification-value')).map(e => e.textContent.trim()).join(', ');
+              if (sah) reqs.scottishAdvancedHigher = sah;
+              // Also check for any visible .course-details-list (sometimes requirements are in a visible list)
+              document.querySelectorAll('.course-details-list > div').forEach(div => {
+                const dt = div.querySelector('dt')?.textContent?.trim();
+                const dd = div.querySelector('dd')?.textContent?.trim();
+                if (dt && dd) {
+                  if (/UCAS Tariff/i.test(dt)) reqs.ucasTariff = dd;
+                  if (/A Levels?/i.test(dt)) reqs.aLevels = dd;
+                  if (/BTEC/i.test(dt)) reqs.btec = dd;
+                  if (/Scottish Higher/i.test(dt)) reqs.scottishHigher = dd;
+                  if (/Scottish Advanced Higher/i.test(dt)) reqs.scottishAdvancedHigher = dd;
+                }
+              });
+              return reqs;
+            });
+            if (Object.keys(entryRequirements).length > 0) {
+              course.entryRequirements = entryRequirements;
+            }
+            await detailPage.close();
+          } catch (err) {
+            console.warn('Failed to scrape entry requirements for course:', course.title, err.message);
+          }
+        }
         courses.push(...coursesOnPage);
         // Check for next page in pagination
         const nextPageHref = await coursePage.evaluate(() => {
