@@ -1,0 +1,158 @@
+{
+  "id": "UK0004",
+  "slug": "associated-studios-performing-arts-academy",
+  "scrapedAt": "2025-07-04T12:21:19.787Z",
+  "foundTabs": [
+    "About",
+    "StudentLife",
+    "Courses"
+  ],
+  "pages": {
+    "About": {
+      "name": "Associated Studios Performing Arts Academy",
+      "location": "London",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/sa_banner.jpeg",
+      "about": "Associated Studios is a leading British Drama school, committed to the training and continued professional development of performers in Musical Theatre.\nAssociated Studios offers full-time and part-time training in Musical Theatre. In addition to the courses, professional development workshops in all disciplines run throughout the year with leading industry professionals.As a central part of all courses, students work with leading industry professionals including directors, vocal coaches, musical directors, repetiteurs, conductors, agents, casting directors, producers, choreographers and well-known performers. The full-time Musical Theatre courses offer a West End showcase for UK agents, casting directors and industry professionals as well as a full-scale public production in a professional theatre.",
+      "whatMakesUsDifferent": "Associated Studios is a small and prestigious Drama school. Class sizes are limited to 20 students. Most Dance classes are streamed to cater for movers and advanced Dancers. Students have frequent opportunity to perform as soloists.\nAssociated Studios has produced a string of West End leads due to its commitment to excellence and rigour in the training of young voices. With a reputation for training performers who can excel both as exceptional vocalist and as Actors, alumni are a step ahead in professional auditions.Associated Studios prides itself on its ethical approach to artistic learning and provides a safe, supportive and private working space in which performers can work and thrive. We build your confidence whilst developing your talent. Students enter into an ongoing relationship with the school and after graduating, come back for advice, to have lessons or to connect with Staff and Students.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/edits-65.jpeg?itok=zrlG9sBA",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/sb-sisteract-079.jpg?itok=_YwL12lR",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/4_month_opera_course_show_10.jpg?itok=7K60hwLr",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_614a8050.jpg?itok=_6qPRyNn",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_photographer-andreas-grieger-271.jpg?itok=koDv8yUN",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_8th_in_to_the_woods-0370_0.jpg?itok=pqhWbRGg",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_img_3668.jpg?itok=aiIh4-8t",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/edits-65.jpeg?itok=zrlG9sBA",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/sb-sisteract-079.jpg?itok=_YwL12lR",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/4_month_opera_course_show_10.jpg?itok=7K60hwLr",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_614a8050.jpg?itok=_6qPRyNn",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_photographer-andreas-grieger-271.jpg?itok=koDv8yUN",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_8th_in_to_the_woods-0370_0.jpg?itok=pqhWbRGg",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/copy_of_img_3668.jpg?itok=aiIh4-8t"
+      ],
+      "website": "http://www.associatedstudios.co.uk/",
+      "email": "info@associatedstudios.co.uk",
+      "phone": "02073852038",
+      "metaLabels": [
+        "Location: City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Associated Studios",
+          "address": "204 Latimer Road, London, W10 6QY"
+        }
+      ]
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student life",
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-1133845967-london-header.jpg?itok=hnr94oeS",
+          "heading": "What's it like to live in London?Check out our region guide",
+          "paragraphs": [
+            "There are 32 boroughs in Greater London, stretching from the City of London and Westminster, to surrounding areas like Chelsea, Camden, Richmond, Hackney and Islington.",
+            "It’s big, but it’s easy to jump on a train, tube or bus to experience everything on offer – from food pop-ups to world famous music acts, free museums and West End shows.",
+            "Fantastically diverse and historical, with many industries and businesses based here to kickstart your career, London is one of the most desirable – if pricey – cities in the world."
+          ],
+          "link": "https://www.ucas.com/study-in/london"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-637710754-london-header.jpg?itok=AN_St7__",
+          "heading": "What's it like to live in London?Check out our city guide",
+          "paragraphs": [
+            "Discover what it’s really like to live in London as a student, including information on finding accommodation, cost of living and budgeting, and student life."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-london"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "Associated Studios is based in a beautiful three-storey terrace in the heart of Kensington & Chelsea, just near the bustle of Portobello market. Latimer Rd is a street full of artists and theatre. Our building has a warm and creative atmosphere filled with light, music and creatives. It also offers a visually beautiful environment in which the Principal and Management team are always ready to help."
+      ],
+      "courseLocations": [
+        {
+          "title": "Associated Studios",
+          "address": "204 Latimer Road, London, W10 6QY"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "Associated Studios full-time Musical Theatre courses offer world-class, industry-led training in all the skills required to become a professional, versatile Musical Theatre performer, including acting, singing, dance and music. All full-time courses include one-to-one singing lessons, performing projects and productions. We offer Undergraduate and Postgraduate courses offering a vocational training with a recognised academic qualification."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Associated%20Studios%20Performing%20Arts%20Academy"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Associated%20Studios%20Performing%20Arts%20Academy",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Musical Theatre (Professional Performance) 2-Year Accelerated Degree",
+                "qualification": "BA (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "N/A",
+                "provider": "Associated Studios Performing Arts Academy",
+                "location": "Associated Studios",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/264c5c04-89fa-4bf0-b5f8-c02ca4fc6955?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Associated%20Studios%20Performing%20Arts%20Academy"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Associated%20Studios%20Performing%20Arts%20Academy",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Musical Theatre Performance",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Associated Studios Performing Arts Academy",
+                "location": "Associated Studios",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/59780456-854d-4eb4-99a6-3c6c4b60f89d?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

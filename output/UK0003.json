@@ -1,0 +1,976 @@
+{
+  "id": "UK0003",
+  "slug": "arts-university-plymouth",
+  "scrapedAt": "2025-07-04T12:20:51.460Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "International",
+    "StudentSupport"
+  ],
+  "pages": {
+    "About": {
+      "name": "Arts University Plymouth",
+      "location": "Plymouth",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/ucas_banner_3.jpg",
+      "about": "CREATIVE EDUCATION FOR A CHANGING WORLD\nArts University Plymouth is a new kind of Arts University for the 21st century, preparing graduates who are uniquely placed to provide creative solutions to the complex global challenges of our times.\nFounded in 1856 as the Plymouth Drawing School, we are proud to be the Arts University in Plymouth, Britain’s Ocean City. The University offers a comprehensive spectrum of specialist undergraduate, postgraduate and pre-degree study in art, design, craft and digital media programmes to a dynamic community of around 1,500 UK and international students – combining over 165 years of creativity with contemporary thinking and cutting-edge, industry standard resources.\nOur university is widely regarded as a catalyst for individual, societal and ecological transformation, delivering innovative and distinctive learning, teaching and research through our interdisciplinary ecosystem of materials, processes, technologies and knowledge exchange.",
+      "whatMakesUsDifferent": "We offer the richest, most diverse ecosystem of materials, technologies, processes, practices, and exchange of ideas at any arts university in the UK.\nOur 13,000 sq metres of studios and workshops are filled with professional workspaces, studios and state-of-the-art facilities. Our city-centre campus is home to our public gallery MIRROR, Fab Lab Plymouth, our creative business incubation programme Workroom, & Plymouth Arts Cinema. Our campus is situated in the heart of a vibrant cultural quarter of Plymouth, adjacent to The Box & numerous other emerging art spaces.\nOur creative degrees provide you with the skills & knowledge to thrive at the forefront of the creative industries. Whatever you wish to do, we can support you during your studies & help you to fulfil your long-term career aspirations.\nVoted University of the Year for SW England by students (WUSCA’s 24), as well as #2 in the UK for Facilities, #3 in the UK for Student Support & #4 in the UK for Lecturers & Teaching Quality",
+      "website": "http://www.aup.ac.uk/",
+      "email": "hello@aup.ac.uk",
+      "phone": "01752 203434",
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Main Site",
+          "address": "Tavistock Place, Plymouth, PL4 8AT"
+        },
+        {
+          "title": "Arts University Plymouth",
+          "address": "Tavistock Place, Plymouth, PL4 8AT"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "74%"
+            },
+            {
+              "label": "Male",
+              "value": "25%"
+            },
+            {
+              "label": "Unknown",
+              "value": "1%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "94%"
+            },
+            {
+              "label": "EU Students",
+              "value": "1%"
+            },
+            {
+              "label": "International",
+              "value": "4%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "88%"
+            },
+            {
+              "label": "Part-time",
+              "value": "12%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "42%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "58%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "10%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "90%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Described by GQ as “the coolest little city by the sea,” Plymouth offers a balance of some of the UK’s most stunning natural spaces alongside the convenience of city life with a range of independent businesses, and a community ready to welcome new creative ideas and share new experiences with.",
+        "We work with recommended accommodation providers Homes for Students to provide a variety of housing options for our students. A wide range of properties are ideally located around the campus and surrounding area, so you’ll only ever have a short walk to get to university – great if you have an early start.",
+        "Our Students' Union (AUP:SU) aims to represent, campaign and provide services for you in every aspect of your university life, from academic and social, to welfare and personal support.",
+        "We also offer a variety of free in-house services during your studies through the Student Support team, including mentoring, student counselling, health services and referrals and wellbeing workshops."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-641668044-s-west-header.jpg?itok=N-mNYPQA",
+          "heading": "What's it like to live in South West?Check out our region guide",
+          "paragraphs": [
+            "The South West of England is made up of seven counties, with rural areas surrounding key student cities – from Plymouth and Bournemouth up to Bath, Bristol and Cheltenham & Gloucester.",
+            "You'll find many a festival – including the world-famous Glastonbury. And if you're a cider or cheese buff, you'll have plenty to try in the South West. You can always walk it off in Dartmoor and Exmoor national parks, or beautiful countryside from the Cotswolds to Land's End.",
+            "Cornwall, Dorset, and Devon are big coastal favourites, with idyllic beaches and waves to test the bravest surfers."
+          ],
+          "link": "https://www.ucas.com/study-in/south-west"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-185260885-plymouth-header.jpg?itok=tZh859Fc",
+          "heading": "What's it like to live in Plymouth?Check out our city guide",
+          "paragraphs": [
+            "Planning to study in Plymouth? This historic maritime city offers a mix of waterfront living, academic excellence, and a student community that thrives both on land and at sea."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-plymouth"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "OVER 165 YEARS OF CREATIVITY.",
+        "Arts University Plymouth was founded in 1856 as the first specialist school of art and design in the city.",
+        "Our 13,000 sq metres of studios and workshops across four buildings are filled with professional workspaces and state-of-the-art facilities. Our city-centre campus is a creative hub of collaboration and innovation, thinking and making. A close-knit community where artists, designers and makers combine, it’s a place to explore and experiment with processes and materials, both contemporary and traditional.",
+        "Workshops are open to students across specialisms. Fashion designers collaborate with filmmakers, fine artists with photographers, and animators with ceramicists. The opportunities for cooperation and exchange are endless and open for discovery.",
+        "The university actively encourages you to use areas and communal space to curate and exhibit work collaboratively or individually and in various 2D, 3D, 4D and digital formats."
+      ],
+      "courseLocations": [
+        {
+          "title": "Main Site",
+          "address": "Tavistock Place, Plymouth, PL4 8AT"
+        },
+        {
+          "title": "Arts University Plymouth",
+          "address": "Tavistock Place, Plymouth, PL4 8AT"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "Our art, design, craft and digital media courses will equip you with the knowledge and skills necessary to thrive at the forefront of the creative industries.",
+        "We offer courses at Pre-Degree, Undergraduate and Postgraduate levels of study. We are also able to offer some of our courses as a distance learning option for your first year of study."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "41 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Arts%20University%20Plymouth"
+          },
+          {
+            "mode": "Part-time",
+            "count": "14 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=Arts%20University%20Plymouth"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "13 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Arts%20University%20Plymouth"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Arts%20University%20Plymouth",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "41 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "13 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Animation & Games",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2ce21726-6965-ae72-4f54-a2aae5932d1f?academicYearId=2025"
+              },
+              {
+                "title": "Animation & Games (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3b591919-726a-5320-e592-6d6bb9c30bc0?academicYearId=2025"
+              },
+              {
+                "title": "Commercial Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7931d69e-09e6-cd61-f524-9de8e8ade668?academicYearId=2025"
+              },
+              {
+                "title": "Commercial Photography (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/948a538d-1c32-bcb8-b28b-3248a3262748?academicYearId=2025"
+              },
+              {
+                "title": "Costume Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a77beea3-ccf7-c5f3-31d8-71332833c65c?academicYearId=2025"
+              },
+              {
+                "title": "Costume Production (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5ac8cd43-8a34-5a89-5ed2-8ddb43ebba9b?academicYearId=2025"
+              },
+              {
+                "title": "Craft & Material Practices",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60f5eb0b-afce-05ef-4e5d-b3cb94b5a2c4?academicYearId=2025"
+              },
+              {
+                "title": "Craft & Material Practices (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4d174239-84f9-fe16-88b2-34abe84c07d6?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1413eb8c-25db-7e05-f3c7-9606979781fb?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8bc3407-300b-a84f-b14a-d2947f070406?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Media & Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91b587ac-a22b-d07e-4bd5-ea04273e2a92?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Media & Marketing (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/32dda824-ab7e-5e51-6cb9-776c578167aa?academicYearId=2025"
+              },
+              {
+                "title": "Film & Screen Arts",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/de79cd47-f96a-381d-0c1b-441436c730d2?academicYearId=2025"
+              },
+              {
+                "title": "Film & Screen Arts (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f8279b04-9c1a-61c2-612a-76ce5de7644f?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06734134-fba6-aef1-d5c4-40c41986c637?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d9713e8-c9ae-a83c-9a64-b4456a2f6ee5?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b115b240-5d68-5d7b-d843-3a7d424b1198?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/411d1210-e931-d19d-c28f-0fd571193da1?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/95cd503c-731a-a3c0-e3dc-66baeec301ae?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/015c0c59-f349-21c1-08e2-78ae06e562b1?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design & Styling  (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3e00cc90-f3e9-6ab3-16b5-09d8ed483165?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design and Styling",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/50eb33e6-6267-9b52-ac85-0c26644842e9?academicYearId=2025"
+              },
+              {
+                "title": "Painting Drawing and Printmaking",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e654c773-4beb-e944-3255-d483bc3f4aad?academicYearId=2025"
+              },
+              {
+                "title": "Painting Drawing and Printmaking (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/df9bf8da-9a01-f339-2075-a7be94647e39?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/177c015c-f832-3827-4d85-8a0bc7a784e4?academicYearId=2025"
+              },
+              {
+                "title": "Photography (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eb8dddff-9ee9-ac0f-1234-0fca6658d9b3?academicYearId=2025"
+              },
+              {
+                "title": "Textile Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/216ac113-d921-f68c-9f5b-2b87e9e243ff?academicYearId=2025"
+              },
+              {
+                "title": "Textile Design (Extended Degree)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c0656db3-e5b8-f925-e727-41ac56ce2a1a?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=Arts%20University%20Plymouth",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "14 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Animation & Games",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2ce21726-6965-ae72-4f54-a2aae5932d1f?academicYearId=2025"
+              },
+              {
+                "title": "Commercial Photography",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7931d69e-09e6-cd61-f524-9de8e8ade668?academicYearId=2025"
+              },
+              {
+                "title": "Costume Production",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a77beea3-ccf7-c5f3-31d8-71332833c65c?academicYearId=2025"
+              },
+              {
+                "title": "Craft & Material Practices",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60f5eb0b-afce-05ef-4e5d-b3cb94b5a2c4?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1413eb8c-25db-7e05-f3c7-9606979781fb?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Media & Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91b587ac-a22b-d07e-4bd5-ea04273e2a92?academicYearId=2025"
+              },
+              {
+                "title": "Film & Screen Arts",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/de79cd47-f96a-381d-0c1b-441436c730d2?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06734134-fba6-aef1-d5c4-40c41986c637?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b115b240-5d68-5d7b-d843-3a7d424b1198?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/95cd503c-731a-a3c0-e3dc-66baeec301ae?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design and Styling",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/50eb33e6-6267-9b52-ac85-0c26644842e9?academicYearId=2025"
+              },
+              {
+                "title": "Painting Drawing and Printmaking",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e654c773-4beb-e944-3255-d483bc3f4aad?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/177c015c-f832-3827-4d85-8a0bc7a784e4?academicYearId=2025"
+              },
+              {
+                "title": "Textile Design",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/216ac113-d921-f68c-9f5b-2b87e9e243ff?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "25 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Arts%20University%20Plymouth"
+          },
+          {
+            "mode": "Part-time",
+            "count": "25 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Arts%20University%20Plymouth"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Arts%20University%20Plymouth",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "25 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Communication Design*",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0d44ba71-dab1-48c4-9d34-8209e7ac91fd?academicYearId=2025"
+              },
+              {
+                "title": "Craft and Material Practices",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e700c14-13a0-499b-900e-797054572d03?academicYearId=2025"
+              },
+              {
+                "title": "Design (Built Environment)*",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/30062f49-83d7-4e6b-a7d9-0b19390c71b3?academicYearId=2025"
+              },
+              {
+                "title": "Design (Fashion)*",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/08082fe3-8134-44f1-993c-f8a2470c42e0?academicYearId=2025"
+              },
+              {
+                "title": "Design (Textiles)*",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0d94ca05-5e18-48d9-bcea-f18e51c22e85?academicYearId=2025"
+              },
+              {
+                "title": "Design*",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e1c7e0a7-b923-4dff-aedc-a77895d7adc7?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/320714cf-ad4b-4556-97ec-c07abd390096?academicYearId=2025"
+              },
+              {
+                "title": "Glass",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6b609dde-44df-4a08-aeb1-64ab2a13e75d?academicYearId=2025"
+              },
+              {
+                "title": "Immersive Media",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7136a87c-f99a-4ba6-b0dc-133a664cf210?academicYearId=2025"
+              },
+              {
+                "title": "Museum Studies",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/39750491-d500-407c-8000-7ee5fd27dd67?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Arts%20University%20Plymouth",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "25 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Communication Design*",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0d44ba71-dab1-48c4-9d34-8209e7ac91fd?academicYearId=2025"
+              },
+              {
+                "title": "Craft and Material Practices",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e700c14-13a0-499b-900e-797054572d03?academicYearId=2025"
+              },
+              {
+                "title": "Design (Built Environment)*",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/30062f49-83d7-4e6b-a7d9-0b19390c71b3?academicYearId=2025"
+              },
+              {
+                "title": "Design (Fashion)*",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/08082fe3-8134-44f1-993c-f8a2470c42e0?academicYearId=2025"
+              },
+              {
+                "title": "Design (Textiles)*",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0d94ca05-5e18-48d9-bcea-f18e51c22e85?academicYearId=2025"
+              },
+              {
+                "title": "Design*",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e1c7e0a7-b923-4dff-aedc-a77895d7adc7?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/320714cf-ad4b-4556-97ec-c07abd390096?academicYearId=2025"
+              },
+              {
+                "title": "Glass",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6b609dde-44df-4a08-aeb1-64ab2a13e75d?academicYearId=2025"
+              },
+              {
+                "title": "Immersive Media",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7136a87c-f99a-4ba6-b0dc-133a664cf210?academicYearId=2025"
+              },
+              {
+                "title": "Museum Studies",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Plymouth",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/39750491-d500-407c-8000-7ee5fd27dd67?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "International": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "If you aspire to launch a successful career in the creative industries anywhere in the world, there is no better place to start than at Arts University Plymouth, the top-scoring arts university in the UK (NSS 24, 23 & 22).",
+        "Plymouth is a city of beautiful coastline and countryside, with great nightlife, shopping, cultural and historic sites. With affordable accommodation and a safe, friendly environment, it’s not surprising that more than 20,000 students have chosen to make Britain’s Ocean City their home.",
+        "Plymouth has great transport links to London (approx 3hrs by train) and to the Midlands, the North of England and Scotland via Cross Country Trains. National Express and other coach services offer affordable travel to locations such as Bristol, London, Manchester, and direct to airports including Heathrow.",
+        "Become an international student at Arts University Plymouth and you will join a diverse, fun, creative community with the same goal: success in the creative industries.",
+        "The UK has a world-renowned reputation for excellence in higher education and as a cultural and commercial hub for the arts: studying in the UK exposes students to the influencers shaping the creative industries internationally. Choosing Arts University Plymouth for your studies means you will gain a globally recognised qualification, and professional experience that will set you apart from other graduates.",
+        "We welcome students from all over the world to share ideas and practice, and we encourage our students to explore global opportunities and horizons. We use our onsite public exhibition space, MIRROR, to showcase international artists, and we welcome guest lecturers from overseas at every opportunity, as well as curating, publishing and exhibiting abroad. We arrange exchange programmes and research opportunities with our partners in North America, China and Europe.",
+        "Apply now",
+        "We review international applicants’ qualifications on a case-by-case basis and assist you through every stage of the application process. We can also offer online pre-sessional English courses to support those applicants who do not meet the direct English entry requirements. For information about our international fees, scholarships, qualification requirements, English language requirements and other support, visit aup.ac.uk/international or email international@aup.ac.uk"
+      ]
+    },
+    "StudentSupport": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Student support",
+      "paragraphs": [
+        "The university offers a variety of free in-house services during your studies through the Student Support team, which focuses on services such as counselling, wellbeing, and learning disability support.",
+        "Students can be referred by their tutors or self-refer for these specific types of assistance through Student Support.",
+        "Alongside our Student Support services, the university provides a range of other essential services including library resources, academic skills development, IT support, technical assistance, and guidance related to employment and careers. Our Library, Academic Skills, and Learning Technologies teams offer personalised 1:1 support and group sessions across a broad range of topics, including accessibility tools, time management, critical reading and note-taking, turning reading/research into writing, writing (reflective, critical, and academic writing), hidden talents of dyslexia, dissertations, referencing, researching, confidence, and presentation skills. The vast majority of material covered is also available online in video format, together with further supporting information also online.",
+        "It’s important to note that while Student Support concentrates on specific areas, these additional university services contribute to your overall academic and personal development."
+      ]
+    }
+  }
+}

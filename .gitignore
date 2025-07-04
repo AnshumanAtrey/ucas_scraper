@@ -1,9 +1,6 @@
 # Node modules
 node_modules/
 
-# Output and generated files
-output/
-
 # Example HTML and test data
 /dom_examples/
 

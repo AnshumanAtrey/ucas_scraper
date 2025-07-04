@@ -1,0 +1,3603 @@
+{
+  "id": "UK0016",
+  "slug": "edge-hill-university",
+  "scrapedAt": "2025-07-04T15:43:43.544Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "International",
+    "StudentSupport"
+  ],
+  "pages": {
+    "About": {
+      "name": "Edge Hill University",
+      "location": "Ormskirk",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/ehu-18.jpg",
+      "about": "At Edge Hill University, we’ve been inspiring minds and changing futures since 1885. We help students embark on inspirational journeys, expanding their knowledge and creating lifelong friendships. Whatever you study, we invest in your future and provide you with the tools you need to succeed.\nLocated in Lancashire, close to Liverpool and Manchester, we’ve created a diverse environment where our students can live, learn, and belong—recognised in the Complete University Guide as a Top 4 University in the North West (2025).\nLecture halls are equipped with everything you need, and our high-quality teaching brings subjects to life. If you're moving away for the first time, our on-campus accommodation provides a home away from home within easy reach of study and social spaces - ranked 1st in the UK by students (Uni Compare, 2025).\nRecently rated an Ofsted 'Outstanding' provider, you'll be taught by research-active staff who are experts in their field, ensuring you reach your full potential.",
+      "whatMakesUsDifferent": "What makes us different is our purpose. For us, our purpose has always been about much more than education. It’s about creating access to knowledge, because we know out of knowledge comes opportunity.  The kind of opportunity that opens doors to change, empowering you to imagine a different future. Not just for yourself, but for wider society too.\nA future in which you can go out into the world sharing new ideas with energy and integrity to inspire those around you and make a difference. That’s why we challenge ourselves to deliver the highest quality teaching and learning resources. Expanding knowledge through exceptional research and scholarship opportunities to enhance lives and unlock potential. So when you’ve graduated with us you won’t just go on to do great things. You’ll go on to inspire others.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image1.jpg?itok=n6RMBnAf",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image2.jpg?itok=Wrt7wxQh",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image3.jpg?itok=G3fpWukH",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image4.jpg?itok=42DLUKk_",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image5.jpg?itok=HCG9DFZR",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image6.jpg?itok=BQ_jdpzj",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image7.jpg?itok=9GRjVFiy",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image8.jpg?itok=UklXQWtk",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image9.jpg?itok=r-i3p9nS",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image10.jpg?itok=4-T27FNH",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image1.jpg?itok=n6RMBnAf",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image2.jpg?itok=Wrt7wxQh",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image3.jpg?itok=G3fpWukH",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image4.jpg?itok=42DLUKk_",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image5.jpg?itok=HCG9DFZR",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image6.jpg?itok=BQ_jdpzj",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image7.jpg?itok=9GRjVFiy",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image8.jpg?itok=UklXQWtk",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image9.jpg?itok=r-i3p9nS",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/ucas_image10.jpg?itok=4-T27FNH"
+      ],
+      "website": "https://www.edgehill.ac.uk/discover/?utm_source=ucas&utm_medium=profile&utm_campaign=always_on_ug",
+      "email": "study@edgehill.ac.uk",
+      "phone": "01695 657000",
+      "metaLabels": [
+        "Location: Town, Rural"
+      ],
+      "courseLocations": [
+        {
+          "title": "Ormskirk (Main Campus)",
+          "address": "St Helens Road, Ormskirk, L39 4QP"
+        },
+        {
+          "title": "St James’ Manchester",
+          "address": "St James', 79 Oxford Street, Manchester, M1 6EG"
+        },
+        {
+          "title": "Main Site",
+          "address": "St Helens Road, Ormskirk, L39 4QP"
+        },
+        {
+          "title": "Wrightington Hospital",
+          "address": "Hall Lane, Appley Bridge, Wigan, WN6 9EP"
+        },
+        {
+          "title": "Liverpool Heart and Chest Hospital",
+          "address": "Thomas Drive, Liverpool, L14 3PE"
+        },
+        {
+          "title": "Holy Cross College",
+          "address": "Manchester Road, Bury, BL9 9BB"
+        }
+      ],
+      "openDays": [
+        {
+          "title": "Edge Hill University - Open Day event",
+          "date": "4 Jul 2025, 15:30 • Undergraduate",
+          "location": "Ormskirk"
+        },
+        {
+          "title": "Edge Hill University - Open Day event",
+          "date": "5 Jul 2025, 15:30 • Undergraduate",
+          "location": "Ormskirk"
+        },
+        {
+          "title": "Edge Hill University - Open Day event",
+          "date": "16 Aug 2025, 15:30 • Undergraduate",
+          "location": "Ormskirk"
+        },
+        {
+          "title": "Edge Hill University - Open Day event",
+          "date": "18 Oct 2025, 15:30 • Undergraduate",
+          "location": "Ormskirk"
+        },
+        {
+          "title": "Edge Hill University - Open Day event",
+          "date": "15 Nov 2025, 15:30 • Undergraduate",
+          "location": "Ormskirk"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Town, Rural"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "70%"
+            },
+            {
+              "label": "Male",
+              "value": "30%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "95%"
+            },
+            {
+              "label": "EU Students",
+              "value": "0%"
+            },
+            {
+              "label": "International",
+              "value": "4%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "81%"
+            },
+            {
+              "label": "Part-time",
+              "value": "19%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "48%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "52%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "27%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "73%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Town, Rural"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Friends for life. Life lessons. Finding your passions. Finding yourself. We know what student life is all about. And it’s the people around you who help make the experience one you’ll never forget. That’s why there’s always something happening on campus. From sport competitions to film screenings, live theatre to society socials.",
+        "Get out your comfort zone and try something new. Find friends with the same interests as you through our Students’ Union or meet others who share your voice for the greater good. Our on-campus bar and nightclub is also a great place to catch up with friends and make new ones, or you can venture into Ormskirk town centre or catch a train to Liverpool to soak up its culture and nightlife.",
+        "As a University for everyone, it won’t take you long to find your place. We’re proud of nurturing a community where people feel safe to be themselves. An environment that celebrates diversity, inclusivity and equality. Where you can be you."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-506624251-n-west-header.jpg?itok=g0253Flq",
+          "heading": "What's it like to live in North West?Check out our region guide",
+          "paragraphs": [
+            "The North West is made up of Cheshire, Cumbria, Greater Manchester, Lancashire, and Merseyside. Its two biggest cities, Liverpool and Manchester, are global landmarks in music and football history.",
+            "The region was the heart of the industrial revolution – at one time, Lancashire produced half the world’s cotton. Many architectural reminders of this era remain, like Liverpool’s Royal Albert Docks and Chester's Victorian centre.",
+            "The stunning Lake District – home to England’s highest peak, Scafell Pike – needs no filters, while Blackpool is a seaside adventure."
+          ],
+          "link": "https://www.ucas.com/study-in/north-west"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "Look around our 160-acre campus and you’ll soon see why it’s award-winning. We’ve invested more than £350m over the last decade to create a space that’s not just a great place to live, study and socialise but is inspiring to be around.",
+        "With everything in one place, you’ll never be far from where you need to be. Having over 2,000 halls of residence rooms on campus means you can walk to your lectures, the library, the Sports Centre, the SU, our cafes, beach and social spaces, or access support services within minutes. And when you do need to leave campus, Ormskirk town centre is just a 10-minute walk away, or free shuttle bus journey. Our central North West location means major cities and natural beauty spots can be found on your doorstep too.",
+        "So if you’re moving away from home for the first time, there’s no better place to be. Feel independent but safe living at the heart of our stunning campus with rooms to fit every need and budget, guaranteed to first-year undergraduates."
+      ],
+      "courseLocations": [
+        {
+          "title": "Ormskirk (Main Campus)",
+          "address": "St Helens Road, Ormskirk, L39 4QP"
+        },
+        {
+          "title": "St James’ Manchester",
+          "address": "St James', 79 Oxford Street, Manchester, M1 6EG"
+        },
+        {
+          "title": "Main Site",
+          "address": "St Helens Road, Ormskirk, L39 4QP"
+        },
+        {
+          "title": "Wrightington Hospital",
+          "address": "Hall Lane, Appley Bridge, Wigan, WN6 9EP"
+        },
+        {
+          "title": "Liverpool Heart and Chest Hospital",
+          "address": "Thomas Drive, Liverpool, L14 3PE"
+        },
+        {
+          "title": "Holy Cross College",
+          "address": "Manchester Road, Bury, BL9 9BB"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Town, Rural"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "Dedicated to high-quality teaching, every building, every space and every course is geared towards helping you get the most out of your studies and developing the knowledge and skills employers want. Whether you want to create, simulate real scenarios, perform or experiment, our specialist facilities let you do just that. Facilities include the Clinical Skills and Simulation Centre, professional media studios, 3D CAVE, biology and geography labs, and a mock courtroom. That’s why we’re 2nd in the North West for Learning Resources (NSS, 2021).",
+        "We offer various foundation degrees, single and joint honours degrees and integrated Masters courses across a range of disciplines. All are future-focused offering work placements, sandwich years or study abroad opportunities, giving you the chance to apply what you’ve learned in the real world.  Many courses are accredited by professional bodies so you’ll be ready to meet the challenges that businesses and society are facing once you graduate."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "168 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Edge%20Hill%20University"
+          },
+          {
+            "mode": "Part-time",
+            "count": "9 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=Edge%20Hill%20University"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Edge%20Hill%20University",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "168 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f8b061d7-455c-74b4-7ad4-b04f942748d7?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4917db47-5512-1da0-4386-b13f84d87a27?academicYearId=2025"
+              },
+              {
+                "title": "Animation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/769e7a17-917d-b92d-b463-4dae3a998c37?academicYearId=2025"
+              },
+              {
+                "title": "Biochemistry",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf69fd09-c2c2-4748-88fd-8a5f4882e65f?academicYearId=2025"
+              },
+              {
+                "title": "Biology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b68595e9-05cd-31fd-21b9-f5647b8c03b3?academicYearId=2025"
+              },
+              {
+                "title": "Biology with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68974d36-c964-4c93-9250-0b46750e4fa3?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d40516af-397e-4a63-8b6a-8a8f137c04ef?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3b020000-97bf-4b7c-83f8-90387562ff3a?academicYearId=2025"
+              },
+              {
+                "title": "Biotechnology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06fa7d38-d86a-2e9f-17d6-d3afcebbdccf?academicYearId=2025"
+              },
+              {
+                "title": "Biotechnology with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7dc3b7b5-a9be-450b-85db-e1f7905b30a0?academicYearId=2025"
+              },
+              {
+                "title": "Business Analytics",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68978821-eb6d-4f20-aa9d-b7e3b3eed342?academicYearId=2025"
+              },
+              {
+                "title": "Business and Economics",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0d50b92e-6337-9dcd-a340-923f4fa2adfe?academicYearId=2025"
+              },
+              {
+                "title": "Business and Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/283c7b2a-3359-4c7a-b16b-41b1eb9db795?academicYearId=2025"
+              },
+              {
+                "title": "Business and Marketing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4c49dc9f-f9a3-9ecf-1c5c-8a8bc21f1e83?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/78451815-0a16-58e0-baf1-ed44d51bbad7?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4c08d740-114f-4233-98d7-7f60163b513a?academicYearId=2025"
+              },
+              {
+                "title": "Chemistry",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/595e3223-983a-48fc-bd50-9580bf2f4f6c?academicYearId=2025"
+              },
+              {
+                "title": "Chemistry",
+                "qualification": "MChem (H)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dabd16bb-2cc4-499c-a76b-84573b6ad3b0?academicYearId=2025"
+              },
+              {
+                "title": "Child & Adolescent Mental Health & Wellbeing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/94f8787f-bf2d-47ae-bc4b-abcb9e19d99c?academicYearId=2025"
+              },
+              {
+                "title": "Childhood & Youth Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8670d0ff-d108-7345-3519-a0e1b5fd0100?academicYearId=2025"
+              },
+              {
+                "title": "Childhood & Youth Studies and Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9652a2ea-b9df-7cf3-c0a4-637981aee622?academicYearId=2025"
+              },
+              {
+                "title": "Computer Engineering",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/61797da7-ca6a-40f8-a3a1-42fba3a093f5?academicYearId=2025"
+              },
+              {
+                "title": "Computer Engineering with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/58259044-8f32-45d7-8277-d7850e5d75b5?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f6a8a348-1f4e-c4d3-de6c-3c72bcbf2e09?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science & Artificial Intelligence",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91f299ff-d5de-4067-a2a8-c6ad17f71326?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science & Artificial Intelligence with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c795aa03-ff84-4941-a864-e490246917cc?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d43143c-9692-4072-b4c9-41097c113d76?academicYearId=2025"
+              },
+              {
+                "title": "Computing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/32fb5983-2d6b-cc80-bdd4-9ab3834adf40?academicYearId=2025"
+              },
+              {
+                "title": "Computing (Games Programming)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1828cf66-5f17-5cf2-948d-11c6c064745e?academicYearId=2025"
+              },
+              {
+                "title": "Computing (Games Programming) with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/047841a4-1e7a-44a7-868b-e85dba8fe154?academicYearId=2025"
+              },
+              {
+                "title": "Computing (Networks, Cyber Security and Forensics)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ed16599d-7ef7-d770-9bed-18d4f151d191?academicYearId=2025"
+              },
+              {
+                "title": "Computing (Networks, Cyber Security and Forensics) with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/509071cc-a451-4026-8705-0f104ff86bc2?academicYearId=2025"
+              },
+              {
+                "title": "Computing with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e4481653-a06f-4f10-9c6a-b06857f2569b?academicYearId=2025"
+              },
+              {
+                "title": "Counselling and Psychotherapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/db217c26-0c57-4716-8522-5023e3413dc9?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ebf882ab-8499-d86e-695b-cd16c1406362?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing and English Literature",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/847cfcbb-2a8f-2dd7-8b26-0986b529628f?academicYearId=2025"
+              },
+              {
+                "title": "Criminal Justice",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1bd13f81-c0bf-cc8c-397a-65c4cd5e2fa8?academicYearId=2025"
+              },
+              {
+                "title": "Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f41b3d19-f0b4-2342-2cfb-7d4c7a9e0da1?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Law",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7d47ca82-ed82-1728-b705-7df65c40b178?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Psychology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7686ea54-e0b3-af99-08d0-78d24db70136?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6050503d-3b29-a8bf-3567-36640f80d85b?academicYearId=2025"
+              },
+              {
+                "title": "Dance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3ef281cb-c765-6d73-5f9f-8a0ebec40813?academicYearId=2025"
+              },
+              {
+                "title": "Drama",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d136a39-b70c-4c4b-4c93-6bdee158b81d?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3c6d9f13-bb7d-3cf5-e386-ef44c1421697?academicYearId=2025"
+              },
+              {
+                "title": "Ecology and Conservation",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e587a344-4741-3a24-4e2e-0cc9be60cc67?academicYearId=2025"
+              },
+              {
+                "title": "Ecology and Conservation with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d6841c13-6d48-43e5-8e28-32294bace907?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02725eed-2250-7c9a-2688-b45b747e6ea7?academicYearId=2025"
+              },
+              {
+                "title": "Education and History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/044fcf90-4497-44c1-a492-175a0fca598b?academicYearId=2025"
+              },
+              {
+                "title": "Education and Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/733d355d-15f9-4abc-8224-a731a8e5768e?academicYearId=2025"
+              },
+              {
+                "title": "Education and Special Educational Needs",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b33f446f-6428-4249-ad15-0fdac8eb0219?academicYearId=2025"
+              },
+              {
+                "title": "Education with Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/39d359fa-6bfe-4518-aabd-5dc4fddf0258?academicYearId=2025"
+              },
+              {
+                "title": "Educational Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/412c29e5-1c79-8e27-ff63-51570758d081?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a706a05d-c9f4-4afa-80a2-610e7eea4f82?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering with STEM Foundation Year",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7ddd2a22-af6e-4348-977f-daf6aa935d12?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering with STEM Foundation Year",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7909c0a7-780b-42fb-baa4-098a3ee28d37?academicYearId=2025"
+              },
+              {
+                "title": "Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b54a15e3-eadc-4e39-9578-ff2c32338aa7?academicYearId=2025"
+              },
+              {
+                "title": "English",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fe87eea1-68a2-f0c8-8b14-a3a820bfdc22?academicYearId=2025"
+              },
+              {
+                "title": "English Literature",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4a9b1dad-a8dd-0585-cd44-a2073ee7c49a?academicYearId=2025"
+              },
+              {
+                "title": "English with Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92b835e5-002c-4f6a-bcce-3acb7d747a0b?academicYearId=2025"
+              },
+              {
+                "title": "Film",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8bafbb7f-3c26-4f5a-852d-aa80a44c47c9?academicYearId=2025"
+              },
+              {
+                "title": "Film & Broadcast Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5d51c914-b071-4a88-8bcc-111259945499?academicYearId=2025"
+              },
+              {
+                "title": "Geography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/26e0b4f3-e282-f0a9-c47a-f22e33359643?academicYearId=2025"
+              },
+              {
+                "title": "Geography",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/58f583db-57d5-5021-8d48-46b5ab6b7d5f?academicYearId=2025"
+              },
+              {
+                "title": "Geography with Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3575a301-335f-4f6b-93da-2c4e26f37e04?academicYearId=2025"
+              },
+              {
+                "title": "Geography with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b8b619e-7014-4704-9952-34546904b2fb?academicYearId=2025"
+              },
+              {
+                "title": "Geology with Physical Geography",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60b36e89-c59b-af5f-51e0-fcdbf43aeadc?academicYearId=2025"
+              },
+              {
+                "title": "Geology with Physical Geography with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d44f7ae2-16ba-46ec-a3b0-c010d9a98fa0?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93ffa00f-841d-4e61-a854-52ae34905e41?academicYearId=2025"
+              },
+              {
+                "title": "History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e39fb5a5-0d62-daee-7014-bc7daea11e03?academicYearId=2025"
+              },
+              {
+                "title": "History and Politics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/86136212-0ec8-42c1-b512-a761ceb41283?academicYearId=2025"
+              },
+              {
+                "title": "History with Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02d2c509-b30b-479a-92e1-82f6fcf20c81?academicYearId=2025"
+              },
+              {
+                "title": "Information Technology Management for Business",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff4f6e0a-e7a4-fd25-6bef-c2aa4ac646c3?academicYearId=2025"
+              },
+              {
+                "title": "Information Technology Management for Business with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/30c70e3f-8a09-47c5-8307-bfb0b1edea6b?academicYearId=2025"
+              },
+              {
+                "title": "Integrated Health and Social Care",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/44689e09-a15f-401e-8df3-6105269c2f68?academicYearId=2025"
+              },
+              {
+                "title": "International Business",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6641bcb1-5e60-6d11-6beb-e529bfb16842?academicYearId=2025"
+              },
+              {
+                "title": "Law",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92f881d2-942b-da4f-38e0-da6572894168?academicYearId=2025"
+              },
+              {
+                "title": "Law and Business",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/607f4332-49e0-4ff3-b73a-6058981fa7ca?academicYearId=2025"
+              },
+              {
+                "title": "Law with Criminology",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/461f85bc-e1b9-74da-51a8-4fea473e7aaa?academicYearId=2025"
+              },
+              {
+                "title": "Law with Politics",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b3a69576-219f-01e9-2fe4-a3f1b0837202?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/da7687b8-7c60-180e-2442-0ba1033bfeac?academicYearId=2025"
+              },
+              {
+                "title": "Mathematics",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/654ed37d-4fe9-4350-89e0-a5011abbafe5?academicYearId=2025"
+              },
+              {
+                "title": "Mathematics with a foundation year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d20be0d7-6373-4177-b321-175b98b79db6?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/df1af6fc-4d31-43c2-8174-c62cd7208011?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5dce9157-ab50-4d84-903b-d8fc25e71b4b?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering with STEM Foundation Year",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ddd2c178-2a0b-4ccf-8b7b-ffa180a84a1c?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering with STEM Foundation Year",
+                "qualification": "BEng",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6c9ea31f-3c19-4291-84e3-ffc28a491833?academicYearId=2025"
+              },
+              {
+                "title": "Media",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c42a70f3-9911-4a75-b8bf-0ea91927bfbd?academicYearId=2025"
+              },
+              {
+                "title": "Media with Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/63838b68-e0a7-4c5c-97ad-5f53a9a6ebdd?academicYearId=2025"
+              },
+              {
+                "title": "Medicine with Foundation Year (6 years)",
+                "qualification": "MB ChB",
+                "duration": "6 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aa4a3ef2-578b-4210-8104-3d5cac5d53e9?academicYearId=2025"
+              },
+              {
+                "title": "Music Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/edd37903-d7c3-548b-303c-b26e8cda5883?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e2457d2-4dfc-e7e7-dba6-7e33d2639bab?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult and Child)",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8b4dfec3-5422-4346-a0c9-2e99a536b226?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult and Learning Disabilities)",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a5843c59-75dd-4ea3-99c3-13157350d8e3?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult and Mental Health)",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/85d5f391-7d1d-48c0-a666-8730bddc6d11?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e49ed02c-bdcc-4612-71eb-26a3c6393fda?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Child and Learning Disabilities)",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8a4d81a-713d-44e3-a8bd-252426f5f12a?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Child)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/03e8d99b-1502-0779-0fae-6a5ac21b4dce?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Learning Disabilities)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6f7641e0-90bc-e3de-a4ba-2bc134e252e8?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health and Child)",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d77508fe-96b9-40ef-8d05-47f885538f1e?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health and Learning Disabilities)",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c85b9f6d-197a-4153-b36e-6c09d6879aaa?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c508455a-0696-ac55-c388-95621ecb9f3b?academicYearId=2025"
+              },
+              {
+                "title": "Nursing Associate",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "32",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/441035f0-07ad-435e-b383-cf09b3ab304d?academicYearId=2025"
+              },
+              {
+                "title": "Nutrition & Health",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60bea304-15e7-cea4-293a-199d3c375663?academicYearId=2025"
+              },
+              {
+                "title": "Operating Department Practice",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0736838d-8147-ab10-a41a-f1fd43bce4e1?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education & School Sport",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1dc2f06b-82fc-9cfc-2d7d-c50f42a45ebe?academicYearId=2025"
+              },
+              {
+                "title": "Physician Associate Studies (Postgraduate)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/05795ab4-bee1-4c9a-9c13-df52d86207a9?academicYearId=2025"
+              },
+              {
+                "title": "Physics with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d9c7148c-e594-4ead-b32a-5b739ea2068d?academicYearId=2025"
+              },
+              {
+                "title": "Plant Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c6282057-6b0c-40d3-8ad2-3abc791c7b35?academicYearId=2025"
+              },
+              {
+                "title": "Plant Science with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1af17800-5786-40a3-9261-e0dc505994d0?academicYearId=2025"
+              },
+              {
+                "title": "Politics & International Relations",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d5cbf0b0-0254-41d2-b2b4-31b210745a52?academicYearId=2025"
+              },
+              {
+                "title": "Primary Early Years Education with QTS",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a689daa3-e10f-9682-e8a0-cd07e24357bb?academicYearId=2025"
+              },
+              {
+                "title": "Primary Education with QTS",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7241d9d-4b1a-9ec0-badd-37456f036e8c?academicYearId=2025"
+              },
+              {
+                "title": "Professional Policing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff41e8c5-447a-44c5-a6a3-ad95fce1bf3d?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8e6de0f1-0f7b-13f2-bb3a-29c05cbed75e?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Clinical and Health Perspectives",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47c4c329-c3cf-46a1-8975-826463d3cd57?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Forensic Perspectives",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/21d60819-d10f-4b6e-bce1-baaa049a99ad?academicYearId=2025"
+              },
+              {
+                "title": "Robotics & Artificial Intelligence",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb4cde47-2453-4bfb-8b12-5313592a8255?academicYearId=2025"
+              },
+              {
+                "title": "Robotics & Artificial Intelligence with STEM Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60a54caf-d051-43bd-b534-83950bcca6f0?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1dfac93-83ca-49be-447a-85eb90c6151e?academicYearId=2025"
+              },
+              {
+                "title": "Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f56414d7-a22f-0e69-07b0-608df672b1f7?academicYearId=2025"
+              },
+              {
+                "title": "Sociology with Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be1db960-4eac-4b8a-b8a9-b2de3b52c5ab?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3019a100-9e70-48a8-8dc7-dd74f535b3d0?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering with Stem Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "72-96",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92ffbc24-7355-4ced-ad4c-60a17d541a39?academicYearId=2025"
+              },
+              {
+                "title": "Sport & Exercise Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71265ebe-4e3f-3d50-594c-bd9875fb86cb?academicYearId=2025"
+              },
+              {
+                "title": "Sport & Exercise Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6617ca4f-2226-f7bd-4919-1c0e5ef7d02b?academicYearId=2025"
+              },
+              {
+                "title": "Sport, Health and Exercise Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c2407c4e-5b3c-44df-9a22-6cb655730fd9?academicYearId=2025"
+              },
+              {
+                "title": "Sports Business Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4e7ae1c1-c307-498d-b43d-c8a064274a5c?academicYearId=2025"
+              },
+              {
+                "title": "Sports Coaching",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3da4abd6-1723-46de-8981-a09fbe494e0f?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/99ecb50d-f89f-e3f8-0341-424a530a82fb?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=Edge%20Hill%20University",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "9 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Chemistry",
+                "qualification": "MChem (H)",
+                "duration": "5 to 8 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dabd16bb-2cc4-499c-a76b-84573b6ad3b0?academicYearId=2025"
+              },
+              {
+                "title": "Educational Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/412c29e5-1c79-8e27-ff63-51570758d081?academicYearId=2025"
+              },
+              {
+                "title": "Integrated Health and Social Care",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Part-time day",
+                "startDate": "09/2025",
+                "ucasPoints": "104-112",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/44689e09-a15f-401e-8df3-6105269c2f68?academicYearId=2025"
+              },
+              {
+                "title": "Law and Business",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/607f4332-49e0-4ff3-b73a-6058981fa7ca?academicYearId=2025"
+              },
+              {
+                "title": "Mathematics",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/654ed37d-4fe9-4350-89e0-a5011abbafe5?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Clinical and Health Perspectives",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47c4c329-c3cf-46a1-8975-826463d3cd57?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Forensic Perspectives",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/21d60819-d10f-4b6e-bce1-baaa049a99ad?academicYearId=2025"
+              },
+              {
+                "title": "Sport & Exercise Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71265ebe-4e3f-3d50-594c-bd9875fb86cb?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=Edge%20Hill%20University"
+          },
+          {
+            "mode": "Full-time",
+            "count": "84 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Edge%20Hill%20University"
+          },
+          {
+            "mode": "Part-time",
+            "count": "75 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Edge%20Hill%20University"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=Edge%20Hill%20University",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Applied Management of Offending Behaviour",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/466adc87-4dcb-42d5-8d4a-1490779a49f0?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Edge%20Hill%20University",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "84 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Applied Sport & Exercise Science",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fc657b1b-cd01-4639-9f66-aa0bdb03dba0?academicYearId=2025"
+              },
+              {
+                "title": "Artificial Intelligence, Digital and Cyber Law",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a6d81506-12f3-473d-b2d1-c0baae286e83?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5296c2c8-e995-4694-87a4-db1c453e6d0b?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5cd38211-e3c3-4302-98b0-a0474a6faeb6?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5f567cde-e4c1-4f83-8ee7-dc40683c6c74?academicYearId=2025"
+              },
+              {
+                "title": "Child & Adolescent Mental Health & Wellbeing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6163d820-08d3-466a-8c8c-2a624c20fd4b?academicYearId=2025"
+              },
+              {
+                "title": "Child and Adolescent Mental Health and Wellbeing",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b0250610-6598-4c13-b57b-45b404c7c41a?academicYearId=2025"
+              },
+              {
+                "title": "Computing",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7915221-319a-4e7a-a17b-82a47625cbb6?academicYearId=2025"
+              },
+              {
+                "title": "Conservation Management",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/65572e28-b53f-4381-bf3f-8d758f88f441?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9b097d5-def9-48f2-9efc-32491a440611?academicYearId=2025"
+              },
+              {
+                "title": "Criminal Intelligence & Data Analysis",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/267659e6-f6da-44fc-a198-ec394aa8fb75?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/943668d4-f726-4d04-a1af-8854d72f72c1?academicYearId=2025"
+              },
+              {
+                "title": "Data Science & Artificial Intelligence",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6d76f17d-3265-4aba-8a38-bfe67aa86147?academicYearId=2025"
+              },
+              {
+                "title": "Doctor of Philosophy",
+                "qualification": "PhD",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4061508a-cb4b-478f-a40a-54d7a437f0e3?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b9542da-2a65-4b9d-8a4b-c28ce63e5102?academicYearId=2025"
+              },
+              {
+                "title": "Education (Children and Young People's Mental Health)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73febb15-5da4-433e-b6c6-d5f67ba4b90f?academicYearId=2025"
+              },
+              {
+                "title": "Education (Curriculum Design)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/644f4340-0190-4518-b9f1-8105159ea39c?academicYearId=2025"
+              },
+              {
+                "title": "Education (Early Years)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/384a5f0a-ca9d-4ba7-8efb-6b4859fa555a?academicYearId=2025"
+              },
+              {
+                "title": "Education (Evidence Informed Practice)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bec7d0ce-cc11-4f8b-946b-68f06c3e3460?academicYearId=2025"
+              },
+              {
+                "title": "Education (Leadership)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/baf1169b-3797-4c70-8279-be29952df218?academicYearId=2025"
+              },
+              {
+                "title": "Education (Special Educational Needs)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dcad6179-206e-4173-910a-488633ddca01?academicYearId=2025"
+              },
+              {
+                "title": "Education (Teacher Education)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b15c82c9-cb86-4c48-a2a2-95d0fb02901b?academicYearId=2025"
+              },
+              {
+                "title": "Film and Media",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7812de4-65de-4df9-beb8-29bd1f9baeed?academicYearId=2025"
+              },
+              {
+                "title": "Further Education and Skills",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/476dea44-ccc6-417e-8f2c-2490c38251a4?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91648b03-b252-4fe7-89eb-691291ac8c21?academicYearId=2025"
+              },
+              {
+                "title": "Integrated Palliative & End of Life Care",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0a147758-1137-4ccb-a3dc-685d9435adc0?academicYearId=2025"
+              },
+              {
+                "title": "International Creative Enterprise",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8914bf1-1ea4-461c-b864-6f9863d2dd74?academicYearId=2025"
+              },
+              {
+                "title": "Marketing Communications and Branding",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d81b56c6-7d7a-48ce-ad7f-c4f223b27dfb?academicYearId=2025"
+              },
+              {
+                "title": "Masters by Research",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b0be51e1-98ab-4e0e-a2a2-bcb164c1520f?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9860cc9c-02a6-4104-9e17-dddb52d83567?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration (Finance)",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8a639b9d-9bd1-4894-a9f8-058572e3e588?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration (Human Resource Management)",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01d9e044-3cb9-45b8-a4e2-23fe5bc5328f?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration (Marketing)",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02394ef4-3399-47d5-92a5-880493bac277?academicYearId=2025"
+              },
+              {
+                "title": "Midwifery",
+                "qualification": "MSc (PG)",
+                "duration": "20 months",
+                "studyMode": "Full-time",
+                "startDate": "04/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c92fdac1-2ffe-4f58-b44d-062cc66781fe?academicYearId=2025"
+              },
+              {
+                "title": "Nineteenth-Century Studies",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71bbc352-ec0d-42a6-89e4-92c38bc87f8c?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/175607d9-2d5d-4f5a-910e-40600522ff73?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult)",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9f881409-b36c-4660-aa34-373f3bb81e05?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Child)",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4070f0aa-086f-441c-b112-ad6c58456326?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Child)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e979dab8-251b-461c-a6d7-1cbeedfcc676?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Learning Disabilities)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6481d867-dfb8-421a-9108-09e6c62c6f41?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Learning Disabilities)",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f3f6d1c7-9fa2-4d1c-91a8-0793bb15d0fd?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health)",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/326427c5-9abc-44f8-96f8-7e83a21bde87?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/847b28b5-4928-4803-b0c8-aee7d4821f39?academicYearId=2025"
+              },
+              {
+                "title": "Person Centred Experiential Counselling and Psychotherapy",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cd7da4f-bf21-414e-bf73-0d71752b31f8?academicYearId=2025"
+              },
+              {
+                "title": "Person-Centred Experiential Counselling and Psychotherapy",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/65b967c5-6e59-4acc-9138-e21acbe75d2b?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Primary Early Years Education with QTS",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/36c68755-0d04-4215-8202-27005e17edd7?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Primary Education with QTS",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e787bb81-f309-4af9-8485-8b5096d52ced?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Primary Mathematics Specialist with QTS",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/041ff908-ad5b-4e95-a7e2-bf65f2fe54b1?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Primary Physical Education Specialist with QTS",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3c8110c-4835-437d-a7a0-9611fdbb8dba?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Computing with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0f0ca461-453c-4dcf-a96e-2706c95fc176?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary English with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf8f8346-50ee-4af9-8313-75b6958111df?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Geography with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/86ddf7b7-8ad1-4d6c-ac18-0a370aeaf20b?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary History with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f5f31cfd-5c0f-4b77-89f7-41f5d4afef19?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Mathematics with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f69a9d00-c3a7-4dc0-8e27-dedca98de06d?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Physical Education with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8e4add3-dc72-4743-8f2d-588deeb0cee8?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Religious Education with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8ba441ca-40a0-4ec4-8a79-a83e662c8bc0?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Science (Biology) with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/55105e0c-8b61-4409-8462-3bbb8abdd317?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Science (Chemistry) with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70ea2691-bbd3-4d62-9450-7c2300d5e245?academicYearId=2025"
+              },
+              {
+                "title": "PGCE Secondary Science (Physics) with QTS (11-16)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3e20a177-a480-4a02-8193-0a2f048f4318?academicYearId=2025"
+              },
+              {
+                "title": "PGCert Integrated Palliative & End of Life Care",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76deaaaa-b775-40e3-b0f8-9519f005fbc1?academicYearId=2025"
+              },
+              {
+                "title": "Policing and Law Enforcement Investigation",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/07fc08e8-dd61-46c2-b1ea-35c2366fdb0c?academicYearId=2025"
+              },
+              {
+                "title": "Postgraduate Research Pre-Sessional",
+                "qualification": "No award",
+                "duration": "4 weeks",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01ab67fb-4ddb-48e4-850d-b6d2b9e6d8ce?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (Conversion)",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2cf490d9-42a8-46d3-901c-0ffb43072bde?academicYearId=2025"
+              },
+              {
+                "title": "Psychotherapy and Counselling – Contemporary Creative Approaches",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a59637cd-4052-4669-95f0-b34b76ca1fd2?academicYearId=2025"
+              },
+              {
+                "title": "Public Health Nutrition",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/068a6d98-6056-4cae-8289-0fc6863d66f6?academicYearId=2025"
+              },
+              {
+                "title": "Social Sciences (Critical Autism Studies)",
+                "qualification": "PgCert",
+                "duration": "3 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e9017cbd-f13f-42db-a2e3-309599643451?academicYearId=2025"
+              },
+              {
+                "title": "Social Sciences (Critical Autism Studies)",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37f96b78-6929-42a2-8424-8b8b740019cc?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ba3d68a4-c492-43c5-9755-1eb6e9199f5a?academicYearId=2025"
+              },
+              {
+                "title": "Sport, Physical Activity and Mental Health",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f1ff5724-a6cd-4358-ab3c-3768ef852d41?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad141516-f2af-4860-886e-94b6d5daf6d7?academicYearId=2025"
+              },
+              {
+                "title": "SQE/Legal Practice",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3cad7107-26bf-4996-939f-fe19370c895f?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Biology",
+                "qualification": "No award",
+                "duration": "16 weeks",
+                "studyMode": "Full-time",
+                "startDate": "04/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2df460d8-d665-417f-88ec-84c6d70011ca?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Chemistry",
+                "qualification": "No award",
+                "duration": "20 weeks",
+                "studyMode": "Full-time",
+                "startDate": "03/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c10112f8-6980-4a1f-8a3b-0204b354db76?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Computing",
+                "qualification": "No award",
+                "duration": "8 weeks",
+                "studyMode": "Full-time",
+                "startDate": "07/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f5157fbf-75ad-4de1-991e-3f2e1ab4d153?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement English",
+                "qualification": "No award",
+                "duration": "8 weeks",
+                "studyMode": "Full-time",
+                "startDate": "08/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/da50a693-cdd5-4458-b9c0-2ae4e13629d6?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Mathematics",
+                "qualification": "No award",
+                "duration": "8 weeks",
+                "studyMode": "Full-time",
+                "startDate": "05/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8704f86b-491a-4682-ad9f-ba8840959f5c?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Mathematics (Primary Mathematics Specialist)",
+                "qualification": "No award",
+                "duration": "8 weeks",
+                "studyMode": "Full-time",
+                "startDate": "06/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/45f9d87c-50d0-4db2-b4eb-c89d8736484e?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Physics",
+                "qualification": "No award",
+                "duration": "20 weeks",
+                "studyMode": "Full-time",
+                "startDate": "04/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/19b6d33c-98a5-4f32-ba56-0cc0446a44ca?academicYearId=2025"
+              },
+              {
+                "title": "Subject Knowledge Enhancement Religious Education",
+                "qualification": "No award",
+                "duration": "8 weeks",
+                "studyMode": "Full-time",
+                "startDate": "08/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37f00149-3c46-402e-985a-d94a18aa80e5?academicYearId=2025"
+              },
+              {
+                "title": "Surgical Care Practice",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "St James’ Manchester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/173777fe-2f2a-4cdc-9eb7-f4768aa36b80?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Leadership and Management",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/529224e8-cb14-4c7d-bc94-bb611daff492?academicYearId=2025"
+              },
+              {
+                "title": "TESOL (Teaching English to Speakers of Other Languages)",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8e9d5775-7030-4362-8374-47c92f708e08?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Edge%20Hill%20University",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "75 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Advanced Cardiothoracic Care",
+                "qualification": "PgCert",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Liverpool Heart and Chest Hospital",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b86c535f-44a0-4c06-a582-3cdd038ef8d2?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Clinical Practice",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb683a4d-7cfb-44ba-b6eb-59e4a4bc9f5a?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Clinical Practice (Learning Disability and/or Autism)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f074a6ae-8f7f-4dd4-9424-41dbe254919d?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Clinical Practice Apprenticeship",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e40e824c-850f-4b28-9b4e-6364986b10c0?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Critical Care",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Liverpool Heart and Chest Hospital",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7afbd86b-16a3-4a08-8d78-406825331a66?academicYearId=2025"
+              },
+              {
+                "title": "Applied Sport & Exercise Science",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fc657b1b-cd01-4639-9f66-aa0bdb03dba0?academicYearId=2025"
+              },
+              {
+                "title": "Artificial Intelligence, Digital and Cyber Law",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a6d81506-12f3-473d-b2d1-c0baae286e83?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5cd38211-e3c3-4302-98b0-a0474a6faeb6?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5296c2c8-e995-4694-87a4-db1c453e6d0b?academicYearId=2025"
+              },
+              {
+                "title": "Child & Adolescent Mental Health & Wellbeing",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6163d820-08d3-466a-8c8c-2a624c20fd4b?academicYearId=2025"
+              },
+              {
+                "title": "Child and Adolescent Mental Health and Wellbeing",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b0250610-6598-4c13-b57b-45b404c7c41a?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Professional Development",
+                "qualification": "PgDip",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/82e13e50-fa72-425c-a422-d33dc5c0f01e?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Professional Development",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/447eb48f-84e9-4b84-8346-c81ff4dfbb18?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Professional Development",
+                "qualification": "PgCert",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a31f2c05-6d0f-401a-b6a6-163d56737b56?academicYearId=2025"
+              },
+              {
+                "title": "Computing",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7915221-319a-4e7a-a17b-82a47625cbb6?academicYearId=2025"
+              },
+              {
+                "title": "Conservation Management",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/65572e28-b53f-4381-bf3f-8d758f88f441?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9b097d5-def9-48f2-9efc-32491a440611?academicYearId=2025"
+              },
+              {
+                "title": "Criminal Intelligence & Data Analysis",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/267659e6-f6da-44fc-a198-ec394aa8fb75?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/943668d4-f726-4d04-a1af-8854d72f72c1?academicYearId=2025"
+              },
+              {
+                "title": "Data Science & Artificial Intelligence",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6d76f17d-3265-4aba-8a38-bfe67aa86147?academicYearId=2025"
+              },
+              {
+                "title": "Doctor of Philosophy",
+                "qualification": "PhD",
+                "duration": "4.5 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4061508a-cb4b-478f-a40a-54d7a437f0e3?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b9542da-2a65-4b9d-8a4b-c28ce63e5102?academicYearId=2025"
+              },
+              {
+                "title": "Education (Children and Young People's Mental Health)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73febb15-5da4-433e-b6c6-d5f67ba4b90f?academicYearId=2025"
+              },
+              {
+                "title": "Education (Curriculum Design)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/644f4340-0190-4518-b9f1-8105159ea39c?academicYearId=2025"
+              },
+              {
+                "title": "Education (Dysalculia)",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f26f67d2-9884-4b85-b54a-96d64fe93fa4?academicYearId=2025"
+              },
+              {
+                "title": "Education (Dyscalculia)",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b946b8ca-6504-4561-83ce-97547e1a6362?academicYearId=2025"
+              },
+              {
+                "title": "Education (Early Years)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/384a5f0a-ca9d-4ba7-8efb-6b4859fa555a?academicYearId=2025"
+              },
+              {
+                "title": "Education (Evidence Informed Practice)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bec7d0ce-cc11-4f8b-946b-68f06c3e3460?academicYearId=2025"
+              },
+              {
+                "title": "Education (Leadership)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/baf1169b-3797-4c70-8279-be29952df218?academicYearId=2025"
+              },
+              {
+                "title": "Education (Special Educational Needs)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dcad6179-206e-4173-910a-488633ddca01?academicYearId=2025"
+              },
+              {
+                "title": "Education (Teacher Education)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b15c82c9-cb86-4c48-a2a2-95d0fb02901b?academicYearId=2025"
+              },
+              {
+                "title": "Education Mental Health Practitioner for Children and Young People",
+                "qualification": "PgDip (Initial Qualification)",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/df9d8c94-c39f-4120-9a07-f38318c2f861?academicYearId=2025"
+              },
+              {
+                "title": "Emergency Services Management (DESM)",
+                "qualification": "Professional Doctorate",
+                "duration": "4.5 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4a0274c-2614-44a9-9430-2d4d58a94663?academicYearId=2025"
+              },
+              {
+                "title": "Film and Media",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7812de4-65de-4df9-beb8-29bd1f9baeed?academicYearId=2025"
+              },
+              {
+                "title": "Further Education and Skills",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/476dea44-ccc6-417e-8f2c-2490c38251a4?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91648b03-b252-4fe7-89eb-691291ac8c21?academicYearId=2025"
+              },
+              {
+                "title": "Integrated Palliative & End of Life Care",
+                "qualification": "MSc",
+                "duration": "2.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0a147758-1137-4ccb-a3dc-685d9435adc0?academicYearId=2025"
+              },
+              {
+                "title": "International Creative Enterprise",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8914bf1-1ea4-461c-b864-6f9863d2dd74?academicYearId=2025"
+              },
+              {
+                "title": "Leadership Development",
+                "qualification": "MSc (PG)",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/404bd882-1b4a-4325-ba04-7d003903731a?academicYearId=2025"
+              },
+              {
+                "title": "Learning Disability and/or Autism",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4993cadc-7663-4812-88ba-67d78169fea1?academicYearId=2025"
+              },
+              {
+                "title": "Marketing Communications and Branding",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d81b56c6-7d7a-48ce-ad7f-c4f223b27dfb?academicYearId=2025"
+              },
+              {
+                "title": "Masters by Research",
+                "qualification": "MRes",
+                "duration": "18 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b0be51e1-98ab-4e0e-a2a2-bcb164c1520f?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration",
+                "qualification": "MBA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9860cc9c-02a6-4104-9e17-dddb52d83567?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration (Finance)",
+                "qualification": "MBA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8a639b9d-9bd1-4894-a9f8-058572e3e588?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration (Human Resource Management)",
+                "qualification": "MBA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01d9e044-3cb9-45b8-a4e2-23fe5bc5328f?academicYearId=2025"
+              },
+              {
+                "title": "MBA Business Administration (Marketing)",
+                "qualification": "MBA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02394ef4-3399-47d5-92a5-880493bac277?academicYearId=2025"
+              },
+              {
+                "title": "Medical Leadership",
+                "qualification": "PgCert",
+                "duration": "18 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/88d1bfda-a299-4731-aa7f-f17c5d96af4d?academicYearId=2025"
+              },
+              {
+                "title": "Medical Practice in Adult Learning Disability",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f5698466-fd0c-4ed9-b5fe-cc31f8a91a38?academicYearId=2025"
+              },
+              {
+                "title": "Mental Health & Wellbeing Practitioner: Specialist Adult Mental Health",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/12f04d0b-1553-43db-9c7b-a94e46bc1583?academicYearId=2025"
+              },
+              {
+                "title": "Nineteenth-Century Studies",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71bbc352-ec0d-42a6-89e4-92c38bc87f8c?academicYearId=2025"
+              },
+              {
+                "title": "Person Centred Experiential Counselling and Psychotherapy",
+                "qualification": "MA",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cd7da4f-bf21-414e-bf73-0d71752b31f8?academicYearId=2025"
+              },
+              {
+                "title": "Person-Centred Experiential Counselling and Psychotherapy",
+                "qualification": "MA",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/65b967c5-6e59-4acc-9138-e21acbe75d2b?academicYearId=2025"
+              },
+              {
+                "title": "PGCert Integrated Palliative & End of Life Care",
+                "qualification": "PgCert",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76deaaaa-b775-40e3-b0f8-9519f005fbc1?academicYearId=2025"
+              },
+              {
+                "title": "Policing and Law Enforcement Investigation",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/07fc08e8-dd61-46c2-b1ea-35c2366fdb0c?academicYearId=2025"
+              },
+              {
+                "title": "Postgraduate Medical Education",
+                "qualification": "PgCert",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7757118-deca-4eb9-a35e-f92414fa8d5a?academicYearId=2025"
+              },
+              {
+                "title": "Professional Doctorate Education",
+                "qualification": "EdD",
+                "duration": "5 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/49b2733d-b37b-4af9-ba9e-a76fbb768321?academicYearId=2025"
+              },
+              {
+                "title": "Professional Doctorate Emergency Services Management",
+                "qualification": "Professional Doctorate",
+                "duration": "4.5 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bcbfb595-95e4-4cd7-8ee3-facaf7c651e6?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (Conversion)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2cf490d9-42a8-46d3-901c-0ffb43072bde?academicYearId=2025"
+              },
+              {
+                "title": "Psychotherapy and Counselling – Contemporary Creative Approaches",
+                "qualification": "MSc (PG)",
+                "duration": "4 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a59637cd-4052-4669-95f0-b34b76ca1fd2?academicYearId=2025"
+              },
+              {
+                "title": "Public Health Nutrition",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/068a6d98-6056-4cae-8289-0fc6863d66f6?academicYearId=2025"
+              },
+              {
+                "title": "Senior Wellbeing Practitioner: Children and Young People",
+                "qualification": "PgDip (Initial Qualification)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/34f701a6-f148-43be-81d8-a87a88492e1e?academicYearId=2025"
+              },
+              {
+                "title": "Social Sciences (Critical Autism Studies)",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37f96b78-6929-42a2-8424-8b8b740019cc?academicYearId=2025"
+              },
+              {
+                "title": "Special Educational Needs Coordination",
+                "qualification": "No award",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/692f4fc7-ed99-4641-a2f1-bc8fd077b689?academicYearId=2025"
+              },
+              {
+                "title": "SpLD (Dyslexia) with AMBDA/ATS",
+                "qualification": "PgCert",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4867704f-a4c9-4410-a668-3e4e5354cdb8?academicYearId=2025"
+              },
+              {
+                "title": "Sport, Physical Activity and Mental Health",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f1ff5724-a6cd-4358-ab3c-3768ef852d41?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad141516-f2af-4860-886e-94b6d5daf6d7?academicYearId=2025"
+              },
+              {
+                "title": "Supervision: Children and Young People's Mental Health & Wellbeing",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/247b523a-30ae-4dc5-bff9-b89557e5b6b9?academicYearId=2025"
+              },
+              {
+                "title": "Surgery",
+                "qualification": "MCh",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Wrightington Hospital",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b5a6c8e-094b-49a8-9e77-7f267b113f7e?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Leadership and Management",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/529224e8-cb14-4c7d-bc94-bb611daff492?academicYearId=2025"
+              },
+              {
+                "title": "Teaching and Learning in Clinical Practice",
+                "qualification": "PgCert",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cfff69b6-600a-41ad-9ceb-2e929aa92b92?academicYearId=2025"
+              },
+              {
+                "title": "TESOL (Teaching English to Speakers of Other Languages)",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8e9d5775-7030-4362-8374-47c92f708e08?academicYearId=2025"
+              },
+              {
+                "title": "Urology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7a2d1aa1-a93d-4565-b10a-249bc6fd0cb9?academicYearId=2025"
+              },
+              {
+                "title": "Urology Practice",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Edge Hill University",
+                "location": "Ormskirk (Main Campus)",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aad29982-a8ed-4072-a2fa-8810894caa0c?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "International": {
+      "metaLabels": [
+        "Location: Town, Rural"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "Edge Hill University hosts a diverse community of aspirational and inspirational students from across the world. You will be joining a top 10 modern University (The Times and Sunday Times Good University Guide 2020) where you will be taught and supported by staff with extensive links within their disciplines and leading subject knowledge. With our generous scholarships available to all international students, Edge Hill University provides an excellent student and academic experience at an affordable price",
+        "About the University",
+        "Edge Hill University is based on an attractive, award-winning 160-acre campus in Lancashire, close to Liverpool and Manchester. The institution has been providing higher education since 1885, with a mission to create opportunity from knowledge.",
+        "The institution’s significant success in achieving its mission is recognised by a range of awards and high rankings for teaching, student experience, accommodation and more. Edge Hill is ranked as Gold in the Teaching Excellence Framework (TEF), the government’s evaluation of excellence in teaching quality, learning environment and student outcomes. The University is also one of the select few to have held the coveted UK University of the Year title, awarded by Times Higher Education (2014/15).",
+        "Life in the North West",
+        "Voted in the top 15 universities in the UK for local life (WhatUni Student Choice Awards 2020), Edge Hill is situated in the heart of the North West of England, close to the thriving market town of Ormskirk and the vibrant cities of Liverpool and Manchester.",
+        "Ormskirk is ideally situated for exploring the rest of the UK. Whether you are looking for countryside or city life as your next destination, many locations are easily accessible within 1-2 hours, giving you plenty of opportunities for weekend visits."
+      ]
+    },
+    "StudentSupport": {
+      "metaLabels": [
+        "Location: Town, Rural"
+      ],
+      "heading": "Student support",
+      "paragraphs": [
+        "There’s plenty of support and wellbeing available to you at Edge Hill University. We’re here to support your journey into higher education. We’ll also be there to support you during and after your studies to make sure you get the most out of university.",
+        "No matter what your background is, we are here to support you. You can find out more about the specific support available below, or by visiting our website.",
+        "Pre-entry support",
+        "Health and wellbeing support",
+        "Careers service",
+        "Money advice",
+        "Accommodation support",
+        "Inclusion support",
+        "Social support",
+        "Read more on our website about our dedicated support for:",
+        "Disabled students",
+        "Mature students",
+        "Care experienced and estranged students (CEES)",
+        "Black, Asian, minority ethnic students"
+      ]
+    }
+  }
+}

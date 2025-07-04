@@ -1,0 +1,1515 @@
+{
+  "id": "UK0005",
+  "slug": "university-college-birmingham",
+  "scrapedAt": "2025-07-04T12:28:57.099Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "Apprenticeships",
+    "International",
+    "StudentSupport"
+  ],
+  "pages": {
+    "About": {
+      "name": "University College Birmingham",
+      "location": "Birmingham",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/university_college_birmingham_-_ucas_hero0.jpg",
+      "about": "With £200 million invested in our campuses, our university in the centre of Birmingham - one of the UK's biggest, youngest and most exciting cities - is a place where you can thrive, make new friends and expand your horizons.\nOne area where we really stand out is our award-winning support, including giving all full-time, UK undergraduates starting in September 2025 a free £5,000 to help with living costs, which doesn't have to be paid back.\nWith one of the most diverse student bodies anywhere, our students go on to become passionate engineers, teachers, leaders, builders, nurses, paramedics, physiotherapists, business and financial entrepreneurs, food and nutrition experts, psychologists, designers, health and social care leaders, sports therapists, and digital innovators. We are also marketing, tourism, hospitality and aviation management specialists and are renowned across the world as a centre of excellence.",
+      "whatMakesUsDifferent": "A smaller university, but with big industry connections, we are committed to ensuring everyone has the opportunity to succeed in a supportive environment. Our students vouch for this and we were voted best in the region for student support, as well as postgraduate and international, at the 2024 Whatuni Student Choice Awards - voted for by students themselves.\nEasily connected to the rest of the UK and the world, our location is also a draw for students as we are surrounded by booming businesses, green spaces, vibrant nightlife and a mix of cultures right on our doorstep.\nThe best way to find out about us is to attend one of our open days, where you will be made to feel very welcome. You can look around our campus buildings and facilities, see our accommodation, chat to our students about student life, meet your lecturers and see for yourself why we are a unique place to study.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/students-in-square.JPG?itok=JpVXhTWP",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/students-in-square.JPG?itok=JpVXhTWP"
+      ],
+      "website": "https://www.ucb.ac.uk/",
+      "email": "",
+      "phone": "0121 6041000",
+      "metaLabels": [
+        "Location: City"
+      ],
+      "courseLocations": [
+        {
+          "title": "University College Birmingham",
+          "address": "Summer Row, Birmingham, B3 1JB"
+        },
+        {
+          "title": "Main Site",
+          "address": "Summer Row, Birmingham, B3 1JB"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "59%"
+            },
+            {
+              "label": "Male",
+              "value": "41%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "64%"
+            },
+            {
+              "label": "EU Students",
+              "value": "5%"
+            },
+            {
+              "label": "International",
+              "value": "31%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "87%"
+            },
+            {
+              "label": "Part-time",
+              "value": "13%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "59%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "41%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "18%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "82%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Your time at university is more than lectures and coursework. It's also about the friendships you form and the activities you get involved in. It's about feeling supported, knowing that you always have someone to speak to and help guide you during your studies.",
+        "We are a small, inclusive university, with a close-knit, diverse community, and whether you are moving away for the first time, relocating to a new city, or leaving behind the familiar comforts of your friends and family, we want to make you feel at home.",
+        "More than 800 students can be accommodated in our halls of residence, and in your first year, you are guaranteed a place in The Maltings, with easy access to supermarkets, banks and budget restaurants. Meanwhile, over 70% of our undergraduates live at home while they study.",
+        "If you want to get to know other students before you start, you can join our Unibuddy Community and make new friends. As soon as you've been made an offer, you will receive an invitation to start connecting."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-542293628-w-mids-header.jpg?itok=jeC-gKDz",
+          "heading": "What's it like to live in West Midlands?Check out our region guide",
+          "paragraphs": [
+            "The West Midlands is made up of Herefordshire, Shropshire, Staffordshire, Warwickshire, and Worcestershire. Its main cities are Birmingham, Coventry, and Wolverhampton.",
+            "It’s the most diverse part of the country behind London, with a proud multicultural history, from the birth of Two-Tone music in Coventry – a combination of Caribbean ska and English punk – to the Balti curry, courtesy of Birmingham’s Pakistani community.",
+            "Once the heart of heavy industry and manufacturing, and the inspiration for Peaky Blinders, Birmingham is one of the youngest cities in Europe, with over 40% under 25 years old."
+          ],
+          "link": "https://www.ucas.com/study-in/west-midlands"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/istock-512230556v2.jpg?itok=EIUqWKev",
+          "heading": "What's it like to live in Birmingham?Check out our city guide",
+          "paragraphs": [
+            "Discover what it’s really like to live in Birmingham as a student. As the UK’s second-largest city, Birmingham is a diverse and exciting destination with a thriving student community, rich cultural heritage, and countless opportunities to explore."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-birmingham"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "With £200 million invested in our seven, sustainable campuses, our practical facilities are all developed with real industry in mind. From our training restaurants and aesthetics clinic to our cutting-edge sports facilities, financial trading suite and engineering and construction facilties, we provide real-life working environments to give you the advantage when you finish your studies.",
+        "We have also invested £6.1 million into fresh-thinking learning support spaces, giving you the very best environment to expand your mind.",
+        "Whichever campus buildings you are studying in, you'll be in the heart of a city with outstanding business connections, incredible restaurants, clubs and bars and entertainment venues, as well as 8,000 acres of parks and open spaces and over 100 miles of canals.",
+        "Less than an hour-and-a-half from London by train with major rail and bus stations just minutes from our campuses, Birmingham is a buzzing city where nearly 40% of the population is under the age of 25."
+      ],
+      "courseLocations": [
+        {
+          "title": "University College Birmingham",
+          "address": "Summer Row, Birmingham, B3 1JB"
+        },
+        {
+          "title": "Main Site",
+          "address": "Summer Row, Birmingham, B3 1JB"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "Our subject areas range from business and finance, nursing and social work, physiotherapy and psychology, computer science, cyber security, digital and sport through to education, tourism, hospitality, engineering, sustainable construction and the creative industries, including prosthetics and graphic design.",
+        "Crucially, there are plenty of opportunities for real-life industry experience and enrichment alongside your course. All our courses are highly practical and relevant to the industry needs, with placements and work experience opportunities - ensuring you're ready for the world of work.",
+        "What all of our courses have in common is award-winning student support and an open door policy across the university, which means that we build excellent relationships with students - you are never just a number and will soon feel like you belong to our community."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "61 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20College%20Birmingham%20(UCB)"
+          },
+          {
+            "mode": "Other mode",
+            "count": "19 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20College%20Birmingham%20(UCB)"
+          },
+          {
+            "mode": "Part-time",
+            "count": "8 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=University%20College%20Birmingham%20(UCB)"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "2 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20College%20Birmingham%20(UCB)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20College%20Birmingham%20(UCB)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "61 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "19 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "2 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Adult Nursing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/423a146f-f2d0-4986-9300-0e2cef120a7c?academicYearId=2025"
+              },
+              {
+                "title": "Aesthetics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cfdc0189-18a3-4557-8b0d-64c3a6c511c7?academicYearId=2025"
+              },
+              {
+                "title": "Aesthetics",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dd1f28ea-23b9-4901-ab4c-cc55581ba5d2?academicYearId=2025"
+              },
+              {
+                "title": "Aviation and Airport Management",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4422185-b253-ffd8-1ade-65a5eaa6622b?academicYearId=2025"
+              },
+              {
+                "title": "Aviation and Airport Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bf682d31-e8ba-f04d-8a71-32f924ce092b?academicYearId=2025"
+              },
+              {
+                "title": "Bakery and Patisserie Technology",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/037ba99a-cbc1-7e0b-c832-4961be4c60d3?academicYearId=2025"
+              },
+              {
+                "title": "Bakery and Patisserie Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bacaaae7-1d09-e443-7103-1c7c59ae36e6?academicYearId=2025"
+              },
+              {
+                "title": "Business Enterprise",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9fd6fc9e-93a0-9478-b16c-cecbfcdef599?academicYearId=2025"
+              },
+              {
+                "title": "Business Enterprise",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "02/02/2026",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7d7a7e0a-222a-6824-78e2-bc34cf15ca59?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b2d57214-3303-42a4-801d-86c834f9cf59?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/501de417-819e-4a97-ad71-5af73d2ebbb3?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f0ef69ed-ce64-4bc0-8804-a49d3145443a?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96-104",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/190433cd-6528-46cf-a227-18515bd24638?academicYearId=2025"
+              },
+              {
+                "title": "Construction Management",
+                "qualification": "BSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "02/02/2026",
+                "ucasPoints": "96-104",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01701298-588c-4079-be96-4dda99c91e48?academicYearId=2025"
+              },
+              {
+                "title": "Culinary Arts Management with Professional Placement",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a94655ac-3827-034d-f77d-a537035b795a?academicYearId=2025"
+              },
+              {
+                "title": "Culinary Arts Management with Professional Placement",
+                "qualification": "FdA",
+                "duration": "3 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3e2ea23e-73bc-31db-cbf9-dc155399bef8?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96-104",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71e9e2bf-5674-44e1-ad8d-976a3e559185?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/442b357d-e05f-4dfd-aaf4-a2e17fde6bf7?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1e40fbd8-4c8e-482f-9dc6-8e90e3676678?academicYearId=2025"
+              },
+              {
+                "title": "Electromechanical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "88",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a68c3fd1-d6ba-41ab-92c0-58fcd361ccc0?academicYearId=2025"
+              },
+              {
+                "title": "Events Management",
+                "qualification": "FdA",
+                "duration": "3 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "02/02/2026",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c467d21b-82db-e396-60f2-32a30531b2a0?academicYearId=2025"
+              },
+              {
+                "title": "Events Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "02/02/2026",
+                "ucasPoints": "96-104",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e49c9051-d277-03e6-e297-6728c56440c1?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Accounting",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/04d6ca28-71b3-4fa6-bead-b18bd1e0654e?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Accounting",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/55c01789-5df5-4a5f-8e4a-8aa64a654cac?academicYearId=2025"
+              },
+              {
+                "title": "Food and Nutrition",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dcd771a5-355b-7083-3b11-df5f8ba55d81?academicYearId=2025"
+              },
+              {
+                "title": "Food and Nutrition",
+                "qualification": "BSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b566fa5b-6b76-aecb-9330-cbe31a37fcb8?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3acca456-c0d0-4d75-937c-d4e57559ae2f?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "16/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1fdb1f48-6521-4c47-b611-1c81db794a9e?academicYearId=2025"
+              },
+              {
+                "title": "Hair and Make-up Business Management",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bf6573cc-b020-46a8-a30c-24bfee8c632f?academicYearId=2025"
+              },
+              {
+                "title": "Hair and Make-up Business Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/975aaeb5-4c33-4715-be49-6c282ebe812f?academicYearId=2025"
+              },
+              {
+                "title": "Health and Social Care",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/735a4f6a-7860-4526-b834-420018bdb73e?academicYearId=2025"
+              },
+              {
+                "title": "Health and Social Care",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2ca6aa2e-aa50-453c-9380-40177fa2d357?academicYearId=2025"
+              },
+              {
+                "title": "International Hospitality and Tourism Management",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/da237564-86b2-4eda-b457-58eb2ec7caf5?academicYearId=2025"
+              },
+              {
+                "title": "International Hospitality and Tourism Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/12c45b7e-2635-4b9b-8d76-3c9254b2425d?academicYearId=2025"
+              },
+              {
+                "title": "International Tourism Management",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80-96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d3a95460-fd61-23e3-6ea7-d780326e6b6c?academicYearId=2025"
+              },
+              {
+                "title": "International Tourism Management",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2f3a5065-66b6-6c08-a2bb-d62a4bb7ec76?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "02/02/2026",
+                "ucasPoints": "32",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd33f2a8-579d-4c23-a2ef-79116455c170?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ea9bbd55-e8f5-4bf2-a640-d768de2cd1a5?academicYearId=2025"
+              },
+              {
+                "title": "Mental Health Nursing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b62c8350-dec6-4b36-9eb6-780b23524409?academicYearId=2025"
+              },
+              {
+                "title": "Nursing Associate",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3335c68f-4fa6-4998-9eac-4b3724d02456?academicYearId=2025"
+              },
+              {
+                "title": "Paramedic Science",
+                "qualification": "BSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8c86c4f8-47be-4843-8f14-6ac089a98e8b?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "128",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3588091-3bb5-462f-a1eb-d8e1442ed6c6?academicYearId=2025"
+              },
+              {
+                "title": "Primary Education Studies (Accelerated)",
+                "qualification": "BA (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time (intensive)",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b566ddb0-f63e-4d7d-b1fa-4211db7fea64?academicYearId=2025"
+              },
+              {
+                "title": "Professional Chef",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/57d89107-e44b-4768-823a-6aaa731caf0f?academicYearId=2025"
+              },
+              {
+                "title": "Prosthetics for Screen and Stage",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e44c09b-6784-431f-8a86-0279a5bfd225?academicYearId=2025"
+              },
+              {
+                "title": "Prosthetics for Screen and Stage",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1282f6d3-d0c4-4aea-b1ca-6c88e3009aec?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/13735af2-4586-4a7f-8f99-e6852b071ef8?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Education",
+                "qualification": "BSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d132c4f-bd00-4781-9260-bf270f2091e0?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Health",
+                "qualification": "BSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2aef6744-0825-40c2-98f6-368db0c0931c?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Sport and Exercise",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06385098-c463-41a1-831e-9537a403f134?academicYearId=2025"
+              },
+              {
+                "title": "Sports Coaching and Education",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c99348fe-ed33-435c-b520-ae26609bf5e0?academicYearId=2025"
+              },
+              {
+                "title": "Sports Coaching and Education",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f665eaee-05c0-408e-99ae-5f309c514d48?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96-104",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f8271ddc-9f31-52fb-a9f9-9430474ee9f0?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e4883797-0007-509e-c8e3-11cb03d37aa8?academicYearId=2025"
+              },
+              {
+                "title": "Strength, Conditioning and Sports Nutrition",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48-56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1c7b9207-ef65-4814-a177-92008b68db52?academicYearId=2025"
+              },
+              {
+                "title": "Strength, Conditioning and Sports Nutrition",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96-104",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cafd3110-c043-4977-be9a-ad21da96ac72?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=University%20College%20Birmingham%20(UCB)",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "8 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Aesthetic Practitioner Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7abd7b23-ce32-4135-bbe3-b3987e2d59f0?academicYearId=2025"
+              },
+              {
+                "title": "Architectural Technologist",
+                "qualification": "HNC",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "16/02/2026",
+                "ucasPoints": "32",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f57633dd-e9ec-42b0-90ef-ff1a92a1989c?academicYearId=2025"
+              },
+              {
+                "title": "Aviation and Airport Management Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/259930bd-c078-477d-b6a5-bf32235d85a5?academicYearId=2025"
+              },
+              {
+                "title": "Bakery and Patisserie Technology Top-up",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Mixed mode",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4f00fe19-5727-4bcd-9b1a-4f3dca71248f?academicYearId=2025"
+              },
+              {
+                "title": "Building Services Engineering",
+                "qualification": "HNC",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "64",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/20063666-1232-46e3-9d15-d0539224af14?academicYearId=2025"
+              },
+              {
+                "title": "Business Enterprise Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47f8bb8f-5967-49a2-a120-ccfe0d07377d?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "HNC",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32",
+                "provider": "University College Birmingham",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1195ff85-ff14-4752-bed0-983432d2e661?academicYearId=2025"
+              },
+              {
+                "title": "Construction Management",
+                "qualification": "HNC",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "University College Birmingham",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff52d303-e9df-4585-a1c2-31efc6a6ed75?academicYearId=2025"
+              },
+              {
+                "title": "Culinary Arts Management with Professional Placement Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e883e5af-55a7-429c-8a3f-232069a5dbd7?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood Studies Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/656b2ac2-1593-41f0-968e-5854da0e3c82?academicYearId=2025"
+              },
+              {
+                "title": "Engineering",
+                "qualification": "HNC",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ce8a1369-417d-4875-b6bd-eab6c6e51b58?academicYearId=2025"
+              },
+              {
+                "title": "Events Management Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9bb49ad7-0eb8-44cc-b1fe-9b55abe8ce39?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Accounting Top-up",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/32bfc410-a98a-460c-a5dc-8a31f97d7a05?academicYearId=2025"
+              },
+              {
+                "title": "Food and Nutrition Top-up",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0c5d9bd3-7c4e-4ac0-9d14-a3743f34f8ce?academicYearId=2025"
+              },
+              {
+                "title": "Health and Social Care Top-up",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f1e5fa1e-4246-41f9-8269-df71c3707e1b?academicYearId=2025"
+              },
+              {
+                "title": "International Hospitality and Tourism Management Top-up",
+                "qualification": "BA",
+                "duration": "1 year",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b706fb0-7af8-45ed-be85-7136aa25d42e?academicYearId=2025"
+              },
+              {
+                "title": "International Tourism Management Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4ce0bc73-6f21-42c9-a42f-e5ffdef6ba39?academicYearId=2025"
+              },
+              {
+                "title": "Modern Methods of Construction",
+                "qualification": "HNC",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac254257-4e57-4f86-9257-01803851baa8?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "4.5 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "96",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/13735af2-4586-4a7f-8f99-e6852b071ef8?academicYearId=2025"
+              },
+              {
+                "title": "Quality Surveying",
+                "qualification": "HNC",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "02/02/2026",
+                "ucasPoints": "32",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a1542e44-2a42-45f8-acd4-d4a6767741c3?academicYearId=2025"
+              },
+              {
+                "title": "Sports Management Top-up",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ce2bb643-b8b5-47ce-8f65-79c2aa80b0e5?academicYearId=2025"
+              },
+              {
+                "title": "Strength, Conditioning and Sports Nutrition Top-up",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Variable",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/45a3871f-39df-4359-a1e7-4b313de9308f?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "16 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20College%20Birmingham%20(UCB)"
+          },
+          {
+            "mode": "Part-time",
+            "count": "13 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20College%20Birmingham%20(UCB)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20College%20Birmingham%20(UCB)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "16 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Aviation Management",
+                "qualification": "MSc",
+                "duration": "1.5 years",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be6e4860-ab09-2ce3-e2db-26e6cd1f571d?academicYearId=2025"
+              },
+              {
+                "title": "Culinary Arts Management",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b01ac20e-5c58-ee91-ce89-dd36ed162b4b?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b72f16e4-eae9-46ee-85fa-64cf2f5fc401?academicYearId=2025"
+              },
+              {
+                "title": "Engineering Management",
+                "qualification": "MSc",
+                "duration": "18 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/89e95d05-e067-4881-ae15-d2baf1530c9a?academicYearId=2025"
+              },
+              {
+                "title": "Enterprise Management",
+                "qualification": "PgDip",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/69328537-0af8-4e91-9662-672d48c61b64?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Accounting",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/83e25546-dac1-4a11-b6e4-baad540eba88?academicYearId=2025"
+              },
+              {
+                "title": "Global Meetings and Events Management",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/477dcad5-148a-3bba-bfc2-0153c5c88b1a?academicYearId=2025"
+              },
+              {
+                "title": "Hospitality with Tourism Management",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9776da3e-a55a-45c8-ba74-34e2dfc6dd88?academicYearId=2025"
+              },
+              {
+                "title": "International Business Management",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e93bfa34-b500-47b4-9566-bd7e5dc53a04?academicYearId=2025"
+              },
+              {
+                "title": "International Hospitality Management",
+                "qualification": "MSc",
+                "duration": "1.5 years",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c64cc29e-c863-493d-20d2-fb46c681960d?academicYearId=2025"
+              },
+              {
+                "title": "International Tourism Management",
+                "qualification": "MSc",
+                "duration": "1.5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4ffe3dbb-b75c-a22f-620e-c5dfd04afe21?academicYearId=2025"
+              },
+              {
+                "title": "Marketing Management for Events, Hospitality and Tourism",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ef84cb37-28ed-2da1-9167-b1c7ed583de5?academicYearId=2025"
+              },
+              {
+                "title": "Prosthetics for Film and Television",
+                "qualification": "MA",
+                "duration": "1.5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4090555a-5893-4709-adce-512426234362?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (Conversion)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bcd39314-9485-4f68-9195-97ed26afb764?academicYearId=2025"
+              },
+              {
+                "title": "Public Health",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b32dd6be-cde1-4122-9bc0-cb70408cd32c?academicYearId=2025"
+              },
+              {
+                "title": "Strength, Conditioning and Performance",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b339aab4-d2d0-46fc-b94d-347a8421fdca?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20College%20Birmingham%20(UCB)",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "13 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Aviation Management",
+                "qualification": "MSc",
+                "duration": "2.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be6e4860-ab09-2ce3-e2db-26e6cd1f571d?academicYearId=2025"
+              },
+              {
+                "title": "Culinary Arts Management",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b01ac20e-5c58-ee91-ce89-dd36ed162b4b?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "MA",
+                "duration": "1.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b72f16e4-eae9-46ee-85fa-64cf2f5fc401?academicYearId=2025"
+              },
+              {
+                "title": "Engineering Management",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/89e95d05-e067-4881-ae15-d2baf1530c9a?academicYearId=2025"
+              },
+              {
+                "title": "Executive Master of Business Administration (EMBA)",
+                "qualification": "Executive Master's",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fe2aec4d-5ae0-47f2-a7c1-58088105e009?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Accounting",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/83e25546-dac1-4a11-b6e4-baad540eba88?academicYearId=2025"
+              },
+              {
+                "title": "Global Meetings and Events Management",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/477dcad5-148a-3bba-bfc2-0153c5c88b1a?academicYearId=2025"
+              },
+              {
+                "title": "Hospitality with Tourism Management",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9776da3e-a55a-45c8-ba74-34e2dfc6dd88?academicYearId=2025"
+              },
+              {
+                "title": "International Business Management",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e93bfa34-b500-47b4-9566-bd7e5dc53a04?academicYearId=2025"
+              },
+              {
+                "title": "International Hospitality Management",
+                "qualification": "MSc",
+                "duration": "2.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c64cc29e-c863-493d-20d2-fb46c681960d?academicYearId=2025"
+              },
+              {
+                "title": "International Tourism Management",
+                "qualification": "MSc",
+                "duration": "2.5 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4ffe3dbb-b75c-a22f-620e-c5dfd04afe21?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (Conversion)",
+                "qualification": "MSc",
+                "duration": "18 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bcd39314-9485-4f68-9195-97ed26afb764?academicYearId=2025"
+              },
+              {
+                "title": "Public Health",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University College Birmingham",
+                "location": "University College Birmingham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b32dd6be-cde1-4122-9bc0-cb70408cd32c?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Apprenticeships": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Apprenticeships",
+      "paragraphs": [
+        "University College Birmingham offers a whole range of exciting degree apprenticeships to learn skills for life while getting paid. From healthcare and business to culinary and construction, we are here to help you kick-start your career and it won't cost you a penny, in fact, you get paid.",
+        "Our connections with a huge range of employers ensure you will get the best on-the-job training possible and pick up a relevant qualification as you learn new skills. Alongside your training, as an apprentice, you will spend at least 20% of your working hours completing classroom-based learning which leads to a nationally-recognised qualification.",
+        "Benefits of our apprenticeships include hands-on experience studying in our cutting-edge facilities across all of our apprenticeship programmes and our experienced delivery team, who will equip you with the skills, knowledge and behaviours you need to become a skilled professional and future leader in your career."
+      ]
+    },
+    "International": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "As well as those from within the UK and European Union, we warmly welcome applications from international students - and were voted best in the region for international students at the 2024 Whatuni Student Choice Awards.",
+        "If you accept a place at University College Birmingham, you will join our global student community of more than 3,100 students from over 70 countries.",
+        "International students come to University College Birmingham because of our unique range of undergraduate and postgraduate courses, which combine theory with a strong emphasis on practical experience and work placements.",
+        "The support we offer starts before you arrive in the UK, and we strive to ensure that the process of applying and arriving here goes as smoothly as possible.",
+        "Our staff have a wealth of experience in working with, and teaching, international students. As well as academic and welfare support, we have a dedicated International centre to assist you with:",
+        "- Visas and immigration",
+        "- International student scholarships",
+        "- Living expenses",
+        "- Academic skills and English",
+        "- English language courses",
+        "- Orientation programme (September and February)",
+        "- European and international links",
+        "- Working in the UK",
+        "- Health and wellbeing",
+        "University is an exciting time, but also a huge step, especially if you are coming from overseas. We make sure this process is as easy as possible. More than 1,000 students can be accommodated in our halls of residence and for international students, this is the best way to meet other people from abroad, as well as students from Birmingham and the UK.",
+        "Our International Society is a place to meet people from all over the world, all while learning about new cultures and ways of life.",
+        "Joining up is the opportunity to share experiences, network and integrate with fellow students, take part in activities and social events, and go on trips to the UK's most popular heritage and tourism attractions.",
+        "As well as our International Society, our Guild of Students also has international-focused clubs and societies such as the Afro-Caribbean and Malaysian societies, but you can also set up your own.",
+        "If you are an international applicant, our international team and agents attend overseas exhibitions and events throughout the year in countries and territories including India, Hong Kong, Thailand, China, Malaysia and Taiwan, as well as throughout the EU.",
+        "These events provide a great opportunity to find out about University College Birmingham first-hand – and gain a great insight into our courses, facilities and the support we provide.",
+        "As for where you'll be studying, Birmingham - voted the 7th best city to study in the UK - is dubbed the ‘superdiversity city’. Home to 187 nationalities, nearly 40% of the population is also under the age of 25. The perfect backdrop for a great social life."
+      ]
+    },
+    "StudentSupport": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student support",
+      "paragraphs": [
+        "Whatever help you need, our support teams are committed to giving you the advice, skills and practical tools to discover your full potential, all while helping to look after your health and wellbeing.",
+        "Alongside first-class academic and pastoral support, we offer plenty of financial support, from our Kick-Start scheme to scholarships, awards and fee waivers. Also, if you are a full-time, UK undergraduates starting in September 2025, you will automatically receive a free £5,000 to support your degree and help with everything from rent and food to transport costs. We firmly believe financial pressures shouldn't stop you from studying.",
+        "In terms of learning support, our Centre for Academic Skills and English (CASE) provides 1-2-1 tailored academic support, online skills materials, in-class skills and development sessions and much more. We even provide support for getting your English and maths up to speed.",
+        "The Learning Hub is your go-to resource for developing academic skills and exploring diverse learning methods at University College Birmingham. It provides guidance on various assignment types, such as essays, reports, and presentations, while offering essential tips on breaking down tasks, editing, proofreading, and formatting to help you submit top-quality work.",
+        "We also provide a higher education mentoring scheme, which helps to develop your academic knowledge, skills and understanding. This helps with career development, including advice on personal skills, image and profile. Enhancing personal growth and increasing confidence, the scheme teaches the skills required to help students take responsibility for themselves, their careers and their own development.",
+        "Through HIRED, students can tap into placements through our network of over 1,000 employer partners, ensuring you gain real skills for real jobs — aligned with what employers need.",
+        "Alongside study and employability support, we provide award-winning mental health and wellbeing, disability and neurodiversity support and our Student Engagement team is there to support all students during their university life, ensuring you have a single point of contact to discuss any issues you may be having while studying. The team has an open door policy that is available for any students seeking support or advice, whether this is around academic matters, financial issues, personal situations, or anything that may be a barrier to studying. If you are on campus, you are welcome to drop in.Our ultimate aim is to provide the best advice, guidance and support available, to manage your concerns and allow you to continue with your studies.",
+        "Our Guild of Students is the students’ union for University College Birmingham and is there to support all students. They will represent you and campaign to ensure you have everything you need to participate in everything the university has to offer. They will also help you ro find your people – running events and activities alongside a range of sports clubs and societies to help you meet new friends. We want you to feel like you are part of a real community at University College Birmingham and there is a huge range of societies and clubs you can join, covering sports, hobbies, identity, and academic areas. No matter what you’re interested in, there is something for you to get involved with.",
+        "The Guild also offers leadership opportunities, where you can become everything from a course rep or Guild officer, to develop your skills and help you gain life-long experiences.",
+        "Whatever help you need, our academic and professional staff are dedicated to supporting you every step of the way."
+      ]
+    }
+  }
+}

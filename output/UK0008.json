@@ -1,0 +1,3563 @@
+{
+  "id": "UK0008",
+  "slug": "university-of-brighton",
+  "scrapedAt": "2025-07-04T13:02:34.144Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "Apprenticeships",
+    "International",
+    "StudentSupport"
+  ],
+  "pages": {
+    "About": {
+      "name": "University of Brighton",
+      "location": "Brighton",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/brighton_student_hub_-_banner_crop_0.jpg",
+      "about": "At the University of Brighton, you’ll study in the independent and inclusive beachside city of Brighton & Hove, and gain more than just a degree. We offer over 150 undergraduate courses, all designed with your future in mind.\nThe city is a great place for students to open doors to their dream career. Courses involve opportunities to get involved in work-related experiences, including placements, study abroad, live project briefs or assessed voluntary work. The University’s employability hub supports students to find work while studying and after graduation.",
+      "whatMakesUsDifferent": "Brighton is a place where everyone belongs and it is in the top 5 UK cities in the world (2025 Time Out Worlds 50 Best Cities in the World rankings). Its diversity shines through in the shops, cafes, parades, nightlife and arts scene and it has a great student community.\nLiving in Brighton has a positive effect on wellbeing; there’s an undeniable feel-good factor of being on the coast, from the fun of sunny beach days to quieter times with that soothing 180 degrees of open water.\nStudents also benefit from its proximity to London and nearby seaside cities and villages, which make it a brilliant place to call home while exploring beyond Brighton.\nAt Brighton, students form connections and learn the skills and knowledge to continue the path to their dream career. Each and every degree is built with employability in mind, incorporating vocational and practical training to ensure students graduate with the skills that employers are looking for.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_jan2022_aw_467.jpg?itok=dEca4dUt",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_dec2021_aw_121.jpg?itok=VGdWp8d9",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_jan2022_aw_001.jpg?itok=rXvD76wb",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_dec2021_aw_344.jpg?itok=Q8dL-huv",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_dec2021_aw_177.jpg?itok=rUx_f4WK",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_jan2022_aw_467.jpg?itok=dEca4dUt",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_dec2021_aw_121.jpg?itok=VGdWp8d9",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_jan2022_aw_001.jpg?itok=rXvD76wb",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_dec2021_aw_344.jpg?itok=Q8dL-huv",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uob_dec2021_aw_177.jpg?itok=rUx_f4WK"
+      ],
+      "website": "https://www.brighton.ac.uk/index.aspx",
+      "email": "",
+      "phone": "01273 644644",
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Brighton",
+          "address": "Mithras House, Lewes Road, Brighton, BN2 4AT"
+        },
+        {
+          "title": "Falmer Campus",
+          "address": "Village Way, Falmer, Brighton, BN1 9PH"
+        },
+        {
+          "title": "Moulsecoomb Campus",
+          "address": "Lewes Road, Brighton, BN2 4GA"
+        },
+        {
+          "title": "Main Site",
+          "address": "Mithras House, Lewes Road, Brighton, BN2 4AT"
+        },
+        {
+          "title": "Falmer, Brighton",
+          "address": "University of Brighton, Brighton, BN1 9PH"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "62%"
+            },
+            {
+              "label": "Male",
+              "value": "37%"
+            },
+            {
+              "label": "Unknown",
+              "value": "2%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "85%"
+            },
+            {
+              "label": "EU Students",
+              "value": "3%"
+            },
+            {
+              "label": "International",
+              "value": "12%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "77%"
+            },
+            {
+              "label": "Part-time",
+              "value": "23%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "38%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "62%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "21%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "79%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Life as a Brighton student will be full of chances to explore new things, learn new skills and make new connections.",
+        "Whether students are into city-living or prefer an outdoor lifestyle, they can experience it all in Brighton. In addition to the beach, countryside and nightclubs, there are also fantastic independent shops and cafes in the famous Brighton Lanes, which is a great place to socialise over a coffee and admire the colourful houses and street art.",
+        "Students can socialise through over 100 student-led clubs and societies run by Brighton Students' Union and there are over 60 sports clubs (social and competitve) for those interested in sports and exercise."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-510788426-s-east-header.jpg?itok=E127-y8e",
+          "heading": "What's it like to live in South East?Check out our region guide",
+          "paragraphs": [
+            "South East England is made up of nine counties, with popular student cities in Brighton & Hove, Oxford, Portsmouth, Reading, and Southampton.",
+            "The area sees plenty of sunshine and Brighton – the LGBTQ+ capital of the UK – is a student favourite, with tons of quirky shops, cafes, arts, nightlife and watersports.",
+            "Moving east into Kent, you'll find the charming towns of Whitstable, Broadstairs, and Margate – all bursting with literary history – plus the iconic landmarks of Dover’s white cliffs and Canterbury Cathedral.",
+            "London is an hour or two away for gigs, theatre trips and capital city adventures, while the country’s two largest airports – Heathrow and Gatwick – mean international journeys are easy to get started."
+          ],
+          "link": "https://www.ucas.com/study-in/south-east"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-1218665208-brighton-pier-header.jpg?itok=dAUhIrgD",
+          "heading": "What's it like to live in Brighton?Check out our city guide",
+          "paragraphs": [
+            "Discover what it’s really like to live in Brighton – from seaside strolls and independent shops to thriving nightlife and inclusive student life."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-brighton"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "There are three campuses across the city, each within easy reach of the beach, city and libraries.",
+        "The University has invested over £100 million has on facilities over the last decade. This includes state-of-the-art seminar rooms, lecture theatres, labs, studio spaces, exhibition spaces, and workshops.",
+        "Moulsecoomb campus was recently redeveloped and it is now home to a new gym with the latest equipment and a studio with a programme of classes. It’s also home to the new Students’ Union, new halls of residence and improved infrastructure.",
+        "Falmer has newly renovated gym and the indoor swimming pool was opened in 2025, in addition to outdoor facilities including grass pitches, a floodlit 3G pitch and hardcourts.",
+        "City campus is home to the art, design and media courses and is based in the heart of Brighton - a short stroll from the famous Brighton beach and pier. You’ll have access to specialist facilities, galleries, studios and more."
+      ],
+      "courseLocations": [
+        {
+          "title": "Brighton",
+          "address": "Mithras House, Lewes Road, Brighton, BN2 4AT"
+        },
+        {
+          "title": "Falmer Campus",
+          "address": "Village Way, Falmer, Brighton, BN1 9PH"
+        },
+        {
+          "title": "Moulsecoomb Campus",
+          "address": "Lewes Road, Brighton, BN2 4GA"
+        },
+        {
+          "title": "Main Site",
+          "address": "Mithras House, Lewes Road, Brighton, BN2 4AT"
+        },
+        {
+          "title": "Falmer, Brighton",
+          "address": "University of Brighton, Brighton, BN1 9PH"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "The University of Brighton is home to over 150 undergraduate courses and over 120 postgraduate courses, each with built-in vocational training including placements, live project briefs, study abroad and more. Brighton encourages students to tailor their courses to fit their career goals while studying in a way that plays to their strengths.",
+        "The University of Brighton is in the top 3rd in the UK for employment or further study, three years after graduating (Longitudinal Education Outcomes 2021/22). This is testament to the University’s teaching quality and strong graduate outcomes.",
+        "Students can boost their CV while studying through:"
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "227 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "75 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "227 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "75 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "3D Design and Craft",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8b4f6f4a-dd75-f5d0-5c3f-76a68ee7cc06?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a46a875a-7b05-0bad-53b0-5c451288e3a4?academicYearId=2025"
+              },
+              {
+                "title": "Accounting, Finance and Economics (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f67fb100-726c-4cd5-8379-2891c45a4a65?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4b9da536-c520-2d90-9a4f-6a2b4cefe8e6?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0122ce44-a3b9-3137-3f12-6564e1b58a5f?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cb930619-14da-4faf-c427-e48615c29a81?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76e084b6-a2e6-7f04-9448-da87852a43a2?academicYearId=2025"
+              },
+              {
+                "title": "Animation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/26b1e654-553b-42f1-8375-3cc23a0e96ab?academicYearId=2025"
+              },
+              {
+                "title": "Architecture",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-136",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d55f2e5d-cadd-f2ff-6a9a-2e76f9277088?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/893d2777-c358-46d1-bfc0-f1c8b5ead82d?academicYearId=2025"
+              },
+              {
+                "title": "Art History and Visual Culture",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f3b52804-cd76-9370-1e8e-f368e75c6d58?academicYearId=2025"
+              },
+              {
+                "title": "Automotive Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9a50b54-2295-c4a4-beb6-d5630fff82da?academicYearId=2025"
+              },
+              {
+                "title": "Automotive Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a69b4380-ca48-721d-b43c-b0224f1638de?academicYearId=2025"
+              },
+              {
+                "title": "Automotive Engineering (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2b7da1b6-0e83-6a7a-b2bb-94182e6af8dd?academicYearId=2025"
+              },
+              {
+                "title": "Automotive Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1d4f5a63-f353-cbbb-073d-835b8dd7af31?academicYearId=2025"
+              },
+              {
+                "title": "Biological Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/24e6c03c-d981-3782-7755-0709de727dee?academicYearId=2025"
+              },
+              {
+                "title": "Biological Sciences",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81290c92-a1b5-43f6-8dd8-25a6b07a4451?academicYearId=2025"
+              },
+              {
+                "title": "Biological Sciences with Integrated Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/48e7471d-5d12-4aba-a787-5e4367108334?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7cae9051-c48e-f92d-7de1-8465cd67913a?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f97caf25-9795-4eb6-8df2-55ec1bc38131?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science with Integrated Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "80",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/54a9f1b3-f509-48bb-8446-873b25c3ea98?academicYearId=2025"
+              },
+              {
+                "title": "Building Surveying",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0c3abea2-580b-c791-6c0d-35af2b21fad4?academicYearId=2025"
+              },
+              {
+                "title": "Business Analytics",
+                "qualification": "BSc",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c7da4f0f-a8ab-4859-8884-36f89dedc2ca?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a953b8b9-df75-c1f2-a8a3-95a1b508da46?academicYearId=2025"
+              },
+              {
+                "title": "Business Management (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b758698-6f9a-0738-33e0-94403eb275aa?academicYearId=2025"
+              },
+              {
+                "title": "Business Management (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5ca67c3f-ad52-4a5c-95a2-a01a79ba2095?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Economics",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c1457367-bd09-6d4f-e7f0-882c9fe6fc05?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Entrepreneurship",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/24605ae3-8ada-4e2e-a427-7fa7da28d2be?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Events",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/679e7683-6565-412d-a897-25aad96a8b38?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5b15c5a0-f31d-3be3-ce2f-d71a41f0f743?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Human Resource Management",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ebea4b19-4cbd-ea7a-f632-73bb38aee865?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Law",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0ca64673-851b-4083-ba2f-15f8641b3185?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Marketing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/abd74cad-de3f-c607-5e4c-d42e7c9cb678?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Tourism",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68b94f1e-1515-46ad-a335-e87167b66bc3?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c28bde57-eae9-8e7f-f544-2d5dde8aa85e?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "120-136",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2cd54d5b-aa14-43d0-cd4a-0290a71a283b?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "72-80",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b3a8df3-a7f7-a57b-0f94-054c02da5e7a?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering (with Integrated Foundation Year)",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-80",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e002ece5-60ac-45c4-aa7f-a34eb9b9365f?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering with Construction Management",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9a5f498f-3ee5-8469-317b-410ea67abfb9?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering with Construction Management",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-136",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb361f98-5eb5-f0ef-aa51-b062a69c824d?academicYearId=2025"
+              },
+              {
+                "title": "Civil with Environmental Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/85772045-c08d-635f-7528-021f6e0b6078?academicYearId=2025"
+              },
+              {
+                "title": "Civil with Environmental Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "120-136",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9a1a5f2b-8274-9727-a2fc-77750e3d03ee?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/41b312f0-81d4-da0a-a6b5-4529738326cc?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Games",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/55ee274a-0754-ec06-5a39-a2f155446b48?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science with Artificial Intelligence",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02725890-6b97-4dfc-81c0-54f7f29c2953?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science with Cyber Security",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/611490f1-29f7-48d9-83f2-08ea15544b7d?academicYearId=2025"
+              },
+              {
+                "title": "Construction Project Management",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6f428f3f-f87a-2cba-aebb-2bd7904aaf89?academicYearId=2025"
+              },
+              {
+                "title": "Contemporary History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f7af51a5-2a4b-4b15-bbe9-a7b580cb678a?academicYearId=2025"
+              },
+              {
+                "title": "Content Creation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9004b557-19be-4287-b232-bddb62d40498?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47f266f6-367b-4b7e-922a-f8f51117c9ff?academicYearId=2025"
+              },
+              {
+                "title": "Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/512b1bc0-4cf6-f84f-bc23-0bb1b785e554?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/64377466-e4a6-a6e1-b7e6-68e27e2665a6?academicYearId=2025"
+              },
+              {
+                "title": "Data Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91a0939d-7e2a-4dfc-9316-ca4cd14525da?academicYearId=2025"
+              },
+              {
+                "title": "Design Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c694fe5e-d73d-4a89-b9cc-6b29811e3e71?academicYearId=2025"
+              },
+              {
+                "title": "Design Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5b7693f4-b8b0-4cd8-b800-e5d2944bbf9b?academicYearId=2025"
+              },
+              {
+                "title": "Design Engineering with Integrated Foundation Year",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e36ae868-02b5-4dc1-bbe8-42f8c395c4ce?academicYearId=2025"
+              },
+              {
+                "title": "Digital Games Development",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/29d1d2fa-9b60-119c-a8f8-5b0164d1365f?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood Education and Care",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2adcc8f4-16d3-ae57-9403-234fad984ba8?academicYearId=2025"
+              },
+              {
+                "title": "Ecology and Conservation",
+                "qualification": "Msci (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/228dc332-8e4f-4c53-a2bb-4502ffe622ff?academicYearId=2025"
+              },
+              {
+                "title": "Ecology and Conservation",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3b6e2569-4c14-1519-aed7-4d0199423082?academicYearId=2025"
+              },
+              {
+                "title": "Ecology and Conservation with Integrated Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/19174a69-fd79-4e79-88b0-7d5b4243d6af?academicYearId=2025"
+              },
+              {
+                "title": "Economics",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5a4e7bcf-4e2f-5eb9-027b-24ac18c133db?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/14a614f0-0e51-b8a6-b91c-cd9855f6d543?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/74276b32-14cc-172d-4d2c-1b17276b29f3?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d9e4ab87-78f8-3b62-2b51-2fc147fe8275?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dfd93fad-d112-dea6-4a72-65c6c0e498d4?academicYearId=2025"
+              },
+              {
+                "title": "Electronic and Communication Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4e18166-1d0a-d0a4-9e25-282a9268ae0a?academicYearId=2025"
+              },
+              {
+                "title": "Electronic and Communication Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/34f6a8ce-c6b2-6620-339c-0ee8147a1fac?academicYearId=2025"
+              },
+              {
+                "title": "Electronic and Communication Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/12cf9bc5-552d-4cfa-b7ce-c431b498f1da?academicYearId=2025"
+              },
+              {
+                "title": "Electronic Engineering (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a419da28-a5c2-ccb3-460d-46a816cd2016?academicYearId=2025"
+              },
+              {
+                "title": "Electronic Music and Sound",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b568f072-47f1-40aa-b2c4-2d8afb365c97?academicYearId=2025"
+              },
+              {
+                "title": "English Literature",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a52f476a-e30d-5070-1656-983cc7163467?academicYearId=2025"
+              },
+              {
+                "title": "English Literature and Creative Writing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/033893a6-304e-0dbb-eced-a452cfc6c437?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Management",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb15af51-c0b0-48c2-8ca7-46ddd58f70e4?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9eeb614a-d237-764f-04f7-0feec963c0ed?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Sciences with IFY",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3111bbd0-d5bc-417a-9074-6468c905f053?academicYearId=2025"
+              },
+              {
+                "title": "Exercise, Health and Rehabilitation Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/098b9f2e-7181-4c2e-8cb9-7dddaf226f87?academicYearId=2025"
+              },
+              {
+                "title": "Fashion and Design History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5cdff7a7-bcb0-bc19-cfa7-edfefcd8e85c?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Communication with Business Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f8877155-cb59-915c-27b4-07c652f8fc55?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design with Business Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/43f77859-0815-1949-bae5-a98df7766ed9?academicYearId=2025"
+              },
+              {
+                "title": "Film",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b969aca6-a7bb-0f20-dca3-6c42b6b1391f?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Investment",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b92efead-1d44-9fc1-6724-aec6b81007c5?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/57cec2c3-21dc-4de9-a879-7e86f5890828?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art Painting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ef0eb53e-f516-425c-1fb2-2369d01a3b22?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art Printmaking",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c9d97ce0-1c58-7eb4-c824-53f4bf38c935?academicYearId=2025"
+              },
+              {
+                "title": "Games Art & Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-115",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f15ecb03-21ac-47da-a5c6-edc97aecfbec?academicYearId=2025"
+              },
+              {
+                "title": "Geography",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3a197389-c1e9-c84e-f5c4-a1090153084c?academicYearId=2025"
+              },
+              {
+                "title": "Geography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/08a63dae-b1e2-328a-31eb-dc3394db923e?academicYearId=2025"
+              },
+              {
+                "title": "Geography with IFY",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bbc6ae22-6cb9-442c-86fb-2839f7ba7be2?academicYearId=2025"
+              },
+              {
+                "title": "Globalisation: History, Politics and Culture",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5b567918-2ae9-d5fe-f761-0dcb22e0c172?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7f7d85d-2e65-ee67-7311-eb2b677db607?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/25b86743-1bba-5f52-68bb-bd32eacdb732?academicYearId=2025"
+              },
+              {
+                "title": "Interior Architecture",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9403c2c6-2e3d-6263-d7e7-7a89f2f400fc?academicYearId=2025"
+              },
+              {
+                "title": "Interior Architecture (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1704baeb-6b3c-41fa-a11e-3d434aea41d2?academicYearId=2025"
+              },
+              {
+                "title": "International Business Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bb49f956-6c56-d734-1cb6-57df1ab7c804?academicYearId=2025"
+              },
+              {
+                "title": "Journalism",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e6fffc43-753f-5cda-3cee-35666c6043ac?academicYearId=2025"
+              },
+              {
+                "title": "Law",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/24aa2517-ef58-f823-456d-f4fbeee49d67?academicYearId=2025"
+              },
+              {
+                "title": "Law (Canadian Law)",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9deb5590-8625-488a-834a-8bd3f23078a5?academicYearId=2025"
+              },
+              {
+                "title": "Law (with Integrated Foundation Year)",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a6218bc4-0a8d-4138-8f8e-58c9eccde7a9?academicYearId=2025"
+              },
+              {
+                "title": "Law with Business",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a90fb26a-1ff6-5ea9-f72d-f4bb2440e692?academicYearId=2025"
+              },
+              {
+                "title": "Law with Criminology",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0d40d644-4559-674a-e147-c8c3b6ed75a8?academicYearId=2025"
+              },
+              {
+                "title": "Marketing Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d756d699-4e03-eb2b-ad83-547e0ccd40b0?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical and Manufacturing Engineering (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bd5e7931-5859-8b0f-8e31-bb8d57698056?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/278f7b7a-90c6-c327-ad24-5a8c0dc3ac7c?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/357fbb55-7f59-eaf1-f967-c55ecc11f87d?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "72-96",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5dc0f543-7d22-c418-cc1a-33e298898674?academicYearId=2025"
+              },
+              {
+                "title": "Media Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c9a1db04-593b-10f4-5e6e-8362b393f90d?academicYearId=2025"
+              },
+              {
+                "title": "Media Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ddc99945-dd44-804a-7393-0d036f705c27?academicYearId=2025"
+              },
+              {
+                "title": "Music Business and Media",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0dcdd9b5-04b2-4d24-b85c-85d880924577?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5411c329-38f1-98ba-d22c-2ff55ee79a7a?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Child)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d4c11a6-a010-72cb-2584-6c795daacd8d?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/89bcf9d1-40e2-5cd6-a911-0910bffe1b2a?academicYearId=2025"
+              },
+              {
+                "title": "Pharmacy",
+                "qualification": "MPharm (H)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01b6441d-9370-c821-81cb-a6c0ae2e02bb?academicYearId=2025"
+              },
+              {
+                "title": "Pharmacy with Preparatory Year",
+                "qualification": "MPharm (H)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e17cac0e-61fb-4f3f-aa5a-900f09a64bb2?academicYearId=2025"
+              },
+              {
+                "title": "Philosophy, Politics, Ethics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fa753ffb-6821-63de-9e4d-55176325e352?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73218fca-37a5-a757-c1ae-97110d8a57e1?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education with QTS (Secondary)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/257cd70c-09d8-556a-a4c1-088c2814412f?academicYearId=2025"
+              },
+              {
+                "title": "Physician Associate Studies",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/239cc996-7d9b-4372-a592-e09a27c0bf9c?academicYearId=2025"
+              },
+              {
+                "title": "Podiatry",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9a77dbb4-1864-f4d5-8839-f047c0bdb99f?academicYearId=2025"
+              },
+              {
+                "title": "Politics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-113",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1fef3d5-f447-c694-08a8-ef6a1cf20c75?academicYearId=2025"
+              },
+              {
+                "title": "Politics and International Relations",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b26703cb-f1db-44e5-98e5-91d4fc99a0ca?academicYearId=2025"
+              },
+              {
+                "title": "Politics, Sexuality and Gender",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/35d9b42f-3cc8-46fd-b54e-7288bf22d262?academicYearId=2025"
+              },
+              {
+                "title": "Primary Education 3-7 with QTS",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c463900e-ffc8-f994-7a68-5d696ebbf833?academicYearId=2025"
+              },
+              {
+                "title": "Primary Education 5-11 with QTS",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c461c999-c608-9353-5e25-2e536d789cbf?academicYearId=2025"
+              },
+              {
+                "title": "Product Design",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81feecd4-2fa1-891d-665e-351097c82602?academicYearId=2025"
+              },
+              {
+                "title": "Product Design (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a4c616e4-c9bc-4147-85fb-bb54f96da121?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bef6fcdb-60ec-045a-0e2c-19585b6fcfff?academicYearId=2025"
+              },
+              {
+                "title": "Psychology and Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bb2f18d9-48c6-09e3-aa35-851cb6487c8d?academicYearId=2025"
+              },
+              {
+                "title": "Psychology and Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/608e1847-cd91-c9e1-6e53-2b56dabeeed4?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Counselling Studies",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/493dd3ed-462b-4721-81c5-d29782704558?academicYearId=2025"
+              },
+              {
+                "title": "Quantity Surveying",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/10bfd96e-edf0-469f-91ea-2d4e189776f9?academicYearId=2025"
+              },
+              {
+                "title": "Robotics and Mechatronics Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b2cb18f0-4b91-4702-990c-fb52e50ee9ee?academicYearId=2025"
+              },
+              {
+                "title": "Robotics and Mechatronics Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e02665c-bc8d-4836-91b6-a1254b7e2b05?academicYearId=2025"
+              },
+              {
+                "title": "Robotics and Mechatronics Engineering with Integrated Foundation Year",
+                "qualification": "BEng",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/11b58e5d-1dcc-4f1b-bdef-ff50d5c9a634?academicYearId=2025"
+              },
+              {
+                "title": "Social Science",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fbc7f208-c67c-054d-5c64-08971eecb9ab?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4b338614-bc74-72a2-fe0d-b89f25d460bb?academicYearId=2025"
+              },
+              {
+                "title": "Social Work (Postgraduate Entry)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/09710b1f-6f35-ce12-ba03-8500e7a1efe7?academicYearId=2025"
+              },
+              {
+                "title": "Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/64bb03ba-5cd6-a213-22fa-df5d5f4fd597?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/24b13e14-e760-2e33-4def-0e917d1199de?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b77ab2df-9b70-1be9-1b8b-ee97cad1d42e?academicYearId=2025"
+              },
+              {
+                "title": "Sport Coaching",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ca21473a-6e49-20fd-dc5c-cfbd3fca9e15?academicYearId=2025"
+              },
+              {
+                "title": "Sport Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3d638a3-6238-36dd-36a3-3027c9a9af9c?academicYearId=2025"
+              },
+              {
+                "title": "Sports Journalism",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3f38d1bb-8129-f9f7-8183-b62cb6335aa1?academicYearId=2025"
+              },
+              {
+                "title": "Strength and Conditioning",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9362c9b0-fcd3-4dd8-8032-884e134182d8?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "107 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton"
+          },
+          {
+            "mode": "Other mode",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton"
+          },
+          {
+            "mode": "Part-time",
+            "count": "65 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20of%20Brighton"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "15 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Brighton",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "107 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "1 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "15 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting (ACCA)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e6994ce8-4f47-4969-8e8d-6d3efce479ee?academicYearId=2025"
+              },
+              {
+                "title": "Applied Exercise Physiology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1023f427-33af-4426-06a1-e2631580aa61?academicYearId=2025"
+              },
+              {
+                "title": "Applied Sport Physiology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0bb1660a-a5e4-6cb6-db33-ae9e82f0628e?academicYearId=2025"
+              },
+              {
+                "title": "Approved Mental Health Practice PGDip",
+                "qualification": "PgDip",
+                "duration": "6 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fccd80b1-43ef-4750-9e2d-f7a352a31e4d?academicYearId=2025"
+              },
+              {
+                "title": "Aquatic Environments MRes",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2a20f9d6-ec41-4fe4-813a-f4c74b62c771?academicYearId=2025"
+              },
+              {
+                "title": "Architectural and Urban Design",
+                "qualification": "MA",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/31261b03-d364-3820-dae4-915446f600d6?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (RIBA part 2)",
+                "qualification": "MArch",
+                "duration": "24 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1247eb2b-2085-1db6-d97f-d18254d6bc44?academicYearId=2025"
+              },
+              {
+                "title": "Art and Design (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/da9fc68c-f8a0-44a9-aad6-b0e271b74e32?academicYearId=2025"
+              },
+              {
+                "title": "Biological Sciences",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e24fd6f-5357-492d-ba34-23387170d9c1?academicYearId=2025"
+              },
+              {
+                "title": "Biology (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5d5f51c2-2fcd-4af4-a800-88b0f8a79e90?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Sciences",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/69439d7d-9c2a-4f47-a6d1-75f972b570d5?academicYearId=2025"
+              },
+              {
+                "title": "Chemistry",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/973bb60b-b599-4cc3-aa75-102c6f458e51?academicYearId=2025"
+              },
+              {
+                "title": "Chemistry (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf651e11-2805-4755-93f0-5aac6a4eafc0?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3a313f1f-7f5c-5022-e18e-558d9f5b3c83?academicYearId=2025"
+              },
+              {
+                "title": "Community Psychology",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ddb78903-e802-df8c-d331-7b74f1f82f48?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5841993c-932a-4072-9fca-96f834093e89?academicYearId=2025"
+              },
+              {
+                "title": "Construction Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1df2437e-c5a6-cdac-3b26-500a12bdfab2?academicYearId=2025"
+              },
+              {
+                "title": "Construction Project Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a52b331b-653e-288a-7227-3c2611e0e7e8?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cc3b7be0-244a-0d3e-cabd-b4c009d15b5e?academicYearId=2025"
+              },
+              {
+                "title": "Curating Collections and Heritage",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc157470-bacd-46f8-8eee-4d8c38dc054f?academicYearId=2025"
+              },
+              {
+                "title": "Data Analytics",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/82a1169b-32c2-63b5-560f-343e81a2eef9?academicYearId=2025"
+              },
+              {
+                "title": "Diagnostic Radiography (pre-registration) MSc",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e46f6ffe-0633-40b8-9890-55fba9ab9bfa?academicYearId=2025"
+              },
+              {
+                "title": "Ecology and Conservation",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e72e5f74-e1a4-4eb1-ac3e-c05151b67c4c?academicYearId=2025"
+              },
+              {
+                "title": "Economics and Finance",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c1d34f9c-3b0b-0059-88ee-79b0e3093206?academicYearId=2025"
+              },
+              {
+                "title": "Engineering Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d5929ff1-32f9-4c72-82b8-6d67c78d51e8?academicYearId=2025"
+              },
+              {
+                "title": "English (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4b51327-634c-4c6e-a601-9ec5dcefabc6?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Assessment and Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1f0958e4-5b6e-30d0-9fda-7df5a9e8aa6f?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Politics MRes",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2402bf0d-f4e0-4b45-ac5c-a68a304120f7?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Accounting",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81a10f93-15de-55aa-9383-105ac6ef929e?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Banking",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/23994dcf-5956-c749-214b-30347b20ea95?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Data Analytics",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7ce88517-d007-4b94-b905-703391f110fa?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Fintech",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bcfc4fa5-a659-448c-b29c-58a8ffca1472?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Investment",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9ce2bd6a-dd6c-43a1-a379-217878392b65?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Risk Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/acc0c2f4-6552-ac7a-c7db-91d6ec96a029?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cc9703c-4073-1df7-5e70-56c4b27b0b8a?academicYearId=2025"
+              },
+              {
+                "title": "Further Education and Skills PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/99f66cb9-4554-4987-8c3d-ee73413e3d3e?academicYearId=2025"
+              },
+              {
+                "title": "Geographical Information Systems and Environmental Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7e87835c-a595-3c90-66ba-d44121061a27?academicYearId=2025"
+              },
+              {
+                "title": "Geography (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/45fd4347-e12d-480d-8f8b-b180509763b7?academicYearId=2025"
+              },
+              {
+                "title": "Geoscience MRes",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b69adb63-6a8d-4c7c-b99e-9929895e8c56?academicYearId=2025"
+              },
+              {
+                "title": "GIS and Remote Sensing MRes",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70e36a68-e83d-475d-8332-077b94738f46?academicYearId=2025"
+              },
+              {
+                "title": "Globalisation (Politics, Conflict and Human Rights)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac81e8ef-2d28-7975-56af-dff3f7aa3680?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/89e3740a-75c1-4b70-b436-586c75d3a16a?academicYearId=2025"
+              },
+              {
+                "title": "Health",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/018999ac-9928-f413-a6e4-4a0bd4c6b773?academicYearId=2025"
+              },
+              {
+                "title": "Health and Education",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2e03bb89-4313-8681-c4b9-79793e9cd5d2?academicYearId=2025"
+              },
+              {
+                "title": "Health and Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/66678943-85be-f056-6bc4-fa6c74218599?academicYearId=2025"
+              },
+              {
+                "title": "Health Promotion",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/180f67f4-c72f-6ef5-ec31-73021b75c69f?academicYearId=2025"
+              },
+              {
+                "title": "History (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2bfd33e8-896d-4619-966d-8569d7cc5979?academicYearId=2025"
+              },
+              {
+                "title": "History of Design and Material Culture",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/62fa1464-3f7c-e94f-5f85-5a5444d6f128?academicYearId=2025"
+              },
+              {
+                "title": "Humanities",
+                "qualification": "Masters in Research (MRes)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b46f3b5-b615-45d7-a878-e7d12bf331a9?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design",
+                "qualification": "MA",
+                "duration": "18 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d12b05b1-95db-3152-6d50-8b2a3443030c?academicYearId=2025"
+              },
+              {
+                "title": "International Management",
+                "qualification": "MSc",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e01570d7-c7c7-a845-fda2-ea27cb850d72?academicYearId=2025"
+              },
+              {
+                "title": "Journalism",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e17350a8-1af7-4a6e-adb7-d675895bcd62?academicYearId=2025"
+              },
+              {
+                "title": "Law Conversion",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc2864a3-a52d-4c7e-88e2-21e55aaaa496?academicYearId=2025"
+              },
+              {
+                "title": "Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/85118930-6e70-4909-8d9c-898ff2abca08?academicYearId=2025"
+              },
+              {
+                "title": "Management (Entrepreneurship)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c844f3b9-9813-45b9-9037-ba02aa82fa1a?academicYearId=2025"
+              },
+              {
+                "title": "Management (Human Resources)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/692270e9-d8fb-5e5b-9b18-7a8566780f73?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/984d8ffb-ee6c-4018-bcab-acc33c810df7?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (Branding and Communication)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff7ae788-6dd3-3f3e-6436-06b3050d2487?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (Digital Marketing)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6561cc94-9483-65fa-9b0f-7aa20391915e?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (International Marketing)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0631358a-0d13-b4e6-2604-cad5a55892ea?academicYearId=2025"
+              },
+              {
+                "title": "Mathematics (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d2712e38-b3a2-4f10-933e-dc35623727dc?academicYearId=2025"
+              },
+              {
+                "title": "Occupational Therapy (Pre-registration)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time (intensive)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2dbc1bc1-4fc2-4b7c-afdb-89ea5e42ba61?academicYearId=2025"
+              },
+              {
+                "title": "Pharmaceutical Sciences",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9c3298d4-7c2a-488f-89e3-59261d535b26?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b5cfa62-c61c-46f8-95f3-3bc446cf0b82?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e06d316f-911e-46de-bfc3-3629c94fd1cd?academicYearId=2025"
+              },
+              {
+                "title": "Physics (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d24e1887-561e-47ad-8608-ed4c281edf85?academicYearId=2025"
+              },
+              {
+                "title": "Physics with Mathematics (Secondary) PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b7a26019-908c-48ef-8f7f-b51cbc4e833b?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy (Pre-registration)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/250a949a-b507-4caa-8afa-3ece6de4fffc?academicYearId=2025"
+              },
+              {
+                "title": "Podiatry (Pre-registration)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time (intensive)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2829b42b-7eb6-42d7-9b80-c2cc5f5317fd?academicYearId=2025"
+              },
+              {
+                "title": "Precision Medicine Cancer MSc",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a26cf05b-b353-4dfa-81d2-f10af71b57a3?academicYearId=2025"
+              },
+              {
+                "title": "Primary 3-7 years PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e7b97c78-6bb5-4ba2-b717-db13ba32d3f7?academicYearId=2025"
+              },
+              {
+                "title": "Primary 5-11 years PGCE",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9787bbb4-d302-43c5-87ce-f73f5aaec6da?academicYearId=2025"
+              },
+              {
+                "title": "Professional Studies in Accounting (ACCA)",
+                "qualification": "Diploma",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6a674bb5-1374-4eda-8f0a-6065dc115c83?academicYearId=2025"
+              },
+              {
+                "title": "Regenerative Medicine and Devices",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93139812-1107-4a84-b92e-454f24f6eef2?academicYearId=2025"
+              },
+              {
+                "title": "Riverine and Estuarine Processes MRes",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/855ac90b-f1e6-4ebf-897d-39b9ec774d45?academicYearId=2025"
+              },
+              {
+                "title": "Sequential Design and Illustration",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/48fd616c-a642-9b56-383b-659379091181?academicYearId=2025"
+              },
+              {
+                "title": "Social Science",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/339a4119-357e-42a1-98eb-ee6f8e37e134?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "PgDip",
+                "duration": "1.5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be0b7e3d-0c38-4054-99a6-85b158d06bc1?academicYearId=2025"
+              },
+              {
+                "title": "Specialist Community Practitioner MSc PGDip",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eded561e-d04d-4dbe-b35f-27a0bdf516bd?academicYearId=2025"
+              },
+              {
+                "title": "Sport Journalism",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/38fbd215-f311-4199-9391-d65ed0f5ff9a?academicYearId=2025"
+              },
+              {
+                "title": "Strength and Conditioning",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5eec6e91-52a7-49f5-9e97-0544dcf4349d?academicYearId=2025"
+              },
+              {
+                "title": "Stress, Ageing and Chronic Disease",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/53a82f11-8ae3-4855-8eec-a852ed163c52?academicYearId=2025"
+              },
+              {
+                "title": "Structural Engineering",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/22b5bb0b-fd76-43c5-aae9-26d343dfdcd5?academicYearId=2025"
+              },
+              {
+                "title": "Supply Chain Management",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ae1b93d1-2237-4784-84a5-4167c2c1130e?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0528b01a-4f59-198f-966f-db7e42177656?academicYearId=2025"
+              },
+              {
+                "title": "Town Planning",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b49ac5b-81ae-b5e4-09a1-9ec52e839979?academicYearId=2025"
+              },
+              {
+                "title": "User Experience Design",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/07a26613-788f-b5c2-5230-be53ddb1b66c?academicYearId=2025"
+              },
+              {
+                "title": "Water and Environmental Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cc44fcd-ac6f-86be-cc5a-8f2ca129a531?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20of%20Brighton",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "65 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting (ACCA)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e6994ce8-4f47-4969-8e8d-6d3efce479ee?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Clinical Practice",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6e022c23-5bc3-49dd-94b4-4cb743f4638d?academicYearId=2025"
+              },
+              {
+                "title": "Applied Exercise Physiology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1023f427-33af-4426-06a1-e2631580aa61?academicYearId=2025"
+              },
+              {
+                "title": "Applied Sport Physiology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0bb1660a-a5e4-6cb6-db33-ae9e82f0628e?academicYearId=2025"
+              },
+              {
+                "title": "Approved Mental Health Practice PGDip",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fccd80b1-43ef-4750-9e2d-f7a352a31e4d?academicYearId=2025"
+              },
+              {
+                "title": "Aquatic Environments MRes",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2a20f9d6-ec41-4fe4-813a-f4c74b62c771?academicYearId=2025"
+              },
+              {
+                "title": "Architectural and Urban Design",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/31261b03-d364-3820-dae4-915446f600d6?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (RIBA part 2)",
+                "qualification": "MArch",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1247eb2b-2085-1db6-d97f-d18254d6bc44?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3a313f1f-7f5c-5022-e18e-558d9f5b3c83?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Practice",
+                "qualification": "Graduate Certificate",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/87da1e8e-0604-4859-8fd8-f835dc8fdf06?academicYearId=2025"
+              },
+              {
+                "title": "Community Psychology",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ddb78903-e802-df8c-d331-7b74f1f82f48?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5841993c-932a-4072-9fca-96f834093e89?academicYearId=2025"
+              },
+              {
+                "title": "Construction Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1df2437e-c5a6-cdac-3b26-500a12bdfab2?academicYearId=2025"
+              },
+              {
+                "title": "Construction Project Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a52b331b-653e-288a-7227-3c2611e0e7e8?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cc3b7be0-244a-0d3e-cabd-b4c009d15b5e?academicYearId=2025"
+              },
+              {
+                "title": "Curating Collections and Heritage",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc157470-bacd-46f8-8eee-4d8c38dc054f?academicYearId=2025"
+              },
+              {
+                "title": "Data Analytics",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/82a1169b-32c2-63b5-560f-343e81a2eef9?academicYearId=2025"
+              },
+              {
+                "title": "Early Years Education PGCert with Early Years Teacher Status",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/978881b1-6439-433f-935f-efac0fe33bcc?academicYearId=2025"
+              },
+              {
+                "title": "Engineering Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d5929ff1-32f9-4c72-82b8-6d67c78d51e8?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Assessment and Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1f0958e4-5b6e-30d0-9fda-7df5a9e8aa6f?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Politics MRes",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2402bf0d-f4e0-4b45-ac5c-a68a304120f7?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cc9703c-4073-1df7-5e70-56c4b27b0b8a?academicYearId=2025"
+              },
+              {
+                "title": "Geographical Information Systems and Environmental Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7e87835c-a595-3c90-66ba-d44121061a27?academicYearId=2025"
+              },
+              {
+                "title": "Geoscience MRes",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b69adb63-6a8d-4c7c-b99e-9929895e8c56?academicYearId=2025"
+              },
+              {
+                "title": "GIS and Remote Sensing MRes",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "08/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70e36a68-e83d-475d-8332-077b94738f46?academicYearId=2025"
+              },
+              {
+                "title": "Globalisation (Politics, Conflict and Human Rights)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac81e8ef-2d28-7975-56af-dff3f7aa3680?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/89e3740a-75c1-4b70-b436-586c75d3a16a?academicYearId=2025"
+              },
+              {
+                "title": "Health",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/018999ac-9928-f413-a6e4-4a0bd4c6b773?academicYearId=2025"
+              },
+              {
+                "title": "Health and Education",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2e03bb89-4313-8681-c4b9-79793e9cd5d2?academicYearId=2025"
+              },
+              {
+                "title": "Health and Management",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/66678943-85be-f056-6bc4-fa6c74218599?academicYearId=2025"
+              },
+              {
+                "title": "Health Promotion",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/180f67f4-c72f-6ef5-ec31-73021b75c69f?academicYearId=2025"
+              },
+              {
+                "title": "History of Design and Material Culture",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/62fa1464-3f7c-e94f-5f85-5a5444d6f128?academicYearId=2025"
+              },
+              {
+                "title": "Humanistic Counselling and Psychotherapy",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76b67f06-1cc6-4445-8540-69047368d2c0?academicYearId=2025"
+              },
+              {
+                "title": "Humanities",
+                "qualification": "Masters in Research (MRes)",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b46f3b5-b615-45d7-a878-e7d12bf331a9?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design",
+                "qualification": "MA",
+                "duration": "30 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d12b05b1-95db-3152-6d50-8b2a3443030c?academicYearId=2025"
+              },
+              {
+                "title": "Journalism",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e17350a8-1af7-4a6e-adb7-d675895bcd62?academicYearId=2025"
+              },
+              {
+                "title": "Law Conversion",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc2864a3-a52d-4c7e-88e2-21e55aaaa496?academicYearId=2025"
+              },
+              {
+                "title": "Leading Practice Education PGCert",
+                "qualification": "PgCert",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6c0e112b-e757-4972-a695-8bb43a39a39c?academicYearId=2025"
+              },
+              {
+                "title": "Management, Practice and Law in Architecture",
+                "qualification": "PgDip",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "12/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d8df2f38-4565-9108-79c5-30d8d64c27a5?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/984d8ffb-ee6c-4018-bcab-acc33c810df7?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (Branding and Communication)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff7ae788-6dd3-3f3e-6436-06b3050d2487?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (Digital Marketing)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6561cc94-9483-65fa-9b0f-7aa20391915e?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (International Marketing)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0631358a-0d13-b4e6-2604-cad5a55892ea?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b5cfa62-c61c-46f8-95f3-3bc446cf0b82?academicYearId=2025"
+              },
+              {
+                "title": "Precision Medicine Cancer MSc",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a26cf05b-b353-4dfa-81d2-f10af71b57a3?academicYearId=2025"
+              },
+              {
+                "title": "Professional Social Work Practice",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4be01d75-f64c-48a3-9549-9fc4bb028206?academicYearId=2025"
+              },
+              {
+                "title": "Professional Studies in Accounting (ACCA)",
+                "qualification": "Diploma",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6a674bb5-1374-4eda-8f0a-6065dc115c83?academicYearId=2025"
+              },
+              {
+                "title": "Psychodynamic Counselling and Psychotherapy",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/21ccb017-5cae-4cf6-9004-ade64d766cb6?academicYearId=2025"
+              },
+              {
+                "title": "Regenerative Medicine and Devices",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93139812-1107-4a84-b92e-454f24f6eef2?academicYearId=2025"
+              },
+              {
+                "title": "Riverine and Estuarine Processes MRes",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/855ac90b-f1e6-4ebf-897d-39b9ec774d45?academicYearId=2025"
+              },
+              {
+                "title": "Sequential Design and Illustration",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/48fd616c-a642-9b56-383b-659379091181?academicYearId=2025"
+              },
+              {
+                "title": "Social Science",
+                "qualification": "MRes",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/339a4119-357e-42a1-98eb-ee6f8e37e134?academicYearId=2025"
+              },
+              {
+                "title": "Specialist Community Practitioner MSc PGDip",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer, Brighton",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eded561e-d04d-4dbe-b35f-27a0bdf516bd?academicYearId=2025"
+              },
+              {
+                "title": "Sport Journalism",
+                "qualification": "MA",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/38fbd215-f311-4199-9391-d65ed0f5ff9a?academicYearId=2025"
+              },
+              {
+                "title": "Strength and Conditioning",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Falmer Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5eec6e91-52a7-49f5-9e97-0544dcf4349d?academicYearId=2025"
+              },
+              {
+                "title": "Structural Engineering",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/22b5bb0b-fd76-43c5-aae9-26d343dfdcd5?academicYearId=2025"
+              },
+              {
+                "title": "Supply Chain Management",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ae1b93d1-2237-4784-84a5-4167c2c1130e?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Design",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0528b01a-4f59-198f-966f-db7e42177656?academicYearId=2025"
+              },
+              {
+                "title": "Town Planning",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b49ac5b-81ae-b5e4-09a1-9ec52e839979?academicYearId=2025"
+              },
+              {
+                "title": "User Experience Design",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/07a26613-788f-b5c2-5230-be53ddb1b66c?academicYearId=2025"
+              },
+              {
+                "title": "Water and Environmental Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Brighton",
+                "location": "Moulsecoomb Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cc44fcd-ac6f-86be-cc5a-8f2ca129a531?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Apprenticeships": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Apprenticeships",
+      "paragraphs": [
+        "Since 2016, the University of Brighton has been developing and delivering higher and degree apprenticeships at level 5, 6 and 7, equivalent to foundation, bachelors and masters degrees. Apprentices combine work with part-time university study and develop through on-the-job learning with work-based projects relevant to their organisation.",
+        "The University offers apprenticeships in construction and engineering, health and science, and education Apprenticeships are a great option for those looking to enter the world of work with a CV full of experience and theoretical knowledge that employers look for."
+      ]
+    },
+    "International": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "In the QS 2025 rankings for Best Student Cities, Brighton is in the top 100 worldwide, in addition to being ranked in the top 5 UK cities in the world (2025 Time Out Worlds 50 Best Cities in the World).",
+        "With Brighton, you’ll go further: 50 professional organisations recognise the university’s courses and the University was awarded TEF Silver, demonstrating the quality of its teaching and student outcomes.",
+        "Courses at Brighton develop the qualities, characteristics and skills that employers are looking for so students graduate feeling confident about stepping into the world of work after graduation. Throughout their degree, students have access to careers advice and support.",
+        "The University and the city are inclusive and welcoming. Students who join Brighton become part of a global community focused on positive change. Students can create even more connections by joining societies to do with their academic subject, faith, and leisurely interests.",
+        "\"Brighton is vibrant, multicultural, and inclusive, both as a university and a city. During this time in my life, I met people from all different walks of life and yet we all had so much in common. I learnt about different cultures and am still in touch with many of my international university friends today.\" - Shirin Alwash, Pharmacy MPharm"
+      ]
+    },
+    "StudentSupport": {
+      "metaLabels": [
+        "Location: Seaside, City"
+      ],
+      "heading": "Student support",
+      "paragraphs": [
+        "Student mental health, wellbeing, and safety is of paramount importance to the University of Brighton. Diversity and inclusion are at the centre of all of Brighton’s activities and the University offers a range of support services designed to help students from the day they arrive on campus.",
+        "All students have access to a Student Support and Guidance Tutor (SSGT) and a Personal Academic Tutor (PAT). SSGTs are dedicated to supporting any issues that might be impacting studies, wellbeing or experience. PATs provide academic advice and work closely with the SSGTs to ensure that students are supported holistically.",
+        "For students who want to work while they study, there are opportunities to apply for paid roles on campus. The careers and employability team can provide advice on finding a job in the city, and answer career-related questions."
+      ]
+    }
+  }
+}

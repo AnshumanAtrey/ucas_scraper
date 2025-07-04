@@ -1,0 +1,3496 @@
+{
+  "id": "UK0009",
+  "slug": "bristol-uwe",
+  "scrapedAt": "2025-07-04T13:20:14.773Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "Apprenticeships",
+    "International"
+  ],
+  "pages": {
+    "About": {
+      "name": "Bristol, UWE",
+      "location": "Bristol",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/campus_photo_-_frenchay.jpg",
+      "about": "Choose to do university right\nAt UWE Bristol, we empower our students to make a choice. To choose a university that pushes itself as much as it pushes you. To choose a community that’s breaking boundaries and leading the way. To choose a passion that excites, delights and gives you purpose.\nExcellent employability\n90% of our graduates are in work or further study 15 months after graduation, placing UWE Bristol in the top 50 UK universities for positive graduate employment prospects (Graduate Outcome Survey results from 2021/22, published 2024).\nSupport services\nWe know that heading to university is a big deal. It’s our aim as a university to give you all the tools you need to succeed. Services and resources available include academic personal tutors, School support staff, Peer Assisted Learning (student-to-student support scheme), student support advisers and a 24/7 wellbeing service.",
+      "whatMakesUsDifferent": "Everything we do here is focused on preparing you for the real world. Our strong links with national and international employers allow us to design industry-relevant courses and offer hands-on placements and internships.\nThere’s much more to the UWE Bristol experience than just our courses. Music, sports, community projects, support networks, the list goes on. With over 160 societies and clubs to choose from, students are sure to find something great to get involved with, meet new people, and have fun.\nOne of our best assets is our city. Bristol is famous for its independent thinking, unique urban style and culture of innovative creativity. It’s not just a great place to live, with its music, arts, culture, green spaces, food scene and fantastic festivals. It’s a great place to start a career too, in a hotbed of creativity, innovation, research and tech. This variety of benefits makes Bristol a city buzzing with potential and whatever students are into, they’ll find it here.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/014.building_1_bower_ashton_campus_uwe._dsc4319_0.jpg?itok=9FlMcq_C",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/bio_space-117_0.jpg?itok=F_-blY-5",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uwe_law_-_hires_-_10_0.jpg?itok=uZAZIWHb",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/glenside_exterior_accom_010_0.jpg?itok=b-d8Idvj",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/dpp_arnolfini_day_1_best_202_0.jpg?itok=r-YBZRMs",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/open_day-146_0.jpg?itok=ZASwKKr4",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/clifton-12_0.jpg?itok=Bm4kJo1k",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/waterfront-3_0.jpg?itok=0y_ilHo3",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/waterfront_centre-10.jpg?itok=r-7t3_wZ",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/014.building_1_bower_ashton_campus_uwe._dsc4319_0.jpg?itok=9FlMcq_C",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/bio_space-117_0.jpg?itok=F_-blY-5",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/uwe_law_-_hires_-_10_0.jpg?itok=uZAZIWHb",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/glenside_exterior_accom_010_0.jpg?itok=b-d8Idvj",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/dpp_arnolfini_day_1_best_202_0.jpg?itok=r-YBZRMs",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/open_day-146_0.jpg?itok=ZASwKKr4",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/clifton-12_0.jpg?itok=Bm4kJo1k",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/waterfront-3_0.jpg?itok=0y_ilHo3",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/waterfront_centre-10.jpg?itok=r-7t3_wZ"
+      ],
+      "website": "http://www.uwe.ac.uk/",
+      "email": "admissions@uwe.ac.uk",
+      "phone": "+44(0)117 32 83333",
+      "metaLabels": [
+        "Location: City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Frenchay Campus",
+          "address": "Coldharbour Lane, Bristol, BS16 1QY"
+        },
+        {
+          "title": "Glenside Campus",
+          "address": "Glenside, Bristol, BS16 1DD"
+        },
+        {
+          "title": "Gloucestershire College",
+          "address": "Cheltenham Campus, Princess Elizabeth Way, Cheltenham, GL51 7SJ"
+        },
+        {
+          "title": "City Campus",
+          "address": "Kennel Lodge Road, Bristol, BS3 2JT"
+        },
+        {
+          "title": "Main Site",
+          "address": "Coldharbour Lane, Frenchay, Bristol, BS16 1QY"
+        },
+        {
+          "title": "Bristol Zoo Gardens",
+          "address": "Clifton, Bristol, BS8 3HA"
+        },
+        {
+          "title": "Bristol City Football Club, Ashton Gate",
+          "address": "Ashton Gate Stadium, Ashton Road, Bristol, BS3 2EJ"
+        },
+        {
+          "title": "Arnolfini",
+          "address": "Bush House, Floors 3, 4 & 5, Bristol, BS1 4QD"
+        },
+        {
+          "title": "City of Bristol College",
+          "address": "Ashley Down, Bristol, BS7 9BU"
+        }
+      ],
+      "openDays": [
+        {
+          "title": "UWE Bristol Undergraduate Open Day - City Campus",
+          "date": "11 Oct 2025, 14:30 • Undergraduate",
+          "location": "Bristol, UK"
+        },
+        {
+          "title": "UWE Bristol Undergraduate Open Day - Frenchay Campus",
+          "date": "11 Oct 2025, 14:30 • Undergraduate",
+          "location": "Bristol, UK"
+        },
+        {
+          "title": "UWE Bristol Undergraduate Open Day - Glenside Campus",
+          "date": "11 Oct 2025, 14:30 • Undergraduate",
+          "location": "Bristol, UK"
+        },
+        {
+          "title": "UWE Bristol Undergraduate Open Day - City Campus",
+          "date": "22 Nov 2025, 14:30 • Undergraduate",
+          "location": "Bristol, UK"
+        },
+        {
+          "title": "UWE Bristol Undergraduate Open Day - Frenchay Campus",
+          "date": "22 Nov 2025, 14:30 • Undergraduate",
+          "location": "Bristol, UK"
+        },
+        {
+          "title": "UWE Bristol Undergraduate Open Day - Glenside Campus",
+          "date": "22 Nov 2025, 14:30 • Undergraduate",
+          "location": "Bristol, UK"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "54%"
+            },
+            {
+              "label": "Male",
+              "value": "46%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "75%"
+            },
+            {
+              "label": "EU Students",
+              "value": "2%"
+            },
+            {
+              "label": "International",
+              "value": "22%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "80%"
+            },
+            {
+              "label": "Part-time",
+              "value": "20%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "41%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "59%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "33%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "67%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Clubs & Societies: UWE Bristol has over 40 sports clubs, including team and individual sports, ranging from netball and football to sub-aqua and gliding. Get involved to represent UWE Bristol, socialise with like-minded people and make new friends.",
+        "Accommodation: We want you to feel at home from day one, and that’s why we have a range of accommodation on offer, both on and off campus. With 900 new student rooms on our main campus, we’re sure you’ll find something that’s right for you.",
+        "SU: The Students’ Union is the heart of UWE Bristol’s student community, democratically elected to ensure the student voice is heard at every level of the institution. It’s also the University’s social hub, with a great selection of bars, clubs and restaurants.",
+        "City life: One of the world’s top 50 cities (Time Out, 2025). Best place to visit in the UK (Time Out, 2024). Bristol is a firm student favourite and it’s harder to think of a better city in the UK to study, live and work in."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-641668044-s-west-header.jpg?itok=N-mNYPQA",
+          "heading": "What's it like to live in South West?Check out our region guide",
+          "paragraphs": [
+            "The South West of England is made up of seven counties, with rural areas surrounding key student cities – from Plymouth and Bournemouth up to Bath, Bristol and Cheltenham & Gloucester.",
+            "You'll find many a festival – including the world-famous Glastonbury. And if you're a cider or cheese buff, you'll have plenty to try in the South West. You can always walk it off in Dartmoor and Exmoor national parks, or beautiful countryside from the Cotswolds to Land's End.",
+            "Cornwall, Dorset, and Devon are big coastal favourites, with idyllic beaches and waves to test the bravest surfers."
+          ],
+          "link": "https://www.ucas.com/study-in/south-west"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-171116435-bristol-header.jpg?itok=eZdeaqjd",
+          "heading": "What's it like to live in Bristol?Check out our city guide",
+          "paragraphs": [
+            "Discover what it’s really like to live in Bristol as an international student, from the vibrant arts scene to the student-friendly atmosphere."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-bristol"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "Spread over three campuses, all just a short journey from one another, each site offers something unique. In recent years, we've invested £300 million into our industry-standard facilities. Creating the most effective and empowering setting for our students and people to discover their potential."
+      ],
+      "courseLocations": [
+        {
+          "title": "Frenchay Campus",
+          "address": "Coldharbour Lane, Bristol, BS16 1QY"
+        },
+        {
+          "title": "Glenside Campus",
+          "address": "Glenside, Bristol, BS16 1DD"
+        },
+        {
+          "title": "Gloucestershire College",
+          "address": "Cheltenham Campus, Princess Elizabeth Way, Cheltenham, GL51 7SJ"
+        },
+        {
+          "title": "City Campus",
+          "address": "Kennel Lodge Road, Bristol, BS3 2JT"
+        },
+        {
+          "title": "Main Site",
+          "address": "Coldharbour Lane, Frenchay, Bristol, BS16 1QY"
+        },
+        {
+          "title": "Bristol Zoo Gardens",
+          "address": "Clifton, Bristol, BS8 3HA"
+        },
+        {
+          "title": "Bristol City Football Club, Ashton Gate",
+          "address": "Ashton Gate Stadium, Ashton Road, Bristol, BS3 2EJ"
+        },
+        {
+          "title": "Arnolfini",
+          "address": "Bush House, Floors 3, 4 & 5, Bristol, BS1 4QD"
+        },
+        {
+          "title": "City of Bristol College",
+          "address": "Ashley Down, Bristol, BS7 9BU"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "We offer over 200 practice-based undergraduate courses covering a vast range of subjects, of which nearly 170 are accredited. We work closely with over 16,000 national and international employer partners to make sure our courses are up-to-the-minute, industry-relevant, and meet the required professional standards.",
+        "UWE Bristol’s teaching is enriched by the University’s modern facilities and firm industry connections, with courses designed with your career in mind. There are also opportunities for real-world experience alongside theoretical learning, with many courses offering work placements and internships while studying. This blend will give you an all-important head-start, equipping you with desirable skills and the kind of mindset that employers are looking for.",
+        "There are also opportunities to develop your enterprising skills, fostering leadership, innovation and commercial awareness, as well as problem solving, decision making and planning."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "279 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          },
+          {
+            "mode": "Part-time",
+            "count": "7 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "114 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "279 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "114 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting and Business Management",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a1ef9859-d7ea-40ed-a3ba-9fe9b980eddd?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Business Management (with Foundation year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/546adee8-e115-4ca6-96c0-1337ed1355a3?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3e39b90-3c59-4542-808a-e14ef1e18dcb?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2f133629-7c5c-4ac3-8f50-c5139172da5f?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/baf7a3fc-42c1-4cd6-87b8-b79a601196f1?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering",
+                "qualification": "MEng",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f4525f63-26b1-63d9-2855-8ece92bae7ae?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f02910ec-cbfe-de4c-b7d9-443b8db15aa8?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d2ac03bf-57a6-e47c-8cf2-9924a0f41760?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering with Pilot Studies",
+                "qualification": "MEng",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7ef18ada-5734-29f7-0dc0-affa01f1faea?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering with Pilot Studies",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/980ab81a-8101-0379-0e07-4a2b1594f720?academicYearId=2025"
+              },
+              {
+                "title": "Aerospace Engineering with Pilot Studies (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bed47cda-a612-0768-789e-78d2d1f74acf?academicYearId=2025"
+              },
+              {
+                "title": "Animation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1a80963d-c7b4-7b6a-7e6c-521481b6948f?academicYearId=2025"
+              },
+              {
+                "title": "Animation (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/57e06c22-7377-4778-a01e-ee7582e54838?academicYearId=2025"
+              },
+              {
+                "title": "Applied Criminal Justice (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b031386f-4aef-4bac-93a7-07a0af4850f1?academicYearId=2025"
+              },
+              {
+                "title": "Architectural Technology and Design",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/63dc611e-3c26-4b87-a575-60170b89fc96?academicYearId=2025"
+              },
+              {
+                "title": "Architectural Technology and Design (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "88",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e3d27da0-3e79-4b75-ac69-71fc1b37d4ac?academicYearId=2025"
+              },
+              {
+                "title": "Architecture",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "144",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73c3902a-ed53-96f3-0b74-8d514b5de7af?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "88",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6aaafe4a-5529-b0ee-9fdf-2e41e1464545?academicYearId=2025"
+              },
+              {
+                "title": "Architecture and Environmental Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5414fbd1-05aa-7fce-52e1-5cbd7320587b?academicYearId=2025"
+              },
+              {
+                "title": "Architecture and Environmental Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "88",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/31ef5d8c-bf05-61ff-2b47-e68471bf32d7?academicYearId=2025"
+              },
+              {
+                "title": "Architecture and Planning",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "136",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/859df593-cb73-ffd5-664a-fa22a6c8787f?academicYearId=2025"
+              },
+              {
+                "title": "Architecture and Planning (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "88",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9889f163-ef53-6824-036f-73d1e2abddf4?academicYearId=2025"
+              },
+              {
+                "title": "Audio and Music Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb813726-1c5b-30e8-e894-001fc02586e1?academicYearId=2025"
+              },
+              {
+                "title": "Automotive Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e5ac6577-a63b-28ff-4df5-f7494d4574b7?academicYearId=2025"
+              },
+              {
+                "title": "Automotive Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9148dcc0-6b1e-717e-2dd5-1da9132f44d5?academicYearId=2025"
+              },
+              {
+                "title": "Banking and Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b614f9ea-3e81-b0aa-10f3-9afc125f5a4b?academicYearId=2025"
+              },
+              {
+                "title": "Banking and Finance (Top Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b029ccb7-0375-4b68-bd0a-a2af04fcaa9b?academicYearId=2025"
+              },
+              {
+                "title": "Banking and Finance (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/add25a71-bd76-56d5-f28b-16bcf7165786?academicYearId=2025"
+              },
+              {
+                "title": "Biological Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0075e966-2d48-08b5-c63b-dfb92d1908ed?academicYearId=2025"
+              },
+              {
+                "title": "Biological Sciences (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/702ca3d6-1669-d19c-4965-4e9aedd3f13d?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/980f5d79-abe9-ea45-f956-7ed48ac43707?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c2688266-ed6a-5216-806c-de2846021526?academicYearId=2025"
+              },
+              {
+                "title": "Building Surveying",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/182a616e-2ecb-fb49-0a4f-5d0e99ef98d4?academicYearId=2025"
+              },
+              {
+                "title": "Business and Events Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3edc493-60ec-5e9c-5af5-b5233d3a8308?academicYearId=2025"
+              },
+              {
+                "title": "Business and Events Management (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/59641f7a-366c-1887-4bff-7d3798a4d1d9?academicYearId=2025"
+              },
+              {
+                "title": "Business and Human Resource Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c5214f13-6981-42bd-8fd5-78cda3aa1de6?academicYearId=2025"
+              },
+              {
+                "title": "Business and Human Resource Management  (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a93791a0-c3e4-e74a-547b-503e13ecd0f0?academicYearId=2025"
+              },
+              {
+                "title": "Business and Human Resource Management (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cdf1b290-86a1-4bc7-a4f6-a193d1404a5d?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7abb9a7f-66bc-9a6b-30e3-47ed02982955?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "05/01/2026",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e1ffca46-e710-4e0f-93a6-420ed022844a?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d293bc68-2f83-fd54-a3da-9b7de59e7a78?academicYearId=2025"
+              },
+              {
+                "title": "Business Computing",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/140d23ab-b9f0-4561-a1df-189f8fe228b1?academicYearId=2025"
+              },
+              {
+                "title": "Business Computing (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d43578c5-56ce-45ef-9bdf-1e9c8757bdc7?academicYearId=2025"
+              },
+              {
+                "title": "Business Management and Economics",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b5199c9d-0b47-f4b9-d070-59fe1634fc48?academicYearId=2025"
+              },
+              {
+                "title": "Business Management and Economics (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/832af723-7cd5-01fd-33e4-cc957cc3f241?academicYearId=2025"
+              },
+              {
+                "title": "Business Management and Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/80d524d3-ebb6-bab0-249d-a9d87d2bc969?academicYearId=2025"
+              },
+              {
+                "title": "Business Management and Marketing (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b88e0c98-3190-c922-8f84-d2549dac6756?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Accounting and Finance (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ab91d64f-5f5d-467f-b2f9-a0fa4592ab14?academicYearId=2025"
+              },
+              {
+                "title": "Business Management with Marketing (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9660198b-0a95-441d-a468-b3cf348324c4?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8d748624-1404-14f1-33cf-e22414f70472?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "MEng",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f1a8b765-e781-420c-b487-85c389e75a1e?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1e474df9-5e20-83de-21df-458d6c914c11?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/32f53824-3645-e40c-74bd-c4a4a55a9b15?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8c4a8529-2377-132b-a0dc-4927fc850205?academicYearId=2025"
+              },
+              {
+                "title": "Construction Project Management",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "104",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1a728cda-88fc-0e47-941d-3d04f4a25242?academicYearId=2025"
+              },
+              {
+                "title": "Creative and Professional Writing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3f7023d-6971-9ff2-c851-4b4c6e8a5871?academicYearId=2025"
+              },
+              {
+                "title": "Creative Music Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c99f8d18-8b73-4619-53e3-3612c88d8b93?academicYearId=2025"
+              },
+              {
+                "title": "Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f27db861-e768-04c9-287d-bb716b00bfae?academicYearId=2025"
+              },
+              {
+                "title": "Criminology (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/23706f00-9090-dfbf-c732-7de0917a8d6e?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd5c9cc6-6405-c1ed-78f0-181909567e1f?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Sociology (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c2d975a5-12f9-6d90-2708-48778a31a949?academicYearId=2025"
+              },
+              {
+                "title": "Criminology with Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06a95701-e2d0-8074-c3cb-7e590132ee62?academicYearId=2025"
+              },
+              {
+                "title": "Criminology with Psychology (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/adedd66b-fc10-1401-a69d-67360759b82b?academicYearId=2025"
+              },
+              {
+                "title": "Culture, Media and Creative Industries",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8912896b-e96c-4cb6-8932-814b1aa4893a?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security and Digital Forensics",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/27ed624e-f4d6-e1e9-7479-f29c9bd79875?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security and Digital Forensics (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/604d61e3-01c3-ab3a-8f51-4d261b9674cb?academicYearId=2025"
+              },
+              {
+                "title": "Data Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1de25e28-3393-46e0-a80b-05daa561e27a?academicYearId=2025"
+              },
+              {
+                "title": "Data Science and Artificial Intelligence",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "See entry requirements",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/707e391f-affd-43f4-8db3-7138fdd55ba5?academicYearId=2025"
+              },
+              {
+                "title": "Diagnostic Radiography",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cadff80-2933-e8cd-ecd1-f76900a6d3fc?academicYearId=2025"
+              },
+              {
+                "title": "Digital Media",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7c4711e1-fb72-3657-3c17-bd33558dfd8d?academicYearId=2025"
+              },
+              {
+                "title": "Digital Media (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76cef1b6-6610-e6a9-a9d1-550a582067b8?academicYearId=2025"
+              },
+              {
+                "title": "Drama, Acting and Performance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e4c0cbd-b922-18c6-9af1-1804ae7eb1b9?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "104",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eee8babd-f48b-80c2-e659-7e902f1dfaa1?academicYearId=2025"
+              },
+              {
+                "title": "Economics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/825ad82e-f153-ce55-e356-bfb3e1ae23fa?academicYearId=2025"
+              },
+              {
+                "title": "Economics (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8016ba17-b33a-f7bf-e791-063380f337be?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "104",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ddeac427-d4e7-4549-8bc6-d71c5c97ce9b?academicYearId=2025"
+              },
+              {
+                "title": "Education in Professional Practice (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ecd324e0-6097-bea6-41cd-d78aa7939bbe?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a19642d4-4330-cbfc-705a-fe07f6feef6f?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3d1c8415-2601-f821-f04e-78052e2d90bd?academicYearId=2025"
+              },
+              {
+                "title": "English Language and Linguistics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8261f1c5-c61e-59f7-8ab3-5b44227dcafc?academicYearId=2025"
+              },
+              {
+                "title": "English Literature",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7efd8dd1-fa16-57ca-11a0-b517926bdadd?academicYearId=2025"
+              },
+              {
+                "title": "Environment and Sustainability",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/94decdbe-c82a-4c6f-891c-d5deaf08c854?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/31719eab-da7b-8400-bad2-af31677b989f?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Science (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60a047ac-fa9b-9c9a-abd0-0aef0cedd06a?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Communication",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a1521659-f687-1de0-aa1f-a5e8a9488593?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Communication (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1c892aca-acd4-4a47-bd0c-30c388e43b74?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Textiles",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ec066594-a2e4-9355-d1db-320dfe3cbe28?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Textiles (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/54b81e84-7951-4e96-bef0-09f58d261f35?academicYearId=2025"
+              },
+              {
+                "title": "Film Studies",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f189c0b2-3310-6f84-a70c-4651ef0317be?academicYearId=2025"
+              },
+              {
+                "title": "Filmmaking",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "128",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4f69ec45-d2b5-8b37-459e-aa6bb17e9a1d?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd11622c-30dd-cf9e-c80c-ad2af0b7fe06?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cfba75f0-ae37-436f-80a8-5824e5b0b540?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8fea1c33-f0f6-3b58-7ea0-b39135f9f77d?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Science (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/00952c2e-97d8-6819-eb3c-89535ba60d3e?academicYearId=2025"
+              },
+              {
+                "title": "Foundation Programme for Professions in Health and Social Care",
+                "qualification": "Fd cert",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "City of Bristol College",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e4ea172e-61bd-aac1-bc6f-7d268389388e?academicYearId=2025"
+              },
+              {
+                "title": "Games Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d9bfc3d5-c62b-35ac-a3a4-bac54d35e44c?academicYearId=2025"
+              },
+              {
+                "title": "Games Technology (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0840ee0a-4317-3c38-6e6e-a9366ace43b5?academicYearId=2025"
+              },
+              {
+                "title": "Geography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f5e2ed67-f335-7b22-7af1-62e95c7b598d?academicYearId=2025"
+              },
+              {
+                "title": "Geography",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bdd8c106-3f2c-b0dc-91aa-b251c6a4a694?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Arnolfini",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bc5f2725-ba7f-bb23-1b14-ad705b172790?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4124201a-f527-41a3-a808-41ebdf417049?academicYearId=2025"
+              },
+              {
+                "title": "History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9ce20bd0-4b78-784f-9650-9a9f3e44a76d?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b3f48405-eea5-79f6-8350-0e0eacbc5861?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47b65e42-4f84-48be-8f20-a1e6e608334d?academicYearId=2025"
+              },
+              {
+                "title": "Information Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/04526f88-a798-d7fe-84d8-c326af9850a6?academicYearId=2025"
+              },
+              {
+                "title": "Integrated Wildlife Conservation",
+                "qualification": "FdSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "64",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b319c2fb-d156-0bcc-6e4d-92899425649d?academicYearId=2025"
+              },
+              {
+                "title": "Integrated Wildlife Conservation (Top Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/acb37d68-7f06-448e-8c3e-c198ccafd915?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/04f6b9fc-5efb-b1c1-a398-a8ee75a781d9?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4334772c-bf05-43fe-a28d-ff41abb9eda2?academicYearId=2025"
+              },
+              {
+                "title": "International Business",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7882d935-91dc-2bbf-a963-63fea03c2c85?academicYearId=2025"
+              },
+              {
+                "title": "International Business (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/38820956-1639-de53-f48b-e53a5820fce3?academicYearId=2025"
+              },
+              {
+                "title": "International Business Management (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/054766bc-da46-418f-8839-aea0f74f7272?academicYearId=2025"
+              },
+              {
+                "title": "Law",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9c5be549-c7b3-7f8d-6e25-6695ee1c0a7c?academicYearId=2025"
+              },
+              {
+                "title": "Law (with Foundation Year)",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b4d86cd7-392b-c461-a12a-2a38ed27b5da?academicYearId=2025"
+              },
+              {
+                "title": "Law and Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/964877df-8c14-0bf8-8dfd-a95f1bc125da?academicYearId=2025"
+              },
+              {
+                "title": "Law and Criminology (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3419c260-20b8-f603-16f5-63f2bfcd56c1?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/77c6784d-3963-9a29-a36e-3a1a26101aa6?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2078ae8c-5dab-0504-564e-34b6221c595e?academicYearId=2025"
+              },
+              {
+                "title": "Mathematics",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6addb14e-0afe-c544-94f7-0e214ff9d35d?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/59ec10ba-e664-3add-f601-187bd2ede5f3?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c7145944-f938-ba7c-4f19-a365dcd540c8?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4210a307-f2dc-628d-14cc-3b66d91cd6de?academicYearId=2025"
+              },
+              {
+                "title": "Mechatronics Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/41816768-d2cf-4b37-85cd-c291620af1de?academicYearId=2025"
+              },
+              {
+                "title": "Mechatronics Engineering",
+                "qualification": "MEng",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/62b5dc00-5cd6-4a0e-9440-d789247eaeed?academicYearId=2025"
+              },
+              {
+                "title": "Mechatronics Engineering (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06b729d1-a254-4383-a909-ac37d5b654ec?academicYearId=2025"
+              },
+              {
+                "title": "Media Production",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/400a08e7-a846-48ba-b4b7-7591974c1649?academicYearId=2025"
+              },
+              {
+                "title": "Midwifery",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "01/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/22d29ad5-2b29-84fc-bd27-9336324f1379?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/03dcb998-79c2-4560-9d20-11c5f58af277?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Children and Young People)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7f3df7a7-9fa6-4076-b787-cd57de8b5bdd?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Learning Disabilities)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/09eb5fa3-239c-4361-a22d-db19afdc5943?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd002b38-8718-4a25-8b47-a41bac435508?academicYearId=2025"
+              },
+              {
+                "title": "Occupational Therapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1876f835-6e2c-60e9-b266-18a2d9a70ab9?academicYearId=2025"
+              },
+              {
+                "title": "Optometry",
+                "qualification": "MSci",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "136",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3f6288c6-bb89-44e6-888c-feacec6283d3?academicYearId=2025"
+              },
+              {
+                "title": "Paramedic Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "128",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/596190de-311d-e1c4-d702-a5b9505a3bff?academicYearId=2025"
+              },
+              {
+                "title": "Philosophy",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/77fe45dc-fb21-9c29-9159-758d1574f052?academicYearId=2025"
+              },
+              {
+                "title": "Philosophy (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/45a08c4e-b976-f155-4299-39e047ebf63b?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/44e4ec47-ce8f-0ad2-27ad-be5fc9d7c1f9?academicYearId=2025"
+              },
+              {
+                "title": "Photography (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a74ee1c0-468b-4dc8-a8e1-7a6e64dda00b?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "128",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/78520db5-7de4-7f8f-6376-53bd74eac4ce?academicYearId=2025"
+              },
+              {
+                "title": "Politics and International Relations",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc400de6-30fe-f7d1-f1dc-d2b18c6bcf1c?academicYearId=2025"
+              },
+              {
+                "title": "Politics and International Relations (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c3374c34-db0b-d94c-b1e5-9789f0c85a8c?academicYearId=2025"
+              },
+              {
+                "title": "Primary Education (QTS)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e372650a-7a58-7a23-d034-cfca73c85f06?academicYearId=2025"
+              },
+              {
+                "title": "Product Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/21398764-5ec1-486b-aea0-93a0cbf85e1e?academicYearId=2025"
+              },
+              {
+                "title": "Product Design Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f079b1bc-cb09-9385-72c6-fd8de61d5b48?academicYearId=2025"
+              },
+              {
+                "title": "Professional Policing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dee6cf7f-a680-405d-b03d-933024300206?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "128",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2103d8d2-25ad-1926-4aab-eb336e5c67c1?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/572a2f7f-febe-0b2e-0c33-027f525a8d8b?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Criminology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "128",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eff7f227-f151-fa40-c604-4c3544f9880f?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Criminology (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0bff3eb9-f069-6dbb-132d-0c52321ba141?academicYearId=2025"
+              },
+              {
+                "title": "Quantity Surveying and Commercial Management",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9ec90464-76a1-87d5-ca07-9a170dc2f155?academicYearId=2025"
+              },
+              {
+                "title": "Radiotherapy and Oncology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d9969078-0d23-e030-6af8-b569ea19df14?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/758adbdc-4142-4eab-eb9a-861dbc0bcb07?academicYearId=2025"
+              },
+              {
+                "title": "Robotics",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d4236972-46d1-1140-9c6d-8631e8bf6937?academicYearId=2025"
+              },
+              {
+                "title": "Robotics (with Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "80",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd7919e5-65a8-b9c1-a782-c6908ff487c7?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bfc227c2-09eb-34cd-2d15-3855c2d5f035?academicYearId=2025"
+              },
+              {
+                "title": "Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/20740acd-2ea9-279a-c7bd-78cc2a3d4437?academicYearId=2025"
+              },
+              {
+                "title": "Sociology (with Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a032b1a0-52df-33f2-d35c-6c770ce61bfa?academicYearId=2025"
+              },
+              {
+                "title": "Sociology with Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7cd15f93-ca0f-b673-84d0-ffaa7151a772?academicYearId=2025"
+              },
+              {
+                "title": "Sociology with Psychology (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ee893079-9082-bd91-77b3-966ff19e3d2e?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering for Business",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/40174b0e-ff02-79f9-951f-f67c276367b5?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering for Business (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "72",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93d0fa1c-2858-0f2d-5c21-9dbf0a6dc8d1?academicYearId=2025"
+              },
+              {
+                "title": "Sport Rehabilitation",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d5c2e080-3c1a-4212-6f64-66552647b1af?academicYearId=2025"
+              },
+              {
+                "title": "Sports Business and Entrepreneurship",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Bristol City Football Club, Ashton Gate",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a97e8462-f912-eb52-3159-942dc9204642?academicYearId=2025"
+              },
+              {
+                "title": "Urban Planning",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "104",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4a9167ac-8809-e612-bd11-c0cc32e508f7?academicYearId=2025"
+              },
+              {
+                "title": "Wildlife Ecology and Conservation Science",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7a4bbb96-15e1-0ab8-a215-54b38662d51b?academicYearId=2025"
+              },
+              {
+                "title": "Wildlife Ecology and Conservation Science (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Sandwich including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "56",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/edbb3a1d-bc07-f0ec-694c-8ab3e786153f?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "7 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Applied Criminal Justice (Top-Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b031386f-4aef-4bac-93a7-07a0af4850f1?academicYearId=2025"
+              },
+              {
+                "title": "Criminology with Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "120",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/06a95701-e2d0-8074-c3cb-7e590132ee62?academicYearId=2025"
+              },
+              {
+                "title": "Culture, Media and Creative Industries",
+                "qualification": "BA (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8912896b-e96c-4cb6-8932-814b1aa4893a?academicYearId=2025"
+              },
+              {
+                "title": "Data Science and Artificial Intelligence",
+                "qualification": "BSc (Hons)",
+                "duration": "18 months",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "See entry requirements",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/707e391f-affd-43f4-8db3-7138fdd55ba5?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a19642d4-4330-cbfc-705a-fe07f6feef6f?academicYearId=2025"
+              },
+              {
+                "title": "Professional Policing",
+                "qualification": "BSc (Hons)",
+                "duration": "6 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dee6cf7f-a680-405d-b03d-933024300206?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (with Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "8 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "48",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/572a2f7f-febe-0b2e-0c33-027f525a8d8b?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "5 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          },
+          {
+            "mode": "Full-time",
+            "count": "66 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          },
+          {
+            "mode": "Other mode",
+            "count": "2 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          },
+          {
+            "mode": "Part-time",
+            "count": "40 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "5 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Doctor of Business Administration",
+                "qualification": "DBA",
+                "duration": "5 years",
+                "studyMode": "Distance learning (with some attendance)",
+                "startDate": "04/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a4e53529-d20d-4f38-81f6-2d2a79a2758f?academicYearId=2025"
+              },
+              {
+                "title": "Education (Distance Learning)",
+                "qualification": "MA (PG)",
+                "duration": "3 years",
+                "studyMode": "Distance learning",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e74e6cd1-2a06-4582-911b-24c215b1c166?academicYearId=2025"
+              },
+              {
+                "title": "Planning and Urban Leadership",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a9fdcdc9-43d2-488f-8526-4eedebea1640?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate Finance and Investment (distance learning)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Distance learning (full-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f77d11f8-73c5-94d3-828b-67eb98ec226e?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Distance learning (full-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b92aa36-d989-fb8f-9427-b5ae01ee59b3?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "66 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "2 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting and Finance",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91198a74-31d1-a8d4-63de-e089c12f4ff5?academicYearId=2025"
+              },
+              {
+                "title": "Applied Sciences",
+                "qualification": "Masters in Research (MRes)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b2f4ae38-e5e6-40f8-83e3-056cb67b3a26?academicYearId=2025"
+              },
+              {
+                "title": "Applied Transfusion and Transplantation Science",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad438562-d7e0-4f6b-ab66-41ec1c31ee2d?academicYearId=2025"
+              },
+              {
+                "title": "Applied Wildlife Conservation",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b6da70c-96f9-add1-db42-c10b71cb5c3b?academicYearId=2025"
+              },
+              {
+                "title": "Architecture MArch",
+                "qualification": "MArch",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dbe8d9b7-3c62-5da8-7bbd-a7b2d4b75fea?academicYearId=2025"
+              },
+              {
+                "title": "Artificial Intelligence",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e6998429-fb62-4b65-a937-0af5fc1acc0e?academicYearId=2025"
+              },
+              {
+                "title": "Bar Training Course",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0f3433a7-83f7-451a-8a1b-01abf97af531?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Sciences",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37756857-c040-20ea-eeea-33250eed7b0e?academicYearId=2025"
+              },
+              {
+                "title": "Building Information Modelling in Design Construction and Operations",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9367c757-ce3c-64ce-803e-32583819feee?academicYearId=2025"
+              },
+              {
+                "title": "Building Surveying",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cba3ef1-98b1-794f-3950-a9f33f51871c?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/61282756-b975-21eb-538a-bdbd505fb1d2?academicYearId=2025"
+              },
+              {
+                "title": "Business with Digital Management",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/94babaf2-6c38-486d-a5ba-6462e6860f8a?academicYearId=2025"
+              },
+              {
+                "title": "Business with Supply Chain Management",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/00843b48-d183-4af4-bcf3-004641015bdb?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5443288b-9b86-4e16-8f8c-69f3ebf6769b?academicYearId=2025"
+              },
+              {
+                "title": "Construction Project Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b176c20f-ab51-361a-8dd5-86201b7eca9f?academicYearId=2025"
+              },
+              {
+                "title": "Counselling Psychology",
+                "qualification": "Professional Doctorate",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4d00ea58-52c0-5720-209a-ba54c622e023?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7fe7e26d-88e6-4864-aa63-b8ab8f169282?academicYearId=2025"
+              },
+              {
+                "title": "Data Science",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aa7ea2f9-25be-4802-b831-a1b3f997cd90?academicYearId=2025"
+              },
+              {
+                "title": "Design Communication: Fashion Photography",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ef6c8812-f111-4b81-b541-87352b5ab72a?academicYearId=2025"
+              },
+              {
+                "title": "Design Communication: Graphic Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/621bb34c-e246-4733-bdc3-2c703a0defbe?academicYearId=2025"
+              },
+              {
+                "title": "Design Communication: Illustration",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b51400b6-0265-4f22-b521-bf51c350d4ea?academicYearId=2025"
+              },
+              {
+                "title": "Designer/Maker",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1c76cefb-a372-4eb3-9971-2264cee87760?academicYearId=2025"
+              },
+              {
+                "title": "Digital Marketing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bade599f-85e0-4b2c-bd01-08b1e962e880?academicYearId=2025"
+              },
+              {
+                "title": "Engineering Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cc0d340-a2d1-4882-9df2-b4973b1db63c?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Consultancy",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1a5dc0c3-da16-5f3f-99e3-1df0f98b5519?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Health",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e487b037-23d1-6f3d-fb2e-fa5a3b61b9ec?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d68a128b-39ed-971a-07ca-7235f14b20fd?academicYearId=2025"
+              },
+              {
+                "title": "Façade Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b018b2b1-151d-4b6c-a729-896df93bfe7b?academicYearId=2025"
+              },
+              {
+                "title": "Filmmaking",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7a459415-de66-4dce-b4a3-3804c3f7f197?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Investment",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76c1c5c1-dd7e-ac08-9bfd-876066905250?academicYearId=2025"
+              },
+              {
+                "title": "Financial Technology (FinTech)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/490758bc-e23b-4b64-8f7d-bf550c2648e4?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/539036ab-8a3d-d3b9-2a67-f551b37c79b5?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art: Curating",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6cd1c7e9-e806-4ace-b3d2-f172db74aa4b?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art: Photography",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/441c1ea1-56b1-4820-99b5-1b8231102ced?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art: Printmaking",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3e443077-2530-4925-b051-5a071aea9a2c?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Science",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/166694da-9000-48ca-bdbe-4455a3b21548?academicYearId=2025"
+              },
+              {
+                "title": "Global Business and Finance Law",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b74154a2-ef02-49c4-aee7-f529107eb348?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a4fad71e-a406-9be4-0169-535bdfa819d1?academicYearId=2025"
+              },
+              {
+                "title": "Health Technology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/99357b0a-1782-48d7-8025-416a5211a9b3?academicYearId=2025"
+              },
+              {
+                "title": "Human Resources Management",
+                "qualification": "MSc",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/55a9dd58-50a0-745a-b382-d8e1d6c91607?academicYearId=2025"
+              },
+              {
+                "title": "Information Technology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3893d308-0df0-a6a0-655d-7a23bc15d41a?academicYearId=2025"
+              },
+              {
+                "title": "International Law and Security",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/972d7f98-d25d-4011-9c75-3553ecc173ca?academicYearId=2025"
+              },
+              {
+                "title": "International Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7cbc10f4-deb9-e8c8-09da-11d71e8e6dde?academicYearId=2025"
+              },
+              {
+                "title": "Journalism",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0a0d9916-48c1-c6d4-19ed-5bed5848e275?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bcd1d4f0-6ae2-c6ad-510e-23c9948bbc94?academicYearId=2025"
+              },
+              {
+                "title": "Marketing Communications",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8fb2b86b-c81a-65ca-4aed-713687f428b9?academicYearId=2025"
+              },
+              {
+                "title": "Master of Business Administration",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e8d7c36-a888-0c00-e51d-7cc5e3675016?academicYearId=2025"
+              },
+              {
+                "title": "Physician Associate Studies",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/74683941-98ff-1080-795a-f7032eb31d5a?academicYearId=2025"
+              },
+              {
+                "title": "Project Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/41b93b7d-8bdb-43b5-9d39-967c87d1aef4?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (Conversion)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/74fe25a7-bf0d-4113-980e-981730a75ef7?academicYearId=2025"
+              },
+              {
+                "title": "Public Health",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0707174f-3852-121e-e138-0219f818fcc7?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate Finance and Investment",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/870549aa-e723-7d06-102b-108f2b5b1cdd?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b92aa36-d989-fb8f-9427-b5ae01ee59b3?academicYearId=2025"
+              },
+              {
+                "title": "Risk Management and Insurance",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0ed84e07-2bc3-4190-b834-95a211f2c53d?academicYearId=2025"
+              },
+              {
+                "title": "Science Communication",
+                "qualification": "MSc",
+                "duration": "18 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/416cf874-be0b-40bf-be0c-6ef2fd970e31?academicYearId=2025"
+              },
+              {
+                "title": "Social Research (Sustainable Futures)",
+                "qualification": "Masters in Research (MRes)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3a6a0d72-1d72-48f7-a846-646b6388e04b?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Psychology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/de52c1f0-bf2a-981d-768d-34be466bb927?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Development in Practice",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/248a4440-bf7c-12e8-860f-86108a5d7108?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Food Systems",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be5b0e3a-1c71-443d-bdb8-0de0329754f6?academicYearId=2025"
+              },
+              {
+                "title": "Transport Engineering and Planning",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/543c9406-6f44-409e-be02-5ac07caef761?academicYearId=2025"
+              },
+              {
+                "title": "Urban Planning",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c961a7a7-d2ff-71ad-2eeb-6a6e05810a1a?academicYearId=2025"
+              },
+              {
+                "title": "Wildlife Filmmaking",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "City Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eec62aeb-6d20-4c3e-8171-21f0b17fa03e?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Bristol%2C%20UWE%20(UWE%20Bristol%2C%20University%20of%20the%20West%20of%20England)",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "40 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Applied Sciences",
+                "qualification": "Masters in Research (MRes)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b2f4ae38-e5e6-40f8-83e3-056cb67b3a26?academicYearId=2025"
+              },
+              {
+                "title": "Applied Transfusion and Transplantation Science",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad438562-d7e0-4f6b-ab66-41ec1c31ee2d?academicYearId=2025"
+              },
+              {
+                "title": "Applied Wildlife Conservation",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b6da70c-96f9-add1-db42-c10b71cb5c3b?academicYearId=2025"
+              },
+              {
+                "title": "Architecture MArch",
+                "qualification": "MArch",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dbe8d9b7-3c62-5da8-7bbd-a7b2d4b75fea?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Sciences",
+                "qualification": "Professional Doctorate",
+                "duration": "5 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d403e43e-8c72-d0d4-702d-68ac99757575?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Sciences",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37756857-c040-20ea-eeea-33250eed7b0e?academicYearId=2025"
+              },
+              {
+                "title": "Building Information Modelling in Design Construction and Operations",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9367c757-ce3c-64ce-803e-32583819feee?academicYearId=2025"
+              },
+              {
+                "title": "Building Surveying",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cba3ef1-98b1-794f-3950-a9f33f51871c?academicYearId=2025"
+              },
+              {
+                "title": "Civil Engineering",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5443288b-9b86-4e16-8f8c-69f3ebf6769b?academicYearId=2025"
+              },
+              {
+                "title": "Construction Project Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time block-release",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b176c20f-ab51-361a-8dd5-86201b7eca9f?academicYearId=2025"
+              },
+              {
+                "title": "Counselling and Psychotherapy",
+                "qualification": "MA",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/234455c4-78f5-4c0b-b43f-c71b084f4ea4?academicYearId=2025"
+              },
+              {
+                "title": "Counselling Psychology",
+                "qualification": "Professional Doctorate",
+                "duration": "4 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4d00ea58-52c0-5720-209a-ba54c622e023?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7fe7e26d-88e6-4864-aa63-b8ab8f169282?academicYearId=2025"
+              },
+              {
+                "title": "Data Science",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aa7ea2f9-25be-4802-b831-a1b3f997cd90?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Consultancy",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1a5dc0c3-da16-5f3f-99e3-1df0f98b5519?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Health",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e487b037-23d1-6f3d-fb2e-fa5a3b61b9ec?academicYearId=2025"
+              },
+              {
+                "title": "Environmental Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d68a128b-39ed-971a-07ca-7235f14b20fd?academicYearId=2025"
+              },
+              {
+                "title": "Façade Engineering",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b018b2b1-151d-4b6c-a729-896df93bfe7b?academicYearId=2025"
+              },
+              {
+                "title": "Financial Technology (FinTech)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/490758bc-e23b-4b64-8f7d-bf550c2648e4?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a4fad71e-a406-9be4-0169-535bdfa819d1?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "Professional Doctorate",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "11/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e45fa057-6433-d880-0b53-01cad5f5dc2f?academicYearId=2025"
+              },
+              {
+                "title": "Health Technology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/99357b0a-1782-48d7-8025-416a5211a9b3?academicYearId=2025"
+              },
+              {
+                "title": "Information Technology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3893d308-0df0-a6a0-655d-7a23bc15d41a?academicYearId=2025"
+              },
+              {
+                "title": "Medical Ultrasound",
+                "qualification": "MSc",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8a952c39-9a8a-3638-d56a-1d4d6a3a4520?academicYearId=2025"
+              },
+              {
+                "title": "Music Therapy",
+                "qualification": "MA",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/31313107-da51-c18a-018b-e2dd29c4913a?academicYearId=2025"
+              },
+              {
+                "title": "Nuclear Medicine",
+                "qualification": "MSc",
+                "duration": "36 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/444110cd-5d86-c4fd-4c8e-ada8deefe352?academicYearId=2025"
+              },
+              {
+                "title": "Professional Practice and Management in Architecture",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d56d915-6804-2320-431f-8d26d4e57161?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (Conversion)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/74fe25a7-bf0d-4113-980e-981730a75ef7?academicYearId=2025"
+              },
+              {
+                "title": "Public Health",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0707174f-3852-121e-e138-0219f818fcc7?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate Finance and Investment",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/870549aa-e723-7d06-102b-108f2b5b1cdd?academicYearId=2025"
+              },
+              {
+                "title": "Real Estate Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time block-release",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b92aa36-d989-fb8f-9427-b5ae01ee59b3?academicYearId=2025"
+              },
+              {
+                "title": "Rehabilitation",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time block-release",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Glenside Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5e84224b-519c-4ef4-88ea-df0c3fbea790?academicYearId=2025"
+              },
+              {
+                "title": "Risk Management and Insurance",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0ed84e07-2bc3-4190-b834-95a211f2c53d?academicYearId=2025"
+              },
+              {
+                "title": "Science Communication",
+                "qualification": "MSc",
+                "duration": "30 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/416cf874-be0b-40bf-be0c-6ef2fd970e31?academicYearId=2025"
+              },
+              {
+                "title": "Social Research (Sustainable Futures)",
+                "qualification": "Masters in Research (MRes)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3a6a0d72-1d72-48f7-a846-646b6388e04b?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Psychology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/de52c1f0-bf2a-981d-768d-34be466bb927?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Development in Practice",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/248a4440-bf7c-12e8-860f-86108a5d7108?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Food Systems",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be5b0e3a-1c71-443d-bdb8-0de0329754f6?academicYearId=2025"
+              },
+              {
+                "title": "Urban Planning",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Bristol, UWE",
+                "location": "Frenchay Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c961a7a7-d2ff-71ad-2eeb-6a6e05810a1a?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Apprenticeships": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Apprenticeships",
+      "paragraphs": [
+        "Many apprenticeships offer the opportunity to gain a higher education qualification – usually a Bachelor's or Master's depending on your chosen course – and on most apprenticeships you’ll earn a salary while  doing it.",
+        "Benefits of becoming an apprentice"
+      ]
+    },
+    "International": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "UWE Bristol is a University Alliance university with a common mission to make the difference to our cities and regions. We use our experience of providing high quality teaching and research with real world impact to shape higher education and research policy for the benefit of our students and business and civic partners. We innovate together, learn from each other and support every member to transform lives and deliver growth.",
+        "Our teaching",
+        "With more than 600 courses on offer, at undergraduate, postgraduate, professional and short course level, we offer a broad range of subjects. These range from the arts, creative industries, health, science, business, law, environment and technology disciplines. We’re well known for the quality of our teaching, and for our holistic student experience.",
+        "We’ve built close links with leading employers such as CERN, Rolls Royce, the NHS, Aardman Animation and the BBC. This ensures we develop your course with the right content and give you exposure to diverse professional opportunities.",
+        "\"We want our students to become ready and able graduates, who feel confident in their abilities and the part they have to play in the world.\" Professor Steve West, Vice-Chancellor",
+        "Our Campuses",
+        "Our 10 different Schools are spread across three campuses in and around Bristol.",
+        "We have invested in the latest facilities and resources to give you access to everything you need to succeed – with £300m being spent on new industry-standard learning spaces and modern accommodation.",
+        "Our research and wider impact",
+        "Alongside our teaching, our academics are working on nationally and internationally-renowned research in many interesting areas – from robotics to appearance issues. As well as enriching our teaching, we ensure our research contributes to society and the economy through knowledge exchange, science communication, partnerships and supporting business innovation and growth.",
+        "We also play an active role in our city and wider region, and are seen by many employers and organisations as the \"go-to university\" for graduate recruitment.",
+        "Our Location",
+        "Bristol is a big pull for students and employers alike. One of the UK’s most diverse and desirable cities to study and live in, it’s also a city that’s buzzing with industry – with interesting networks, opportunities and graduate employment options right here on our doorstep."
+      ]
+    }
+  }
+}

@@ -265,8 +265,10 @@ async function scrapeAll() {
     const links = await loadLinks();
     const userAgents = await loadUserAgents();
     await ensureOutputDir();
-    const browser = await puppeteer.launch({ headless: false });
-    for (let i = 0; i < links.length; i++) {
+    const browser = await puppeteer.launch({ headless: true });
+    // Set the starting index here
+    const START_INDEX = 0; // Change this to resume from a specific university (e.g., 12 for UK0013.json)
+    for (let i = START_INDEX; i < links.length; i++) {
       const url = links[i];
       const userAgent = userAgents[i % userAgents.length];
       const outputFileName = `UK${(i+1).toString().padStart(4, '0')}.json`;

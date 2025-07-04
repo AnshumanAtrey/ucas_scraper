@@ -1,0 +1,2820 @@
+{
+  "id": "UK0012",
+  "slug": "university-of-chichester",
+  "scrapedAt": "2025-07-04T14:03:07.996Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "Apprenticeships",
+    "International",
+    "StudentSupport"
+  ],
+  "pages": {
+    "About": {
+      "name": "University of Chichester",
+      "location": "Chichester",
+      "bannerImage": "https://www.ucas.com/sites/default/files/banner_image/22-west-wittering-beach-students-6-1920x750-v2.jpg",
+      "about": "The University of Chichester is known as a thriving higher education institution with a rich history tracing back to 1839. We are based on the sunny south coast, just over an hour from London. We have two campuses surrounded by stunning Blue Flag beaches, rolling countryside and a historic city. Here are a few facts and figures to help you get to know us a bit better.",
+      "whatMakesUsDifferent": "Here at Chichester, we really do have something special. Our students, lecturers and staff consistently say that they love our warm, friendly community.\nBeing a smaller institution, we have the power to provide you with a great university experience. We have some of the highest satisfaction levels across teaching and student experience. We've been ranked in the Top 30 UK universities by the Guardian University Guide 2025 and received a gold award for teaching excellence by TEF 2023.\nWe care about your education and your life at university. We want to see you succeed and together, we can help you achieve your goals.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/18-chichester-cathedral-19-1200x675.jpg?itok=FhZ_Uvt-",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/21-students-in-bognor82-1200x675.jpg?itok=QmcHJmeS",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/chi-uni-december-2024-002-1200x675.jpg?itok=VU2i3gWw",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/19-cloisters-14-1200x675.jpg?itok=EuOIwDN_",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/22-students-outside-tech-park-9-1200x675.jpg?itok=Q1fdgSBr",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/21-students-at-bognor-beach34-1200x675.jpg?itok=t7oLCIfU",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/25-inside-lrc22-1200x675.jpg?itok=u4TpTHZd",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/18-chichester-cathedral-19-1200x675.jpg?itok=FhZ_Uvt-",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/21-students-in-bognor82-1200x675.jpg?itok=QmcHJmeS",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/chi-uni-december-2024-002-1200x675.jpg?itok=VU2i3gWw",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/19-cloisters-14-1200x675.jpg?itok=EuOIwDN_",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/22-students-outside-tech-park-9-1200x675.jpg?itok=Q1fdgSBr",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/21-students-at-bognor-beach34-1200x675.jpg?itok=t7oLCIfU",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/carousel-images/25-inside-lrc22-1200x675.jpg?itok=u4TpTHZd"
+      ],
+      "website": "http://www.chi.ac.uk/",
+      "email": "admissions@chi.ac.uk",
+      "phone": "01243 816002",
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "courseLocations": [
+        {
+          "title": "Italia Conti",
+          "address": "2 Henry Plaza, Victoria Way,, Woking, GU21 6BU"
+        },
+        {
+          "title": "Bognor Regis Campus, University of Chichester",
+          "address": "Upper Bognor Road, Bognor Regis, PO21 1HR"
+        },
+        {
+          "title": "Bishop Otter Campus, Chichester",
+          "address": "Bishop Otter Campus, College Lane, Chichester, PO19 6PE"
+        },
+        {
+          "title": "Bishop Otter Campus",
+          "address": "Bishop Otter Campus, Chichester, PO19 6PE"
+        },
+        {
+          "title": "Platform One",
+          "address": "Dodnor Lane, Newport (Isle of Wight), PO30 5XD"
+        },
+        {
+          "title": "Main Site",
+          "address": "Bishop Otter Campus, College Lane, Chichester, PO19 6PE"
+        },
+        {
+          "title": "ROM Theatre Arts",
+          "address": "The ARTS Centre, 1 Haslers Lane, Dunmow, CM6 1XS"
+        },
+        {
+          "title": "Associated Studios Performing Arts Academy",
+          "address": "204 Latimer Road, London, W10 6QY"
+        }
+      ],
+      "openDays": [
+        {
+          "title": "University of Chichester - Open Day",
+          "date": "11 Oct 2025, 15:00 • Business",
+          "location": "Chichester"
+        },
+        {
+          "title": "University of Chichester - Open Day",
+          "date": "26 Oct 2025, 15:00 • Business",
+          "location": "Chichester"
+        },
+        {
+          "title": "University of Chichester - Open Day",
+          "date": "22 Nov 2025, 15:00 • Business",
+          "location": "Chichester"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "65%"
+            },
+            {
+              "label": "Male",
+              "value": "35%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "96%"
+            },
+            {
+              "label": "EU Students",
+              "value": "1%"
+            },
+            {
+              "label": "International",
+              "value": "3%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "81%"
+            },
+            {
+              "label": "Part-time",
+              "value": "19%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "43%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "57%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "17%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "83%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Going to university is about more than earning your degree. During your studies you'll meet new people, try new experiences and make memories that stay with you for life.",
+        "The University of Chichester offers a student life that can be personalised to your own interests. It’s easy to immerse yourself in exciting opportunities and experiences at university, across Chichester, Bognor Regis, and along the South Coast."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-510788426-s-east-header.jpg?itok=E127-y8e",
+          "heading": "What's it like to live in South East?Check out our region guide",
+          "paragraphs": [
+            "South East England is made up of nine counties, with popular student cities in Brighton & Hove, Oxford, Portsmouth, Reading, and Southampton.",
+            "The area sees plenty of sunshine and Brighton – the LGBTQ+ capital of the UK – is a student favourite, with tons of quirky shops, cafes, arts, nightlife and watersports.",
+            "Moving east into Kent, you'll find the charming towns of Whitstable, Broadstairs, and Margate – all bursting with literary history – plus the iconic landmarks of Dover’s white cliffs and Canterbury Cathedral.",
+            "London is an hour or two away for gigs, theatre trips and capital city adventures, while the country’s two largest airports – Heathrow and Gatwick – mean international journeys are easy to get started."
+          ],
+          "link": "https://www.ucas.com/study-in/south-east"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-693848252chichester-header.jpg?itok=OwZ4ICNM",
+          "heading": "What's it like to live in Chichester?Check out our city guide",
+          "paragraphs": [
+            "Thinking of studying in Chichester? Enjoy a picturesque cathedral city with coastal charm, cultural richness, and a strong student community."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-chichester"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "Our campuses are based in the city of Chichester and the nearby coastal resort of Bognor Regis. Both have plenty of relaxing green spaces and a combination of attractive, historic buildings and excellent modern facilities. Bognor Regis is home to the Tech Park which was opened by The Duke and Duchess of Sussex and is home to our STEM and Creative Industries courses.",
+        "Accommodation",
+        "Choosing accommodation can be daunting, but we're here to guide you through the different types available, enabling you to make an informed decision.",
+        "Our accommodation options range from on-campus halls of residence on both our Bishop Otter (Chichester) and Bognor Regis campuses, to our Student Villages situated to the south of the picturesque city centre of Chichester. Choose between ensuite and shared style (i.e. with communal bathrooms and kitchens) accommodation, with catered or self-catered packages allocated on a single occupancy basis.",
+        "Explore our accommodation"
+      ],
+      "courseLocations": [
+        {
+          "title": "Italia Conti",
+          "address": "2 Henry Plaza, Victoria Way,, Woking, GU21 6BU"
+        },
+        {
+          "title": "Bognor Regis Campus, University of Chichester",
+          "address": "Upper Bognor Road, Bognor Regis, PO21 1HR"
+        },
+        {
+          "title": "Bishop Otter Campus, Chichester",
+          "address": "Bishop Otter Campus, College Lane, Chichester, PO19 6PE"
+        },
+        {
+          "title": "Bishop Otter Campus",
+          "address": "Bishop Otter Campus, Chichester, PO19 6PE"
+        },
+        {
+          "title": "Platform One",
+          "address": "Dodnor Lane, Newport (Isle of Wight), PO30 5XD"
+        },
+        {
+          "title": "Main Site",
+          "address": "Bishop Otter Campus, College Lane, Chichester, PO19 6PE"
+        },
+        {
+          "title": "ROM Theatre Arts",
+          "address": "The ARTS Centre, 1 Haslers Lane, Dunmow, CM6 1XS"
+        },
+        {
+          "title": "Associated Studios Performing Arts Academy",
+          "address": "204 Latimer Road, London, W10 6QY"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "Now, the fun part... finding your perfect degree!",
+        "There's much to consider when following your passion and choosing a course. At Chichester, you can gain more by being part of smaller class sizes and having extra time with our expert teaching staff, who will get to know you and your future ambitions.",
+        "Many of our degrees are designed with the real world in mind. Benefit from our purpose-built facilities and equipment. You'll gain practical experience to back up the theory so you'll be confident to start your career after your degree.",
+        "Discover our dynamic and exciting courses or book an Open Day to learn more, see our facilities and meet the lecturers."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Distance%20learning&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Full-time",
+            "count": "154 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Other mode",
+            "count": "4 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Part-time",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "10 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Distance%20learning&providers=University%20of%20Chichester",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [],
+            "error": "Waiting for selector `.grid--equal-height, .grid.grid--max-h4` failed: Waiting failed: 30000ms exceeded"
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "154 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "4 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "10 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "3D Animation & Visual Effects",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d844c75c-95a9-459c-9ab3-7ade215c1118?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/566b5552-71ea-8595-8ecd-74c3f0bc3abc?academicYearId=2025"
+              },
+              {
+                "title": "Acting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76f023c9-e999-d9ab-c232-6220c9b67f2c?academicYearId=2025"
+              },
+              {
+                "title": "Acting for Contemporary Theatre",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/418d9cf9-21f7-5447-5b55-43f7cfcd0d79?academicYearId=2025"
+              },
+              {
+                "title": "Acting for Film",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92fa787e-fce4-89f4-c331-338adb7b6399?academicYearId=2025"
+              },
+              {
+                "title": "Adult Nursing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/16f3d830-6b3f-4a98-84fd-71c27405aa4b?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Applied Psychology",
+                "qualification": "MSci",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a13eb336-2e8f-35c9-dea6-27bf1e4577ae?academicYearId=2025"
+              },
+              {
+                "title": "Audio Production and Music Technologies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/14c95e6f-9e37-43e4-b2c2-941f927cee7e?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-128",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/43376508-c25b-4b6a-af43-32c14c91a033?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management (International Route)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9ea470b0-9263-e66b-af05-4b49f55a3a83?academicYearId=2025"
+              },
+              {
+                "title": "Business English (international Route)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a6930f6f-b1b7-4ef5-81b8-f826fad8fb65?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich including industrial placement",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6c31552f-60ed-458d-da69-ad6e3302411d?academicYearId=2025"
+              },
+              {
+                "title": "Business Management (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/238e2fa6-0558-46dc-9979-26476089ed0b?academicYearId=2025"
+              },
+              {
+                "title": "Business Management and Finance",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich including industrial placement",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/503c4158-f0b9-3cdf-ecbc-01add4fbd503?academicYearId=2025"
+              },
+              {
+                "title": "Business Management and Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f273447b-1558-5693-ef9f-b98d1bf6195f?academicYearId=2025"
+              },
+              {
+                "title": "Business Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd18ac3f-8c52-4ae0-a316-ae2b00ea3f2f?academicYearId=2025"
+              },
+              {
+                "title": "Business Psychology (International Route) Level 6 ‘Top-up’",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/83274c78-f09e-40ea-8812-c814686fbcca?academicYearId=2025"
+              },
+              {
+                "title": "Childhood with Therapeutic Play",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ed4287d0-5a02-45d9-bf66-5342e094ef9d?academicYearId=2025"
+              },
+              {
+                "title": "Childhood with Therapeutic Play with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7d169c7b-7390-4126-969d-bd357461d590?academicYearId=2025"
+              },
+              {
+                "title": "Children’s Health and Wellbeing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-110",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb380dfb-4eeb-4442-a621-b593046402e2?academicYearId=2025"
+              },
+              {
+                "title": "Commercial Music",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Platform One",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/41fd748e-741f-c942-e4ef-56244bd5fab9?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f16fb502-0a36-4a90-80a5-bdafc81ea8e0?academicYearId=2025"
+              },
+              {
+                "title": "Computing",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7f39e855-9f15-4de2-841c-44427d572a43?academicYearId=2025"
+              },
+              {
+                "title": "Computing for Business (International Route) Level 6 ‘Top-up’",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/842cd654-1734-44e1-ad2a-d02d60e3b57a?academicYearId=2025"
+              },
+              {
+                "title": "Counselling Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1030912-3434-45da-90de-ac0fa6cabc7f?academicYearId=2025"
+              },
+              {
+                "title": "Counselling Psychology with Integrated Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d0d0b5cf-0ebb-413d-abdc-dfe01ada7022?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9ced18ce-22ec-530a-8e0d-4699b41874c7?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing and English",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6fc2ce1e-c3b5-393a-13aa-c8168c29b571?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing and English with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4845b49-a2b1-4bbc-abbf-d7203f2a6372?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing and History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e7341e5-e9ab-2014-5af8-7b9b84f0689e?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing and Philosophy & Ethics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60e5976e-86aa-1722-af7b-647bf636fa6e?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing and Screenwriting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/53285118-371d-690b-16ca-59ca98a25dcd?academicYearId=2025"
+              },
+              {
+                "title": "Criminology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/907f6cee-0de7-442e-b5fe-eff22f745d43?academicYearId=2025"
+              },
+              {
+                "title": "Criminology (International Route) Level 6 ‘Top-up’",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f010f69d-430c-4806-a376-366e75f7f853?academicYearId=2025"
+              },
+              {
+                "title": "Criminology and Forensic Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0a4faaec-b764-4b30-b316-1c7f0132f998?academicYearId=2025"
+              },
+              {
+                "title": "Criminology with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/18553356-3ce7-43f6-b8bd-a48ea61081b3?academicYearId=2025"
+              },
+              {
+                "title": "Dance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/19e94ca9-e820-a194-2a01-d6ba209f499f?academicYearId=2025"
+              },
+              {
+                "title": "Dance and Aerial Arts",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b6a8887c-4ee1-479d-a16b-8f70cb9ad447?academicYearId=2025"
+              },
+              {
+                "title": "Dance Education and Teaching",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f3f9255c-a4af-4b9e-80c8-27fd640ea756?academicYearId=2025"
+              },
+              {
+                "title": "Dance Performance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4023ef8-31c9-6138-51c4-94c8df853606?academicYearId=2025"
+              },
+              {
+                "title": "Dance Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/65a37503-9f8f-01ec-8815-5741604b5ba5?academicYearId=2025"
+              },
+              {
+                "title": "Dance Studies",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8273c52e-ab7a-d887-0da5-f7c8cc808a4f?academicYearId=2025"
+              },
+              {
+                "title": "Developmental and Education Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b1e5ed22-89c8-47ef-a455-b1a5f40b8446?academicYearId=2025"
+              },
+              {
+                "title": "Digital Film Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "102-104",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3380abe0-73df-4a29-ad4f-3db46f52d632?academicYearId=2025"
+              },
+              {
+                "title": "Digital Film Production and Screenwriting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a8ed8616-904f-2aea-340e-b8de9b15ae3a?academicYearId=2025"
+              },
+              {
+                "title": "Digital Film Technologies",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dd50ec2f-66c5-40f4-a303-5a9d68534436?academicYearId=2025"
+              },
+              {
+                "title": "Drama, Theatre and Directing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fa6b1062-4c3b-145e-c3e6-c8be1337532a?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/40e25f14-b98b-19f8-cad2-1548df746d60?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5f1dfb93-fe83-41c9-fa3e-8a756dcbe50f?academicYearId=2025"
+              },
+              {
+                "title": "Early Childhood Studies with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5d1a19eb-4c21-4f41-8d8c-06960b49cc0e?academicYearId=2025"
+              },
+              {
+                "title": "Early Years",
+                "qualification": "FdA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/034777be-a77a-4d54-15e7-c87f8caebb3a?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/109ad159-b7d9-7923-7f7f-e41bd2eb0aec?academicYearId=2025"
+              },
+              {
+                "title": "Education with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7d1c4aad-294e-4d59-982a-be8d93f6eddc?academicYearId=2025"
+              },
+              {
+                "title": "Education, Special Needs and Disability",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4aa7731b-c3df-bca8-eb94-0cc5eb9f66d4?academicYearId=2025"
+              },
+              {
+                "title": "Electronic and Electrical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich including industrial placement",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8552bb4d-9ceb-473f-91ad-db397eb77c48?academicYearId=2025"
+              },
+              {
+                "title": "Electronic and Electrical Engineering with Integrated Foundation Year",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02c6698b-54b1-4c58-92b7-ec9eae7d64c6?academicYearId=2025"
+              },
+              {
+                "title": "English Literature",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5caa99a1-753c-9f8b-1996-e5f08a0d006e?academicYearId=2025"
+              },
+              {
+                "title": "English Literature and History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2b674dcb-a747-3b01-9d43-47ca96f16c55?academicYearId=2025"
+              },
+              {
+                "title": "Esports",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/243e322c-0421-41aa-a99b-7991348c38d4?academicYearId=2025"
+              },
+              {
+                "title": "Finance & Accounting (International Route)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b58c9c18-0847-c556-3055-dd6874ed3f97?academicYearId=2025"
+              },
+              {
+                "title": "Football Coaching and Performance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a09fc86f-5c10-0d3f-d30a-09af056ef3aa?academicYearId=2025"
+              },
+              {
+                "title": "Games Design and Development",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/886b80fb-cb6e-4fd9-b0a8-3e8c7f970b6b?academicYearId=2025"
+              },
+              {
+                "title": "History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/41c2c8b2-0ae2-586d-90fd-2a2aa929e429?academicYearId=2025"
+              },
+              {
+                "title": "History with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6b4cc828-44de-4912-9f12-6cbe65a7a674?academicYearId=2025"
+              },
+              {
+                "title": "Human Resource Management  (International Route) Level 6 ‘Top-up’",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f3080313-d203-48a1-a4b3-38e80ce2b87c?academicYearId=2025"
+              },
+              {
+                "title": "International Education",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cd84ef3a-fdab-4650-9593-f986857c7537?academicYearId=2025"
+              },
+              {
+                "title": "Jazz and Cabaret Performance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9db36387-0ba8-4593-8f25-4058491cd138?academicYearId=2025"
+              },
+              {
+                "title": "Jazz Performance",
+                "qualification": "BMus (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf17ee86-3300-66cd-6fb5-449a8c77d834?academicYearId=2025"
+              },
+              {
+                "title": "Law",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/42e327dd-3681-46e8-ae43-214db103719d?academicYearId=2025"
+              },
+              {
+                "title": "Law with Business",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0ef7ef9e-317d-4ac1-a224-2405660591f8?academicYearId=2025"
+              },
+              {
+                "title": "Law with Criminology",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e80d14af-8f0b-435b-ac07-6dc2fd561a97?academicYearId=2025"
+              },
+              {
+                "title": "Law with Criminology with Integrated Foundation Year",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/33ae1b75-f1a8-4598-8cdc-0f80036898ac?academicYearId=2025"
+              },
+              {
+                "title": "Law with Integrated Foundation Year",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d005dbbc-36cc-4a00-9ef6-85f80deb31aa?academicYearId=2025"
+              },
+              {
+                "title": "Law with International Relations",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5e636f24-4dc1-420b-84ed-8dacfef26137?academicYearId=2025"
+              },
+              {
+                "title": "Law with International Relations with Integrated Foundation Year",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93a04ab4-aef7-4693-b9af-bc0595765293?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7f8be0ff-897d-17fd-533a-a8641d289cb6?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (Top Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a8bc9733-03d9-4528-bd6d-75dba5a53090?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf445fa4-fd0c-4435-be1b-3145a6504b81?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering with Integrated Foundation Year",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/39ebc30c-2239-45c8-ae15-a52b997dfda7?academicYearId=2025"
+              },
+              {
+                "title": "Media & Communications",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1c9cdd4e-6d59-e67c-8f76-fc86e47d2310?academicYearId=2025"
+              },
+              {
+                "title": "Medieval & Early Modern History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1b48fba-8ebb-d2cd-62c2-62a8098e5e78?academicYearId=2025"
+              },
+              {
+                "title": "Music",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7496e743-6a02-851a-aae0-ee57e40f01ab?academicYearId=2025"
+              },
+              {
+                "title": "Music Performance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d190ec04-3c82-a024-f127-408662fac788?academicYearId=2025"
+              },
+              {
+                "title": "Music Performance (Film Acting)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3e6a9b60-562f-e3e5-95cd-6164e90d9370?academicYearId=2025"
+              },
+              {
+                "title": "Music with Jazz Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b8775719-0c0d-2821-d90c-eae8645b65a2?academicYearId=2025"
+              },
+              {
+                "title": "Music with Musical Theatre",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7c698e9c-c141-66ab-e150-a953e0cc8715?academicYearId=2025"
+              },
+              {
+                "title": "Music with Teaching",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/85a81a72-fb6e-fac3-6a6c-fc2198c4347c?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre (Cabaret)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2c94c5ff-6814-4d1a-aa5d-09d997a49d72?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre (Film Acting)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0aae736d-c2b7-9a77-0251-b3b2fea45587?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre (Music)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2ac72cd9-e712-4201-a3dd-11af9206d049?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre (Professional Performance)",
+                "qualification": "BA (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time (intensive)",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96",
+                "provider": "University of Chichester",
+                "location": "Associated Studios Performing Arts Academy",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ae7818fe-34f0-41eb-b2f9-a9474265b076?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre (Teaching)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b564ee5b-bb67-4864-9fb9-fdf2f23ecfb8?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre (Triple Threat)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "08/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e60d40a1-1313-b021-01ff-5bfa04825a47?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre Performance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/45844084-1843-6afc-7ccb-6d80730a758c?academicYearId=2025"
+              },
+              {
+                "title": "Outdoor and Adventure Education",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich including industrial placement",
+                "startDate": "09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1925b19f-7458-f992-4183-45e013018903?academicYearId=2025"
+              },
+              {
+                "title": "Performance",
+                "qualification": "BMus (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb33fd01-aafd-8d16-4dda-4e65d51b1e7e?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education (Primary Years)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a2aaad14-aa04-3ae5-de85-36ba3b22c9a4?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education (Secondary QTS)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1b95a7df-bb3c-4c64-b1e5-04e3904446c8?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education (Secondary Years)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bdf224a0-ec0a-0cc8-53ca-363fa18c516b?academicYearId=2025"
+              },
+              {
+                "title": "Physical Education and Sports Coaching",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad3dc34b-ed88-21fb-1b28-a766a939a5c3?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "120-136",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7555225f-146b-42fa-b0fe-883d8b7863a2?academicYearId=2025"
+              },
+              {
+                "title": "Politics and Contemporary History",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/294ea425-2417-69a4-1b24-ecc7ecce16cc?academicYearId=2025"
+              },
+              {
+                "title": "Politics and International Relations",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c837f04b-71f7-485d-b866-6d3b3fdca9ac?academicYearId=2025"
+              },
+              {
+                "title": "Politics and Philosophy & Ethics",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f9530aa0-0b47-5cb7-472d-6530e2daebee?academicYearId=2025"
+              },
+              {
+                "title": "Politics with International Relations with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e431487f-de3f-4cff-a55b-1b3368ebb81d?academicYearId=2025"
+              },
+              {
+                "title": "Primary Teaching (QTS)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b41e65cf-1166-e399-ffc3-d9af2d5b1efe?academicYearId=2025"
+              },
+              {
+                "title": "Primary Teaching (SEND) (QTS)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6d917309-31f3-4139-85db-669e0bf362b1?academicYearId=2025"
+              },
+              {
+                "title": "Primary Teaching with Early Years with QTS",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/27f5c45f-5f2e-85fd-e4df-e6cc8ca56eb6?academicYearId=2025"
+              },
+              {
+                "title": "Professional Musical Theatre (ROM Theatre Arts)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "University of Chichester",
+                "location": "ROM Theatre Arts",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/740f3277-383a-4b48-8d3d-d6fe7e5955e1?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/764cb518-cfbb-ea2f-f413-64ddbb4f84e1?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (International Route) Level 6 ‘Top-up",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/eabad80f-d2e0-4d8f-81bd-df805bb9ecf5?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Integrated Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4ba55904-50bb-41e2-ba2d-cf6a1bb59df4?academicYearId=2025"
+              },
+              {
+                "title": "Screen Acting and Film Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f6f75152-53cc-e382-094e-bb5f6ca6226c?academicYearId=2025"
+              },
+              {
+                "title": "Screenwriting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a7c95081-285b-86e8-1d0d-f5f4415fdc56?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/990a0245-9350-421c-3348-5c621abd5150?academicYearId=2025"
+              },
+              {
+                "title": "Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e030fe28-19d8-470b-9dbc-8490c97f43b8?academicYearId=2025"
+              },
+              {
+                "title": "Sociology with Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/24b39677-bbf2-4146-a1ad-6cb70f8ce7e8?academicYearId=2025"
+              },
+              {
+                "title": "Sociology with Criminology with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f300b34e-1eb5-4aa3-a760-980ab649fa56?academicYearId=2025"
+              },
+              {
+                "title": "Sociology with Integrated Foundation Year",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "46",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dfc8ef93-141c-4508-8a6a-8403c70157dc?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/962f6dac-5bd6-c3e2-c581-2e2d8f61a0be?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1c556817-6e03-f65f-bd0b-4dd6652fe7bc?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Science",
+                "qualification": "MSci",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-144",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b671f133-3258-7cdc-af4c-ea3a7ef41cca?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Science (Coaching)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/31b0fd0b-f05c-4eed-8551-72ec056b0958?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Science (Performance Sailing)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/88981a07-69fc-414b-8acd-f76eba59a3f0?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Science with Integrated Foundation Year",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "48",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7938711c-1479-499b-8a10-47bd988fe6fc?academicYearId=2025"
+              },
+              {
+                "title": "Sport Business Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/266094ba-63ca-4ab4-e71b-342a2886c4d6?academicYearId=2025"
+              },
+              {
+                "title": "Sports Media",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ed991f89-091c-29ba-cd34-038525971f86?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112-120",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b87083c9-ac50-42d7-537c-743bc43e80e2?academicYearId=2025"
+              },
+              {
+                "title": "Sports Therapy",
+                "qualification": "MSci",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "120-128",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/28cfeaef-bc6b-0065-5406-f3860a3b67e5?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Fashion",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "University of Chichester",
+                "location": "Platform One",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ca950a37-413a-4972-b1ae-12ab29d6d927?academicYearId=2025"
+              },
+              {
+                "title": "Vocal Performance",
+                "qualification": "BMus (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/40df2c19-83f1-0418-687c-a56da2eaa8b5?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Part-time&providers=University%20of%20Chichester",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Digital Marketer Degree Apprenticeship",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Blended learning (part-time)",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fff06c1a-6592-456d-b6e7-d07233b12221?academicYearId=2025"
+              },
+              {
+                "title": "Electrical and Electronic Technical Support Engineer Degree Apprenticeship",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Blended learning (part-time)",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ea9c5414-4abc-4a58-b42d-729bb19b8d61?academicYearId=2025"
+              },
+              {
+                "title": "Humanistic Counselling",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Part-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "See entry requirements",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a17768b6-d92c-4c8e-af73-97b659c7ed26?academicYearId=2025"
+              },
+              {
+                "title": "Manufacturing Engineer Degree Apprenticeship",
+                "qualification": "BEng",
+                "duration": "4 years",
+                "studyMode": "Blended learning (part-time)",
+                "startDate": "22/09/2025",
+                "ucasPoints": "104-112",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/64d965d2-0dbc-451e-a6a9-3ca71e5fae9f?academicYearId=2025"
+              },
+              {
+                "title": "Social Worker Degree Apprenticeship",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Blended learning (part-time)",
+                "startDate": "22/09/2025",
+                "ucasPoints": "96-112",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/af81ab8a-3a48-4600-9606-cb4e5229f1a4?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "2 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Full-time",
+            "count": "48 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Other mode",
+            "count": "5 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester"
+          },
+          {
+            "mode": "Part-time",
+            "count": "29 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20of%20Chichester"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=University%20of%20Chichester",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "2 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Fundraising in the Third Sector",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/64f204aa-9889-44eb-b739-8e3bdcdd623d?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Chichester",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "48 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "5 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Adult Nursing",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf8f1fab-0ecd-4ac2-aa96-352269300f02?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Practice",
+                "qualification": "Professional Doctorate",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be9d0a86-bd5d-4e3e-a1e9-ca5260cf1819?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Professional Practice",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff4cc8bc-64a8-4eb4-beca-6879324a85b7?academicYearId=2025"
+              },
+              {
+                "title": "Applied Sport and Exercise Nutrition",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c16c6b0c-c0f7-4280-9d21-edbe9ff18d65?academicYearId=2025"
+              },
+              {
+                "title": "Business Studies",
+                "qualification": "PhD",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/16654907-9f8a-4b38-bdc2-b1529b9eb30b?academicYearId=2025"
+              },
+              {
+                "title": "Choreography and Professional Practices",
+                "qualification": "MA",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c08174c1-8b85-2fd8-9896-07192cebf38f?academicYearId=2025"
+              },
+              {
+                "title": "Coaching Psychology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Blended learning (full-time)",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a77bf4c2-4da9-4ed4-ac7d-1ab051a21ccc?academicYearId=2025"
+              },
+              {
+                "title": "Composition for Film, TV and Games",
+                "qualification": "MA",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5f5173a4-178b-4da4-b88d-cd7d98945c46?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c6a36a0f-033b-8831-1c88-04e04e01ca5c?academicYearId=2025"
+              },
+              {
+                "title": "Criminology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Blended learning (full-time)",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b061346-cc91-4ea3-afd8-d8457eb6d96c?academicYearId=2025"
+              },
+              {
+                "title": "Dance Science",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4dc2ca33-c411-4445-a0b0-0fc2b5f3ffa1?academicYearId=2025"
+              },
+              {
+                "title": "Dance, Theatre and Music",
+                "qualification": "MPhil",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/246256d9-785b-44ba-aabe-54e489238bfa?academicYearId=2025"
+              },
+              {
+                "title": "Dance: Advanced Practice",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e6e3097a-5b3c-419d-90c2-9d296317842a?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "MPhil (Res)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/df0e75e0-4711-e15b-e093-f85372e5e274?academicYearId=2025"
+              },
+              {
+                "title": "Engineering",
+                "qualification": "MPhil (Res)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/22d8f5e1-425c-435d-9bc0-45b18ada5a1a?academicYearId=2025"
+              },
+              {
+                "title": "English and Creative Writing (Including Literature)",
+                "qualification": "PhD",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3bf4f7f2-dd94-872f-b44e-698dc8822283?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fe64596a-4251-4658-877a-289bbcd8884a?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSci",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0940e6aa-0274-41e2-8232-e9d9f1179a70?academicYearId=2025"
+              },
+              {
+                "title": "History and Politics",
+                "qualification": "PhD",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/157a108c-3b9e-36ed-26c1-bb1ffed58399?academicYearId=2025"
+              },
+              {
+                "title": "International Business",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bfe95f8f-533d-2545-8141-5fd82b8ae992?academicYearId=2025"
+              },
+              {
+                "title": "Law Conversion with SQE Preparation",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2caf7d46-f88c-4f45-853a-35d4e4cc6c9d?academicYearId=2025"
+              },
+              {
+                "title": "MA Devised Theatre",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d99b369c-b651-4829-9fa1-11d3953028bb?academicYearId=2025"
+              },
+              {
+                "title": "Mental Health Nursing (Pre-Registration)",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Blended learning (full-time)",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/279a99a0-67ff-4601-8483-08f5773ad497?academicYearId=2025"
+              },
+              {
+                "title": "MRes Sport (named pathways)",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/457d6b1e-5400-4b3d-aad5-9fac0a15ea10?academicYearId=2025"
+              },
+              {
+                "title": "Music",
+                "qualification": "PhD",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6e678630-a24d-436d-b752-7f0ce4331e7d?academicYearId=2025"
+              },
+              {
+                "title": "Music Performance",
+                "qualification": "MA",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5a53c265-c2d4-9b5a-3479-c8f75abb4b40?academicYearId=2025"
+              },
+              {
+                "title": "Music Teaching",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4a4826c7-fc47-4f44-ac95-8e29b3a6806a?academicYearId=2025"
+              },
+              {
+                "title": "Musical Theatre",
+                "qualification": "MA",
+                "duration": "9 months",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b1b0bb1d-d0e8-4799-af3c-4d0819c9189e?academicYearId=2025"
+              },
+              {
+                "title": "Neuromarketing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Blended learning (full-time)",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5224fd25-f8fe-4e41-bda3-9270a58e6911?academicYearId=2025"
+              },
+              {
+                "title": "Occupational Therapy (Pre-Registration)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/182d2a88-abb1-43a2-8fee-9006bd8e5c56?academicYearId=2025"
+              },
+              {
+                "title": "Performance (Theatre or Theatre Collectives)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/14e5151e-3a3d-57a4-92f0-0dedf06f6e7d?academicYearId=2025"
+              },
+              {
+                "title": "Performance: Dance (mapdance)",
+                "qualification": "MA",
+                "duration": "12 months",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/624ea763-5c6b-0f3c-fff4-ce04a00b28b1?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy (Pre-Registration)",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bb85277b-e425-4890-ae12-8ae26fd09521?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "PhD",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bdb52cff-07af-1a82-1c6d-5ad6234bb584?academicYearId=2025"
+              },
+              {
+                "title": "Secondary Dance",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e215ae98-fff0-4989-8e6d-362a6118f33c?academicYearId=2025"
+              },
+              {
+                "title": "Secondary English",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/beeec557-f257-49e9-b223-a1b1f656c885?academicYearId=2025"
+              },
+              {
+                "title": "Secondary History",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d24dc095-db80-49a5-8a5a-f2b4e2db0987?academicYearId=2025"
+              },
+              {
+                "title": "Secondary Mathematics",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3cedfb4f-7b33-44de-b58d-7c211feba553?academicYearId=2025"
+              },
+              {
+                "title": "Secondary Music",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6d734d12-2f80-45dc-9d03-aa91888e8c96?academicYearId=2025"
+              },
+              {
+                "title": "Secondary Physical Education",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e83aa45d-99e0-49f2-b5a0-0ee319b0d25d?academicYearId=2025"
+              },
+              {
+                "title": "Secondary Science (Biology, Chemistry or Physics)",
+                "qualification": "PGCE",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Multiple Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f1355dac-cb14-4920-a6f4-9c69c0ee3164?academicYearId=2025"
+              },
+              {
+                "title": "Social Policy (including Social Work, Social Care and Early Childhood Studies)",
+                "qualification": "PhD",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7b56322e-edf3-4387-fc91-49f44441f17c?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Biomechanics",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/95e3a2ec-7669-cc63-b5e8-4c603a99af7b?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Physiology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc60573f-f1e5-c031-7466-20bc6beeae8f?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Psychology (British Psychological Society stage 1)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/767b8799-a2a2-f8c7-5511-8212555d8c86?academicYearId=2025"
+              },
+              {
+                "title": "Sport, Exercise and Physical Education",
+                "qualification": "PhD",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4c963b3c-c9a6-ba9a-ab6d-367057e8df94?academicYearId=2025"
+              },
+              {
+                "title": "Sports Performance Analysis",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9ceb852-3514-70b2-2812-503d667082e7?academicYearId=2025"
+              },
+              {
+                "title": "Strength and Conditioning",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b8fcd2c0-790d-de94-b19b-bcdaffa002e6?academicYearId=2025"
+              },
+              {
+                "title": "Theatre",
+                "qualification": "MPhil (Res)",
+                "duration": "48 months",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/450ae103-fd8f-4877-af0f-cdf8a269ff6d?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20of%20Chichester",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "29 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Advanced Practice",
+                "qualification": "Professional Doctorate",
+                "duration": "7 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be9d0a86-bd5d-4e3e-a1e9-ca5260cf1819?academicYearId=2025"
+              },
+              {
+                "title": "Autism Education",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/27af2a14-2ba3-4579-b5e5-41d16736d3b4?academicYearId=2025"
+              },
+              {
+                "title": "Business Studies",
+                "qualification": "PhD",
+                "duration": "7 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/16654907-9f8a-4b38-bdc2-b1529b9eb30b?academicYearId=2025"
+              },
+              {
+                "title": "Choreography and Professional Practices",
+                "qualification": "MA",
+                "duration": "24 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c08174c1-8b85-2fd8-9896-07192cebf38f?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "MA",
+                "duration": "36 months",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c6a36a0f-033b-8831-1c88-04e04e01ca5c?academicYearId=2025"
+              },
+              {
+                "title": "Dance Science",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4dc2ca33-c411-4445-a0b0-0fc2b5f3ffa1?academicYearId=2025"
+              },
+              {
+                "title": "Dance, Theatre and Music",
+                "qualification": "MPhil",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/246256d9-785b-44ba-aabe-54e489238bfa?academicYearId=2025"
+              },
+              {
+                "title": "Education",
+                "qualification": "MPhil (Res)",
+                "duration": "7 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/df0e75e0-4711-e15b-e093-f85372e5e274?academicYearId=2025"
+              },
+              {
+                "title": "Engineering",
+                "qualification": "MPhil (Res)",
+                "duration": "7 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/22d8f5e1-425c-435d-9bc0-45b18ada5a1a?academicYearId=2025"
+              },
+              {
+                "title": "English and Creative Writing (Including Literature)",
+                "qualification": "PhD",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3bf4f7f2-dd94-872f-b44e-698dc8822283?academicYearId=2025"
+              },
+              {
+                "title": "Health Psychology",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fe64596a-4251-4658-877a-289bbcd8884a?academicYearId=2025"
+              },
+              {
+                "title": "History and Politics",
+                "qualification": "PhD",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/157a108c-3b9e-36ed-26c1-bb1ffed58399?academicYearId=2025"
+              },
+              {
+                "title": "Inclusive Special Education",
+                "qualification": "MA",
+                "duration": "3 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1fe622f-3aca-d8c0-2510-9a142d19b0dc?academicYearId=2025"
+              },
+              {
+                "title": "Music",
+                "qualification": "PhD",
+                "duration": "7 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6e678630-a24d-436d-b752-7f0ce4331e7d?academicYearId=2025"
+              },
+              {
+                "title": "Music Performance",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5a53c265-c2d4-9b5a-3479-c8f75abb4b40?academicYearId=2025"
+              },
+              {
+                "title": "Music Teaching",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4a4826c7-fc47-4f44-ac95-8e29b3a6806a?academicYearId=2025"
+              },
+              {
+                "title": "National Award for Special Educational Needs Coordination",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/17d07e15-c030-4c7d-b66a-2f98fe02b67a?academicYearId=2025"
+              },
+              {
+                "title": "Performance (Theatre or Theatre Collectives)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/14e5151e-3a3d-57a4-92f0-0dedf06f6e7d?academicYearId=2025"
+              },
+              {
+                "title": "Postgraduate Engineering Business Manager Degree Apprenticeship",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Blended learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/238ce5f7-bd69-44ae-8be6-425a9b0ba632?academicYearId=2025"
+              },
+              {
+                "title": "Professional Studies in Education, Growth Mindset",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/83dfd910-6d09-40df-bbd2-94faee610ad2?academicYearId=2025"
+              },
+              {
+                "title": "Professional Studies in Education, Mental Health Awareness in Schools",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bognor Regis Campus, University of Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/534a4ab2-97d1-4965-9293-087fa32b0009?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "PhD",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bdb52cff-07af-1a82-1c6d-5ad6234bb584?academicYearId=2025"
+              },
+              {
+                "title": "Senior Leadership Apprenticeship and Postgraduate Diploma with additional optional MBA Top Up",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a3743b4d-1f5b-4324-a2b1-734efed2016c?academicYearId=2025"
+              },
+              {
+                "title": "Social Policy (including Social Work, Social Care and Early Childhood Studies)",
+                "qualification": "PhD",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7b56322e-edf3-4387-fc91-49f44441f17c?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Biomechanics",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/95e3a2ec-7669-cc63-b5e8-4c603a99af7b?academicYearId=2025"
+              },
+              {
+                "title": "Sport and Exercise Physiology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc60573f-f1e5-c031-7466-20bc6beeae8f?academicYearId=2025"
+              },
+              {
+                "title": "Sport, Exercise and Physical Education",
+                "qualification": "PhD",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4c963b3c-c9a6-ba9a-ab6d-367057e8df94?academicYearId=2025"
+              },
+              {
+                "title": "Sports Performance Analysis",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9ceb852-3514-70b2-2812-503d667082e7?academicYearId=2025"
+              },
+              {
+                "title": "Strength and Conditioning",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b8fcd2c0-790d-de94-b19b-bcdaffa002e6?academicYearId=2025"
+              },
+              {
+                "title": "Theatre",
+                "qualification": "MPhil (Res)",
+                "duration": "84 months",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "University of Chichester",
+                "location": "Bishop Otter Campus, Chichester",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/450ae103-fd8f-4877-af0f-cdf8a269ff6d?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Apprenticeships": {
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "heading": "Apprenticeships",
+      "paragraphs": [
+        "Boost your career with academic learning alongside on-the-job training.",
+        "Degree apprenticeships give you the chance to study and work alongside one another. The advantages are you'll gain real-world experience, a degree and graduate without tuition fee debt.",
+        "Want to learn more? Browse our degree apprenticeships."
+      ]
+    },
+    "International": {
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "At the University of Chichester, we’re pleased to accept qualifications from all over the world for undergraduate and postgraduate entry, as well as for our International Foundation and Pre-Masters programmes.",
+        "Why Chichester?",
+        "We recognise that diversity is key to creating an enriching academic community. Our international students are at the heart of this, contributing unique perspectives and experiences that improve the learning experience for everyone.",
+        "With a longstanding history of supporting international students, we have a deep understanding of the unique challenges faced by those studying away from their home countries and cultures.",
+        "This insight allows us to provide tailored support, ensuring that every student has the resources they need to thrive both academically and personally.",
+        "Our International Courses",
+        "All our programmes are designed with international students in mind.",
+        "We also offer a range of specialised courses and services aimed at helping these learners adjust and excel.",
+        "These include Pre-Sessional Programmes, which focus on developing students’ academic language and study skills, and International Top-Up Degrees, specially designed one-year full-time programmes for those who hold HND or associate overseas degrees.",
+        "By placing the needs of our international students at the forefront, we ensure that they not only succeed in their studies but also feel valued and supported throughout their time with us."
+      ]
+    },
+    "StudentSupport": {
+      "metaLabels": [
+        "Location: Seaside, City, Rural"
+      ],
+      "heading": "Student support",
+      "paragraphs": [
+        "We have an outstanding reputation for student satisfaction and retention, and one of the key underlying factors is the excellence of our support services.",
+        "Academic Support",
+        "Health and wellbeing support",
+        "Disability support team",
+        "Support groups",
+        "Social support",
+        "Accommodation services",
+        "Careers guidance"
+      ]
+    }
+  }
+}

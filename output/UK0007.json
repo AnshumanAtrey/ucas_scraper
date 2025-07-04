@@ -1,0 +1,2794 @@
+{
+  "id": "UK0007",
+  "slug": "university-of-bradford",
+  "scrapedAt": "2025-07-04T12:44:09.759Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "Apprenticeships",
+    "International"
+  ],
+  "pages": {
+    "About": {
+      "name": "University of Bradford",
+      "location": "Bradford",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/ucas-search-banner-uob.jpg",
+      "about": "This is where your journey begins.\nAt Bradford, our degrees are more than just a qualification. It's all about giving you the opportunities to become a confident, skilled and employable graduate. You'll get practical training and learn the skills you need to make your mark on the world.\nWe offer over 100 undergraduate courses across our four faculties. Whichever you choose, we'll be there to support you every step of the way. We'll make sure you reach your full potential, both academically and personally, so that when you graduate, you'll be ready to take on anything.\nHere at Bradford, you get a real-world education. Our courses are designed using input from our industry partners, so you'll develop the skills employers need. You'll put theory into practice in the lad, in the field, and on placement. We ensure as many students as possible undertake placements and sandwich years, as well as having exposure to industry-standard facilities on campus.",
+      "whatMakesUsDifferent": "The University of Bradford is one of the most socially inclusive universities in the UK and celebrates both the differences and similarities in our many communities.\nWe welcome, support and dedicate ourselves to the success of our students whatever their background, identity, beliefs or challenges. We see individuals and their potential, and work hard to remove barriers to their success.\nWe provide tailored support to students coming from a range of backgrounds who are looking to enter Higher Education, and offer outstanding support, personally and academically, to ensure our students are able to succeed and progress in life beyond university.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/engineering-student.jpg?itok=zhRT0s5L"
+      ],
+      "website": "https://www.bradford.ac.uk/undergraduate/?utm_source=ucas&utm_medium=referral_paid&utm_campaign=undergraduate-2024&utm_content=ec_brand-ads",
+      "email": "",
+      "phone": "01274 233081",
+      "metaLabels": [
+        "Location: City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Main Site",
+          "address": "Richmond Road, Bradford, BD7 1DP"
+        },
+        {
+          "title": "University of Bradford Middle East Regional Office",
+          "address": "Dubai Knowledge Village, Block 13, G39,, UAE, P.O. Box 501723, Dubai, 501723"
+        },
+        {
+          "title": "Dewsbury and District Hospital",
+          "address": "Dewsbury and District Hospital, Halifax Road, Dewsbury, WF13 4HS"
+        },
+        {
+          "title": "Main Site",
+          "address": "Richmond Road, Bradford, BD7 1DP"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "56%"
+            },
+            {
+              "label": "Male",
+              "value": "44%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "65%"
+            },
+            {
+              "label": "EU Students",
+              "value": "2%"
+            },
+            {
+              "label": "International",
+              "value": "34%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "86%"
+            },
+            {
+              "label": "Part-time",
+              "value": "14%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "53%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "47%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "37%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "63%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "University isn’t all lectures and seminars. Here at Bradford, we have everything you need for an exciting and well-rounded university experience that’s unique to your interests and ambitions.",
+        "Our city campus is a close-knit community that’s full of opportunities for you to meet new people, learn new skills and get involved in loads of activities.",
+        "Our Students’ Union has over 60 societies for you to join, they are a great way to make friends and explore your passions, you might even discover something completely new.",
+        "Discover the city of Bradford, which is home to beautiful historical architecture, gorgeous green spaces, and a welcoming, vibrant and diverse community, all within a close proximity to the University campus. There are even more gems to discover beyond the city centre."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-1008056968-yorkshire-and-humber-header.jpg?itok=QQcAY33y",
+          "heading": "What's it like to live in Yorkshire and The Humber?Check out our region guide",
+          "paragraphs": [
+            "Yorkshire and the Humber has history and innovation in abundance. Famed for beautiful countryside, the region inspired a wealth of literary heritage, with links to Tolkien, Plath, Larkin, Brontë and beyond. Major cities – including Bradford, Hull, Leeds, Sheffield and York – boast a range of cultural accolades among them, including two recent UK City of Culture nods. Great nightlife, supportive communities and excellent transport routes make it the perfect hub for studying – no matter your interests or ambitions."
+          ],
+          "link": "https://www.ucas.com/study-in/yorkshire-and-humber"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-173224043-bradford-header.jpg?itok=gqGnb3lE",
+          "heading": "What's it like to live in Bradford?Check out our city guide",
+          "paragraphs": [
+            "Considering Bradford for your studies? Discover a culturally rich city known for its diverse community, strong university links, and world-class food."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-bradford"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "Bradford is a campus-based university, and you’ll love the friendly and inclusive community spirit here.",
+        "There's always something happening on campus, and you’ll have so many opportunities to explore new interests, learn new skills, and meet new people. Our campus is compact, self-contained, and located just minutes from the city centre.",
+        "Facilities",
+        "We have a range of facilities on campus. Student Central is the home of the University of Bradford Union of Students (UBU) and a range of student support services.",
+        "You'll also find:",
+        "As a student, you’ll have access to a 24/7 library and a multi-faith prayer room.",
+        "The University is also home to Unique Fitness, which includes a refurbished gym, a 25-metre swimming pool, a climbing wall and a range of courts and pitches available for hire."
+      ],
+      "courseLocations": [
+        {
+          "title": "Main Site",
+          "address": "Richmond Road, Bradford, BD7 1DP"
+        },
+        {
+          "title": "University of Bradford Middle East Regional Office",
+          "address": "Dubai Knowledge Village, Block 13, G39,, UAE, P.O. Box 501723, Dubai, 501723"
+        },
+        {
+          "title": "Dewsbury and District Hospital",
+          "address": "Dewsbury and District Hospital, Halifax Road, Dewsbury, WF13 4HS"
+        },
+        {
+          "title": "Main Site",
+          "address": "Richmond Road, Bradford, BD7 1DP"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "We offer over 100 undergraduate courses across four academic faculties. Courses are designed using input from industry partners and our students put theory into practice in the lab, in the field, and on placement. We ensure as many students as possible undertake placements and sandwich years, as well as having exposure to industry-standard facilities on campus. We also offer plenty of opportunities to study abroad.",
+        "We also offer over 200 postgraduate study options, including full-time and part-time courses, and distance learning options."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "122 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Bradford"
+          },
+          {
+            "mode": "Sandwich",
+            "count": "35 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Bradford"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20of%20Bradford",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "122 courses"
+              },
+              {
+                "mode": "Sandwich",
+                "count": "35 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting and Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bc65f493-b16b-6bd0-f8fb-3838b8472441?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70af180c-fee6-20bf-9a98-5a8422811ebe?academicYearId=2025"
+              },
+              {
+                "title": "Adult/Mental Health",
+                "qualification": "MNurs",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6eff1333-925f-4516-be26-5f6035884eac?academicYearId=2025"
+              },
+              {
+                "title": "Animation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/437862a1-d84c-0538-1da4-b3ec825abd99?academicYearId=2025"
+              },
+              {
+                "title": "Animation (with a study abroad year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with time abroad",
+                "startDate": "15/09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f177f4fd-766a-e693-9397-e4e696bb171d?academicYearId=2025"
+              },
+              {
+                "title": "Applied Biomedical Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/028348d7-628e-4f3a-93fb-3d124300c9d2?academicYearId=2025"
+              },
+              {
+                "title": "Archaeology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/90100a9c-b5d1-7b0a-64eb-dc4561c2ca53?academicYearId=2025"
+              },
+              {
+                "title": "Archaeology (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c7118875-1cca-6eba-8f38-20d6d742af59?academicYearId=2025"
+              },
+              {
+                "title": "Architectural Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c82c028d-4c82-4da3-82e7-7151376ed8ae?academicYearId=2025"
+              },
+              {
+                "title": "Architectural Technology (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4ffe74f7-71aa-4832-b0dc-a3c4eda989e8?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aab3daa4-055e-cc59-dfd4-7a9f33558c0f?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7099e8e1-0e80-2993-33cc-4294df51bae1?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Engineering (including a placement year)",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3d5b1adb-9e30-6e0c-5538-05e19e50b882?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Engineering (with a placement year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d6cca0be-4473-4488-8b80-d146a3573cb7?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Engineering (with Integrated  Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e41a6e11-6d9c-43e4-8af2-0bf278bba0e9?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Engineering (with Integrated Foundation Year & Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2577e98a-6615-401a-b989-a2992674bace?academicYearId=2025"
+              },
+              {
+                "title": "Biomedical Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c1baf433-44ec-896f-6626-c14fd3b45291?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/173ce20d-f8a4-ddcd-5d31-1f6dae3f2fc6?academicYearId=2025"
+              },
+              {
+                "title": "Business and Management (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02f7d9ec-53a2-bc50-aa7c-fe67f177e9bf?academicYearId=2025"
+              },
+              {
+                "title": "Business Studies and Law",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad006e00-521b-980d-9b4e-cb39d1a1c16d?academicYearId=2025"
+              },
+              {
+                "title": "Business Studies and Law (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aa1c4602-453b-c55e-b9f4-fea27e1871d8?academicYearId=2025"
+              },
+              {
+                "title": "Chemical Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6f40be9f-6507-2727-394b-f16c0b9838fb?academicYearId=2025"
+              },
+              {
+                "title": "Chemical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e76ad30c-5d2e-6332-0661-d41c98ee6332?academicYearId=2025"
+              },
+              {
+                "title": "Chemical Engineering (with a placement year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ec3c4486-b6a3-1754-fdba-0f890dab078e?academicYearId=2025"
+              },
+              {
+                "title": "Chemical Engineering (with a placement year)",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8ea45c84-1aa0-c9fd-8b04-46b3cfaca608?academicYearId=2025"
+              },
+              {
+                "title": "Chemical Engineering (with Integrated Foundation Year & Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5d1059f7-8da9-4817-8370-14f78b9c4970?academicYearId=2025"
+              },
+              {
+                "title": "Chemical Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6951cec8-ee2c-4dc3-b467-366ff84ca35e?academicYearId=2025"
+              },
+              {
+                "title": "Civil and Structural Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/413be12a-77e8-9595-9ea5-813a66cf7cef?academicYearId=2025"
+              },
+              {
+                "title": "Civil and Structural Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d7d02222-6bc4-97f1-0fc1-6d4cee73b6e8?academicYearId=2025"
+              },
+              {
+                "title": "Civil and Structural Engineering (with a placement year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a803b8d8-87c5-7c86-9088-7eeeaf8d459a?academicYearId=2025"
+              },
+              {
+                "title": "Civil and Structural Engineering (with a placement year)",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/290b170f-f69b-8700-90c8-c821c418e0b2?academicYearId=2025"
+              },
+              {
+                "title": "Civil and Structural Engineering (with Integrated Foundation Year and Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/19daf937-ac73-4afd-9cb1-ded6c57097a3?academicYearId=2025"
+              },
+              {
+                "title": "Civil and Structural Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cabd4d06-5fbf-4077-8c45-96aa4eb55179?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/16bb8004-652d-e49c-8bc4-ba5f4a8f2e0b?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Sciences (with placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3289409b-2bce-42b3-a9d8-4167a1e22b74?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Technology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9646b52b-29a0-4821-491b-ccde51fb91ae?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Technology (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/12d57ba0-51b2-310d-c4d0-67c19c5a60e7?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/97c7c4d8-c8be-ad81-6381-4bbacb07dc63?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a513abfb-42d9-81fd-4b4a-24a2af330b7d?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science (with Integrated Foundation Year and Placement Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1cdc59f-fc25-49a4-973c-433ee573a760?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science BSc (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/90d53f31-00a7-4ea5-b4d0-c876f2dcee00?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Artificial Intelligence",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73733aa5-1bb6-4824-aecf-603eae579bdc?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Artificial Intelligence (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d1328e9f-9785-4f2b-92ab-0dcdb7bda310?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Artificial Intelligence (with Integrated Foundation Year and Placement Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7498cce7-6208-4e29-8997-d12e2675a335?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Artificial Intelligence (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fcabd0bf-19ac-46b4-88f8-f455514c1718?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Cyber Security",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0227341a-68cb-68aa-a892-30c392881e72?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Cyber Security (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e22f246c-0261-0405-2df6-80fdb87cf010?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Cyber Security (with Integrated Foundation Year and Placement Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2325252f-93d3-443d-a1d8-8d2451f394f6?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science for Cyber Security (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5d823e91-42d6-4d36-af3b-342769f7ee2d?academicYearId=2025"
+              },
+              {
+                "title": "Criminology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f38c4795-621c-4c7a-bfcf-7cf1fd8957b1?academicYearId=2025"
+              },
+              {
+                "title": "Diagnostic Radiography",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92bec428-03a8-71e5-afa7-c20975a97328?academicYearId=2025"
+              },
+              {
+                "title": "Economics",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/00281ece-1edf-a05c-2697-75a56baee01e?academicYearId=2025"
+              },
+              {
+                "title": "Economics (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d5b14af5-f023-aa54-21d4-dffc9b895ddf?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Business Analytics",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c371df9b-eb91-48c1-aa6b-a01bcb2b84fb?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Business Analytics (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/99a80861-6c40-4c24-b81f-fcdc2369ce2d?academicYearId=2025"
+              },
+              {
+                "title": "Forensic & Medical Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1481453a-4039-db57-4dfb-fafcf5cfd652?academicYearId=2025"
+              },
+              {
+                "title": "Forensic & Medical Sciences (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76af8913-e831-7c9c-591a-2ce8285f73a6?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Anthropology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c11f433d-ce09-fd78-8975-c19b85387975?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Anthropology (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/384870b4-8b0c-ba76-798f-d81247e436be?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e309ded-260b-d3e7-93da-e4efbb7f459c?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Science (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1578ade3-1170-eeda-26ae-8cba74794911?academicYearId=2025"
+              },
+              {
+                "title": "Foundation in Clinical Sciences and Medicine leading to BSc Clinical Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a8beca96-b413-2d9d-8b22-fea24afbb2d5?academicYearId=2025"
+              },
+              {
+                "title": "Foundation in Clinical Sciences and Medicine leading to BSc Clinical Sciences (with placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5c53cff4-0b45-4358-8357-84f4332fc957?academicYearId=2025"
+              },
+              {
+                "title": "Foundation Year in Engineering and Digital Technologies",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dcb1e700-504c-51f6-482f-eea5c1d5270f?academicYearId=2025"
+              },
+              {
+                "title": "Foundation Year in Health and Life Sciences",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/78d1291d-d7b1-40a2-abc7-1bac667be62b?academicYearId=2025"
+              },
+              {
+                "title": "Foundation Year in Management, Law and Social Sciences",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ba39eeb2-cc78-1539-f640-3f114e0c5715?academicYearId=2025"
+              },
+              {
+                "title": "Game Design and Development",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7ece7461-b208-7249-2ecd-9ee52916794c?academicYearId=2025"
+              },
+              {
+                "title": "Game Design and Development (with placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5502a0db-daca-0849-94cb-d7c9c14e4217?academicYearId=2025"
+              },
+              {
+                "title": "International Business and Management",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/59c3158c-d0f6-fba2-6342-ee874ae8021b?academicYearId=2025"
+              },
+              {
+                "title": "International Business and Management (with a placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/19f1f064-6a34-914b-2f00-32de57767290?academicYearId=2025"
+              },
+              {
+                "title": "International Relations, Politics and Security Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1f118384-aa74-4a36-be8d-62ddc490ac8d?academicYearId=2025"
+              },
+              {
+                "title": "Law",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7ed9aa39-5436-3b27-d9f3-fa1c8eed5c6d?academicYearId=2025"
+              },
+              {
+                "title": "Law (with placement year)",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/939740fa-22b3-a35f-9cf6-66fce6dd3721?academicYearId=2025"
+              },
+              {
+                "title": "Law with Business and Management",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e1decece-77cc-c3a3-d9fc-e760ea449b47?academicYearId=2025"
+              },
+              {
+                "title": "Law with Business and Management (with placement year)",
+                "qualification": "LLB (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f487b64f-9ea2-4086-1ab0-2045d41d9c69?academicYearId=2025"
+              },
+              {
+                "title": "Legal Theory & Solicitors Practice",
+                "qualification": "MLaw",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1e7a7a1e-6438-4808-b939-e4f597d6f856?academicYearId=2025"
+              },
+              {
+                "title": "Legal Theory & Solicitors Practice (with placement year)",
+                "qualification": "MLaw",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/095fac21-cd07-419e-bbdc-f49ac079c93f?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/857137cd-74f3-0f7a-1373-8695c9a40891?academicYearId=2025"
+              },
+              {
+                "title": "Marketing (with Placement Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9f5567d3-6271-9a57-87a5-fb1294131d53?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/457d91be-dd01-522f-0c4e-fce457a17867?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering",
+                "qualification": "MEng",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d56304a2-8115-009e-28e4-8dc89c596d4c?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering (with Integrated Foundation Year and Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/12a2066e-d303-4861-88e1-f6e598c4b4df?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8451535e-14ff-4f9d-bb6c-9eaeff383a40?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering (with Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3e04c6d9-bd4b-b339-b4b4-acfbc7283746?academicYearId=2025"
+              },
+              {
+                "title": "Mechanical Engineering (with Placement Year)",
+                "qualification": "MEng",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8991dd79-e15a-4400-1594-6ed44f5a05e8?academicYearId=2025"
+              },
+              {
+                "title": "Midwifery",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2bcc0cd2-30ed-b692-7131-fae71f85f5a0?academicYearId=2025"
+              },
+              {
+                "title": "Midwifery (Postgraduate Entry)",
+                "qualification": "MSc (PG)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8f07ec35-f4f2-ba7f-566e-e67c30bf42a2?academicYearId=2025"
+              },
+              {
+                "title": "MNurse Child/Mental Health",
+                "qualification": "MNurs",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b51c0163-3e11-47b6-85a3-22a470250dc8?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68e1ac00-c6ed-a186-f2f5-63477aa1afa6?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult) (Harrogate and District NHS Trust)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c436f4a3-dedb-400c-aa8b-984b3b50c870?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Adult) (Mid Yorkshire Hospitals)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "04/2026",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Dewsbury and District Hospital",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/21154075-40d7-46ae-a826-495e2a8dc9e1?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Children's)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2a0d3f7f-0090-799d-c3ca-53ae3706fa45?academicYearId=2025"
+              },
+              {
+                "title": "Nursing (Mental Health)",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3bb500f1-dd59-5d4f-bad0-4776cbab647d?academicYearId=2025"
+              },
+              {
+                "title": "Occupational Therapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37d22e79-3eb6-1c8e-0981-da333d1117ba?academicYearId=2025"
+              },
+              {
+                "title": "Paramedic Science",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cca26675-e537-623e-b7ea-44846681add4?academicYearId=2025"
+              },
+              {
+                "title": "Pharmaceutical and Cosmetic Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ab73a0d8-5cde-4465-8ac3-3928215755ef?academicYearId=2025"
+              },
+              {
+                "title": "Pharmacy",
+                "qualification": "MPharm (H)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bc71d3c5-0995-61e0-3ae5-c7dfe22f2ada?academicYearId=2025"
+              },
+              {
+                "title": "Pharmacy (including pre-registration training)",
+                "qualification": "MPharm (H)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e5590797-5fd0-42c0-07f6-7df253d7aec6?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d8752b54-c970-a483-862b-29357f257b1b?academicYearId=2025"
+              },
+              {
+                "title": "Physiotherapy (Sport and Exercise Medicine)",
+                "qualification": "MPhysio",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "128",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/03da2d8a-8784-4ad0-ae1a-7b8c54fac54c?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/27ad885d-e3b0-8c58-7ac0-fc66552e0c1a?academicYearId=2025"
+              },
+              {
+                "title": "Psychology (with placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d9e1bd7c-75b2-4a8d-a234-1a61daf3e6fa?academicYearId=2025"
+              },
+              {
+                "title": "Psychology and Criminology",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2d80e2b6-0e70-44f7-85a6-3ef9f7a53674?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Counselling",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/942cb504-a2ef-3ffb-2806-f217e9b130a1?academicYearId=2025"
+              },
+              {
+                "title": "Psychology with Counselling (with placement year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73274c51-1350-4850-8150-6e450303123f?academicYearId=2025"
+              },
+              {
+                "title": "Public Health and Community Wellbeing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e21d3924-9811-422b-8423-65375d389d00?academicYearId=2025"
+              },
+              {
+                "title": "Social Work",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "120",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f41f7789-3be7-eb7c-366d-9af29aeef742?academicYearId=2025"
+              },
+              {
+                "title": "Social Work (Postgraduate Entry)",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/37381b2b-759f-a494-4bec-a159dc172d2e?academicYearId=2025"
+              },
+              {
+                "title": "Sociology",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "96",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/665ac177-6500-4847-8023-d1e114a057dc?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f2faa9df-a0c5-71e3-3eb9-d993a8eeee50?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering (with Integrated Foundation Year and Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1be2fb6e-8352-4569-b6d1-6a045b29a21f?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "72",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81f2975d-d713-4661-8b95-0fbf158cc78a?academicYearId=2025"
+              },
+              {
+                "title": "Software Engineering (with placement year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "112",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/00baed10-165b-6eff-f954-f2ddd6131f3a?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Process Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b129161-7844-46b4-b697-822ab10628e3?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Process Engineering",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cbac053-123f-44e6-86cb-0bd96ba33b83?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Process Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8e48fd44-09c8-46c0-ba87-6013fc13578e?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Process Engineering",
+                "qualification": "MEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4160b7b2-5e9d-4348-babc-bbb33a753733?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Process Engineering (with Integrated Foundation Year & Placement Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "5 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f30aa94e-e395-4aa1-b047-b6518340b9bb?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Process Engineering (with Integrated Foundation Year)",
+                "qualification": "BEng (Hon)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "64",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0b3970e6-071a-4d3a-a15b-318cb18833d5?academicYearId=2025"
+              },
+              {
+                "title": "Working with Children, Young People and Families",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8dc87c07-14aa-c880-f9b3-5963f8586eeb?academicYearId=2025"
+              },
+              {
+                "title": "Working with Children, Young People and Families (with placement year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Sandwich",
+                "startDate": "09/2025",
+                "ucasPoints": "104",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b32aa637-b70a-46f2-91ff-f025a164977a?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "12 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=University%20of%20Bradford"
+          },
+          {
+            "mode": "Full-time",
+            "count": "65 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Bradford"
+          },
+          {
+            "mode": "Part-time",
+            "count": "40 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20of%20Bradford"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=University%20of%20Bradford",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "12 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Advanced Dementia Studies (distance learning)",
+                "qualification": "PgDip",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f6a28dcf-9c65-4954-bbc9-25a82d324583?academicYearId=2025"
+              },
+              {
+                "title": "Financial Technology (FinTech)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/555ce82f-919a-4001-b4c6-1cc82bbcd2f6?academicYearId=2025"
+              },
+              {
+                "title": "International Banking and Financial Technology Law",
+                "qualification": "LLM",
+                "duration": "16 months",
+                "studyMode": "Distance learning (full-time)",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6236e012-37ff-4716-8f62-c78ce9d83795?academicYearId=2025"
+              },
+              {
+                "title": "International Commercial Law",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac30ec5a-8ad6-47e6-90ad-8ea88ea63b37?academicYearId=2025"
+              },
+              {
+                "title": "International Corporate Law and Governance",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b5682c28-31da-4760-8aee-a2b18365572c?academicYearId=2025"
+              },
+              {
+                "title": "International Human Rights Law and Development",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8ed97dc1-d502-4fa1-8b7a-3b1d4427af18?academicYearId=2025"
+              },
+              {
+                "title": "International Legal Studies",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Distance learning (full-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cc357b4d-782c-8d0f-36fa-2c8d6d90c16c?academicYearId=2025"
+              },
+              {
+                "title": "MBA Distance Learning",
+                "qualification": "MBA",
+                "duration": "2 years",
+                "studyMode": "Distance learning",
+                "startDate": "07/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/455675b4-f032-e47d-65c9-c063b1e934a4?academicYearId=2025"
+              },
+              {
+                "title": "MBA Innovation, Enterprise and Circular Economy",
+                "qualification": "MBA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "07/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9c13235-7ef6-471a-f90a-a6ea8311d3fc?academicYearId=2025"
+              },
+              {
+                "title": "Natural Resources and Environmental Law and Policy",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7fea12be-b01c-4bd2-bf46-2df7b4bf2856?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2dc9ca80-2431-f31f-bbcd-240b10c948a9?academicYearId=2025"
+              },
+              {
+                "title": "Technology and Artificial Intelligence Law",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d32c81dc-ba80-4933-ae77-6d17618324bb?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20of%20Bradford",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "65 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Advanced Biomedical Engineering",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b0d432ad-b67d-458c-9a61-ff61cabbec19?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Chemical and Petroleum Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/62ff772f-fd42-4de1-a332-21e256106ced?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Civil and Structural Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2329c0bf-75c8-404f-af82-473267d1c130?academicYearId=2025"
+              },
+              {
+                "title": "Advanced Mechanical Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/192a5cfb-b723-4ada-b339-34a79c13f0bf?academicYearId=2025"
+              },
+              {
+                "title": "Applied Artificial Intelligence and Data Analytics",
+                "qualification": "MSc",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4d5ad4f2-2e36-4f1d-93cd-dfbbb63fa9a0?academicYearId=2025"
+              },
+              {
+                "title": "Applied Computer Science and Artificial Intelligence",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70b8d864-f4ce-4dd0-9f28-04d79f59fe50?academicYearId=2025"
+              },
+              {
+                "title": "Archaeological Sciences",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cc06d90-0903-7c4b-4cb3-ec90768e292e?academicYearId=2025"
+              },
+              {
+                "title": "Archaeology",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02fc400a-a43b-457d-9e0c-a606f680afbb?academicYearId=2025"
+              },
+              {
+                "title": "Artificial Intelligence and Machine Learning",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/40c42d0f-07c7-4039-97a2-b0da5fce4a87?academicYearId=2025"
+              },
+              {
+                "title": "Bioinformatics MSc",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/795f0b30-4a64-427f-85c1-8e9ded7003a7?academicYearId=2025"
+              },
+              {
+                "title": "Cancer Drug Discovery",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3fad1183-2ba4-4c78-a922-9f00f29b0f6d?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Pharmacy and Healthcare Leadership (International)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0c18c98a-481a-45a8-9a21-dd958b88f617?academicYearId=2025"
+              },
+              {
+                "title": "Clinical Pharmacy and Healthcare Leadership (International)(with placement)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7ee251ae-f485-4660-b530-52ec5c9dd5ae?academicYearId=2025"
+              },
+              {
+                "title": "Construction and Project Management MSc",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/25e1a8e1-4a6f-4fb4-9436-271a0f85a39a?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/80806c0f-6e6b-aff6-b290-211cd26c0fbc?academicYearId=2025"
+              },
+              {
+                "title": "Digital and Strategic Marketing",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76f0a65b-4fa2-4e6c-8c0b-357fb46ae598?academicYearId=2025"
+              },
+              {
+                "title": "Drug Development",
+                "qualification": "MRes",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6dce7f49-79a1-436e-8649-27fa4c442334?academicYearId=2025"
+              },
+              {
+                "title": "Drug Toxicology and Safety Pharmacology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7c2808ec-0a52-b201-1a1e-1fb662cf597e?academicYearId=2025"
+              },
+              {
+                "title": "Economics and Finance for Development",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f5a5ab1a-10e0-4201-9939-aad1beb748d4?academicYearId=2025"
+              },
+              {
+                "title": "Engineering Management",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3566f639-8af8-4ca7-aaf2-6c24e158006f?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Investment",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b4528214-e4eb-6654-6772-57d4551f02ec?academicYearId=2025"
+              },
+              {
+                "title": "Finance, Accounting and Management",
+                "qualification": "MSc",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4e7fc308-b4c9-7f04-010f-2382a89da736?academicYearId=2025"
+              },
+              {
+                "title": "Financial Technology (FinTech)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/555ce82f-919a-4001-b4c6-1cc82bbcd2f6?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Archaeology and Crime Scene Investigation",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d2174961-0026-2391-5fff-3e4744999a69?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Science",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/936d87bd-8972-4d96-a7f4-3571146b41b4?academicYearId=2025"
+              },
+              {
+                "title": "Human Bioarchaeology and Palaeopathology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5dd3e33d-6e31-608f-225b-39a0eb67fa68?academicYearId=2025"
+              },
+              {
+                "title": "Human Resource Management (CIPD Accreditation)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e4730e4-96dd-3928-8c67-390a1a6f025c?academicYearId=2025"
+              },
+              {
+                "title": "International Accounting and Finance",
+                "qualification": "MSc",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6aa98fc6-1d03-3870-a197-6225062a9d03?academicYearId=2025"
+              },
+              {
+                "title": "International Banking and Financial Technology Law",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6236e012-37ff-4716-8f62-c78ce9d83795?academicYearId=2025"
+              },
+              {
+                "title": "International Business and Management",
+                "qualification": "MSc",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/738c9253-5c90-e35e-e334-b727326f6655?academicYearId=2025"
+              },
+              {
+                "title": "International Commercial Law",
+                "qualification": "LLM",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac30ec5a-8ad6-47e6-90ad-8ea88ea63b37?academicYearId=2025"
+              },
+              {
+                "title": "International Corporate Law and Governance",
+                "qualification": "LLM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b5682c28-31da-4760-8aee-a2b18365572c?academicYearId=2025"
+              },
+              {
+                "title": "International Development Management",
+                "qualification": "MA",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e906eef-70b8-dd93-d2e8-15331695e864?academicYearId=2025"
+              },
+              {
+                "title": "International Human Rights Law and Development",
+                "qualification": "LLM",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8ed97dc1-d502-4fa1-8b7a-3b1d4427af18?academicYearId=2025"
+              },
+              {
+                "title": "International Legal Studies",
+                "qualification": "LLM",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cc357b4d-782c-8d0f-36fa-2c8d6d90c16c?academicYearId=2025"
+              },
+              {
+                "title": "International Relations and Security Studies",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8d54e47c-c9d1-40b9-81be-0955945ac980?academicYearId=2025"
+              },
+              {
+                "title": "Leadership in Health & Social Care (International)",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4f3563cb-5e33-4887-bd7a-d6c772a91e6b?academicYearId=2025"
+              },
+              {
+                "title": "Logistics, Data Analytics and Supply Chain Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3feb6345-670b-41fb-a735-a7d8dd755e43?academicYearId=2025"
+              },
+              {
+                "title": "Management",
+                "qualification": "MSc",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/406984fb-e14f-a096-56b5-f0a291fd5070?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aa987e02-31b2-50f8-51eb-ae12c9669316?academicYearId=2025"
+              },
+              {
+                "title": "Medical Bioscience MSc",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/308007e5-ef89-5114-1544-46dd2fa55d20?academicYearId=2025"
+              },
+              {
+                "title": "Natural Resources and Environmental Law and Policy",
+                "qualification": "LLM",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7fea12be-b01c-4bd2-bf46-2df7b4bf2856?academicYearId=2025"
+              },
+              {
+                "title": "Nursing Studies (International) MSc",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/682e7aa1-ed99-de26-fa99-5755b1e53796?academicYearId=2025"
+              },
+              {
+                "title": "Peace, Conflict and Development",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6bcb4292-696b-4e6f-8e04-90f6b2b32193?academicYearId=2025"
+              },
+              {
+                "title": "Peace, Resilience and Social Justice",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3605c6bc-84ca-42db-9487-c2023b200f48?academicYearId=2025"
+              },
+              {
+                "title": "Peacebuilding and Conflict Resolution",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6cb565fb-c8ef-425a-924e-792b67714503?academicYearId=2025"
+              },
+              {
+                "title": "Pharmaceutical Technology and Medicines Control MSc",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/90ed0621-53d6-4a6e-b4c1-275350be4d9d?academicYearId=2025"
+              },
+              {
+                "title": "Project Planning and Management",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3d9d17be-cee5-3947-46a0-a8777d2cc029?academicYearId=2025"
+              },
+              {
+                "title": "Psychology",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2dc9ca80-2431-f31f-bbcd-240b10c948a9?academicYearId=2025"
+              },
+              {
+                "title": "Psychology of Health and Wellbeing",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b374a3ad-7716-4776-b4e1-77df1297404e?academicYearId=2025"
+              },
+              {
+                "title": "Public Health MPH",
+                "qualification": "MPH",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2cfde3dc-9821-5279-f991-36bcab16457b?academicYearId=2025"
+              },
+              {
+                "title": "Renewable and Sustainable Energy",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8c8fc23b-2de7-49f5-b89d-80b3abf52eca?academicYearId=2025"
+              },
+              {
+                "title": "Satellite Systems Engineering MSc",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8ed2b9d4-4906-41b7-97e3-129f1cc29182?academicYearId=2025"
+              },
+              {
+                "title": "Social Sciences Research for Healthcare MSc",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/daa6355c-5005-475e-90be-0bb43babdeba?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Development",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68263fc6-8dac-4570-984f-c2e07c4ba099?academicYearId=2025"
+              },
+              {
+                "title": "Technology and Artificial Intelligence Law",
+                "qualification": "LLM",
+                "duration": "15 months",
+                "studyMode": "Full-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d32c81dc-ba80-4933-ae77-6d17618324bb?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20of%20Bradford",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "40 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Applied Artificial Intelligence and Data Analytics",
+                "qualification": "MSc",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4d5ad4f2-2e36-4f1d-93cd-dfbbb63fa9a0?academicYearId=2025"
+              },
+              {
+                "title": "Applied Computer Science and Artificial Intelligence",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70b8d864-f4ce-4dd0-9f28-04d79f59fe50?academicYearId=2025"
+              },
+              {
+                "title": "Archaeological Sciences",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0cc06d90-0903-7c4b-4cb3-ec90768e292e?academicYearId=2025"
+              },
+              {
+                "title": "Archaeology",
+                "qualification": "MRes",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/02fc400a-a43b-457d-9e0c-a606f680afbb?academicYearId=2025"
+              },
+              {
+                "title": "Artificial Intelligence and Machine Learning",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/40c42d0f-07c7-4039-97a2-b0da5fce4a87?academicYearId=2025"
+              },
+              {
+                "title": "Cyber Security",
+                "qualification": "MSc (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/80806c0f-6e6b-aff6-b290-211cd26c0fbc?academicYearId=2025"
+              },
+              {
+                "title": "Digital and Strategic Marketing",
+                "qualification": "MSc (PG)",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/76f0a65b-4fa2-4e6c-8c0b-357fb46ae598?academicYearId=2025"
+              },
+              {
+                "title": "Economics and Finance for Development",
+                "qualification": "MSc (PG)",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f5a5ab1a-10e0-4201-9939-aad1beb748d4?academicYearId=2025"
+              },
+              {
+                "title": "Finance and Investment",
+                "qualification": "MSc",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b4528214-e4eb-6654-6772-57d4551f02ec?academicYearId=2025"
+              },
+              {
+                "title": "Finance, Accounting and Management",
+                "qualification": "MSc",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4e7fc308-b4c9-7f04-010f-2382a89da736?academicYearId=2025"
+              },
+              {
+                "title": "Forensic Archaeology and Crime Scene Investigation",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d2174961-0026-2391-5fff-3e4744999a69?academicYearId=2025"
+              },
+              {
+                "title": "Human Bioarchaeology and Palaeopathology",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5dd3e33d-6e31-608f-225b-39a0eb67fa68?academicYearId=2025"
+              },
+              {
+                "title": "Human Resource Management (CIPD Accreditation)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e4730e4-96dd-3928-8c67-390a1a6f025c?academicYearId=2025"
+              },
+              {
+                "title": "International Accounting and Finance",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6aa98fc6-1d03-3870-a197-6225062a9d03?academicYearId=2025"
+              },
+              {
+                "title": "International Banking and Financial Technology Law",
+                "qualification": "LLM",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6236e012-37ff-4716-8f62-c78ce9d83795?academicYearId=2025"
+              },
+              {
+                "title": "International Business and Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/738c9253-5c90-e35e-e334-b727326f6655?academicYearId=2025"
+              },
+              {
+                "title": "International Commercial Law",
+                "qualification": "LLM",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac30ec5a-8ad6-47e6-90ad-8ea88ea63b37?academicYearId=2025"
+              },
+              {
+                "title": "International Corporate Law and Governance",
+                "qualification": "LLM",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b5682c28-31da-4760-8aee-a2b18365572c?academicYearId=2025"
+              },
+              {
+                "title": "International Development Management",
+                "qualification": "MA",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e906eef-70b8-dd93-d2e8-15331695e864?academicYearId=2025"
+              },
+              {
+                "title": "International Human Rights Law and Development",
+                "qualification": "LLM",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8ed97dc1-d502-4fa1-8b7a-3b1d4427af18?academicYearId=2025"
+              },
+              {
+                "title": "International Legal Studies",
+                "qualification": "LLM",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cc357b4d-782c-8d0f-36fa-2c8d6d90c16c?academicYearId=2025"
+              },
+              {
+                "title": "International Relations and Security Studies",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8d54e47c-c9d1-40b9-81be-0955945ac980?academicYearId=2025"
+              },
+              {
+                "title": "Logistics, Data Analytics and Supply Chain Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3feb6345-670b-41fb-a735-a7d8dd755e43?academicYearId=2025"
+              },
+              {
+                "title": "Management",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/406984fb-e14f-a096-56b5-f0a291fd5070?academicYearId=2025"
+              },
+              {
+                "title": "Marketing",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/aa987e02-31b2-50f8-51eb-ae12c9669316?academicYearId=2025"
+              },
+              {
+                "title": "MBA (Executive MBA in Dubai)",
+                "qualification": "MBA (Executive)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "04/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "University of Bradford Middle East Regional Office",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01e0977e-5893-4579-40de-c8b6521811e4?academicYearId=2025"
+              },
+              {
+                "title": "Natural Resources and Environmental Law and Policy",
+                "qualification": "LLM",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7fea12be-b01c-4bd2-bf46-2df7b4bf2856?academicYearId=2025"
+              },
+              {
+                "title": "Peace, Conflict and Development",
+                "qualification": "MA",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6bcb4292-696b-4e6f-8e04-90f6b2b32193?academicYearId=2025"
+              },
+              {
+                "title": "Peace, Resilience and Social Justice",
+                "qualification": "MA",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3605c6bc-84ca-42db-9487-c2023b200f48?academicYearId=2025"
+              },
+              {
+                "title": "Peacebuilding and Conflict Resolution",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6cb565fb-c8ef-425a-924e-792b67714503?academicYearId=2025"
+              },
+              {
+                "title": "Project Planning and Management",
+                "qualification": "MSc",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3d9d17be-cee5-3947-46a0-a8777d2cc029?academicYearId=2025"
+              },
+              {
+                "title": "Social Sciences Research for Healthcare MSc",
+                "qualification": "MSc (PG)",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/daa6355c-5005-475e-90be-0bb43babdeba?academicYearId=2025"
+              },
+              {
+                "title": "Sustainable Development",
+                "qualification": "MSc",
+                "duration": "27 months",
+                "studyMode": "Part-time",
+                "startDate": "01/2026",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68263fc6-8dac-4570-984f-c2e07c4ba099?academicYearId=2025"
+              },
+              {
+                "title": "Technology and Artificial Intelligence Law",
+                "qualification": "LLM",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University of Bradford",
+                "location": "Main Site",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d32c81dc-ba80-4933-ae77-6d17618324bb?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Apprenticeships": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Apprenticeships",
+      "paragraphs": [
+        "University of Bradford degree apprenticeships are designed with employers to meet the needs of industry and can be taught in blocks or as flexible learning.",
+        "Our existing Degree Apprenticeship courses:",
+        "We also offer distance learning with some of our programmes, allowing greater flexibility for study."
+      ]
+    },
+    "International": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "With 50 years of academic excellence behind us as a University, we have continued to grow our international reputation and course provision.",
+        "We have always been pioneers in developing new course subjects, reflecting and anticipating the needs of employers, our students, and of society as a whole.",
+        "Undergraduate Study at Bradford",
+        "At the University of Bradford, a degree is more than a qualification.",
+        "Student life at Bradford is an adventure to be shared with new friends, on campus, in the city, or even studying abroad.",
+        "Student Life",
+        "Your student journey at Bradford will see you become part of a global village within one of the friendliest, most diverse and multicultural campus communities in the UK.",
+        "You’ll mix and make friends with people from a huge variety of social, educational and cultural backgrounds. You’ll spread your intellectual wings, broaden your social horizons and engage in discussions which might change your views, or reinforce them.",
+        "It’s an enriching experience that will also serve you well in the modern job market."
+      ],
+      "lists": [
+        [
+          "We will help you enter the world of work fluent in a multitude of cultures, technology-savvy and primed to make a contribution in your chosen profession.",
+          "As one of our students, you won’t just graduate – you’ll grow, develop and flourish and learn how to be a global citizen.",
+          "Our courses are sculpted with industry input from many of the employers who will be sifting through your CV.",
+          "You’ll be taught by the academic experts whose pioneering research is shaping the very future of those industries.",
+          "Put your theory into practice in our world-class facilities and then on a work placement with some of the world’s biggest names."
+        ]
+      ]
+    }
+  }
+}

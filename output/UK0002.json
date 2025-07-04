@@ -1,0 +1,715 @@
+{
+  "id": "UK0002",
+  "slug": "arts-university-bournemouth",
+  "scrapedAt": "2025-07-04T12:16:13.357Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "International"
+  ],
+  "pages": {
+    "About": {
+      "name": "Arts University Bournemouth",
+      "location": "Poole",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/banner_image_-_aub.jpg",
+      "about": "We’ve been a specialist university focusing on art, design, media and performance since 1883.\nWith just over 3,000 students based on our single campus, we’re a close-knit community of creative and collaborative innovators, who all share a common commitment to the arts. We invest heavily in our teaching facilities to provide students with everything needed to fulfil their creative potential and thrive as graduates.\nYou’ll be taught by our course teams who are experts in their fields, bringing years of industry experience into a unique and creative academic environment.\nCourses are delivered through a range of methods, including studio practice; lectures; screenings; seminars (staff and student-led); group presentations and critiques; and external visits to galleries, theatres and exhibitions.",
+      "whatMakesUsDifferent": "Our courses are designed to equip you with the skills and knowledge to succeed in today’s changing economy. Our facilities support this approach – they’re state-of-the-art and in parallel with current creative industry practice.\nWe’re committed to studio-based learning, ensuring you have access to equipment and facilities you'll find in the 'real world'. More importantly, all these courses sit alongside each other on our single campus, and unlike many other art schools, are open access to all students across the university – whatever their chosen course. The openness underpins the cross-discipline respect and understanding that’s fundamental to the successful collaboration and the blended careers which typify the creative industries. It also means our graduates leave with a ready-made network of peers to support their career journey.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_1.jpg?itok=LONI9TPH",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_2.jpg?itok=KMA4h_R4",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_3.jpg?itok=GwspxCBy",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_4.jpg?itok=l6qxeLUY",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_5.jpg?itok=k44Tb0EP",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_6.jpg?itok=n9d02zup",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_7.jpg?itok=AMDNiNyO",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_8.jpg?itok=-TzX5e0s",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_9.jpg?itok=z7oelD_M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_10.jpg?itok=_XwcAw8t",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_1.jpg?itok=LONI9TPH",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_2.jpg?itok=KMA4h_R4",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_3.jpg?itok=GwspxCBy",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_4.jpg?itok=l6qxeLUY",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_5.jpg?itok=k44Tb0EP",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_6.jpg?itok=n9d02zup",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_7.jpg?itok=AMDNiNyO",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_8.jpg?itok=-TzX5e0s",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_9.jpg?itok=z7oelD_M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/aub_10.jpg?itok=_XwcAw8t"
+      ],
+      "website": "http://www.aub.ac.uk/",
+      "email": "admissions@aub.ac.uk",
+      "phone": "01202 363225",
+      "metaLabels": [
+        "Location: Seaside, Town"
+      ],
+      "courseLocations": [
+        {
+          "title": "Main Site - Arts University Bournemouth",
+          "address": "Wallisdown, Poole, BH12 5HH"
+        }
+      ],
+      "openDays": [
+        {
+          "title": "Arts University Bournemouth – Undergraduate and Foundation Open Day",
+          "date": "12 Jul 2025, 14:30 • Undergraduate",
+          "location": "Poole"
+        },
+        {
+          "title": "Arts University Bournemouth – Undergraduate Clearing Open Day",
+          "date": "16 Aug 2025, 14:30 • Undergraduate",
+          "location": "Poole"
+        },
+        {
+          "title": "Arts University Bournemouth – Undergraduate and Foundation Open Day",
+          "date": "20 Sept 2025, 14:30 • Undergraduate",
+          "location": "Poole"
+        },
+        {
+          "title": "Arts University Bournemouth – Undergraduate and Foundation Open Day",
+          "date": "11 Oct 2025, 14:30 • Undergraduate",
+          "location": "Poole"
+        },
+        {
+          "title": "Arts University Bournemouth – Undergraduate and Foundation Open Day",
+          "date": "8 Nov 2025, 14:30 • Undergraduate",
+          "location": "Poole"
+        },
+        {
+          "title": "Arts University Bournemouth – Undergraduate and Foundation Open Day",
+          "date": "6 Dec 2025, 14:30 • Undergraduate",
+          "location": "Poole"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Seaside, Town"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "70%"
+            },
+            {
+              "label": "Male",
+              "value": "26%"
+            },
+            {
+              "label": "Unknown",
+              "value": "4%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "85%"
+            },
+            {
+              "label": "EU Students",
+              "value": "5%"
+            },
+            {
+              "label": "International",
+              "value": "10%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "98%"
+            },
+            {
+              "label": "Part-time",
+              "value": "2%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "39%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "61%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "6%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "94%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Seaside, Town"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "University is the perfect time to meet like-minded people, start a new hobby or re-try something old. The clubs and societies from AUBSU are groups run by students for students and there are plenty to choose from. Whether you're a cinephile, poet, or want to try volleyball you’re sure to find something you'll enjoy. And if you can't find a pre-made group that you love, we encourage you to start your own!",
+        "Student Services are here to support you before, during and after your time at AUB. The team offer specialist guidance for a range of additional support needs from wellbeing support and counselling to financial guidance and study skills – so you can make managing your studies easier. When you graduate, you’ll still have access to our specialist careers team, too."
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-641668044-s-west-header.jpg?itok=N-mNYPQA",
+          "heading": "What's it like to live in South West?Check out our region guide",
+          "paragraphs": [
+            "The South West of England is made up of seven counties, with rural areas surrounding key student cities – from Plymouth and Bournemouth up to Bath, Bristol and Cheltenham & Gloucester.",
+            "You'll find many a festival – including the world-famous Glastonbury. And if you're a cider or cheese buff, you'll have plenty to try in the South West. You can always walk it off in Dartmoor and Exmoor national parks, or beautiful countryside from the Cotswolds to Land's End.",
+            "Cornwall, Dorset, and Devon are big coastal favourites, with idyllic beaches and waves to test the bravest surfers."
+          ],
+          "link": "https://www.ucas.com/study-in/south-west"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/istock-996558646.jpg?itok=XmEmKRqg",
+          "heading": "What's it like to live in Bournemouth?Check out our city guide",
+          "paragraphs": [
+            "Curious about student life in Bournemouth? Discover this coastal gem on England’s south coast – famous for sandy beaches, student nightlife, and a warm international welcome."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-bournemouth"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "Our campus is a living, breathing, academic environment for creativity. It’s where you’ll make amazing things happen. We’re a microcosm of the creative industries, right down to having the best tools for the job. We invest in the technology and spaces that equip you for life in your chosen field, ensuring that you to get used to the equipment and facilities you’ll find in the real world.",
+        "Based on the border between Bournemouth and Poole, means that AUB is close to all the best student spots – including clubs and restaurants, art galleries and shops and miles of sandy beaches. We offer halls of residence on campus, or closer to the town centre with various room types available for all budgets.",
+        "Our campus is home to some iconic buildings, too, including the Drawing Studio which was designed by renowned architect – and AUB alumni – Sir Peter Cook."
+      ],
+      "courseLocations": [
+        {
+          "title": "Main Site - Arts University Bournemouth",
+          "address": "Wallisdown, Poole, BH12 5HH"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Seaside, Town"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "We offer a range of foundation, undergraduate, postgraduate and short professional courses.",
+        "All our undergraduate, BA (Hons) degrees are three years long and studied full-time on our single campus. There are only a few courses where you'll be asked to attend an interview or audition, instead, most of our courses will request a portfolio as part of the application process.",
+        "You can further enhance your specialism and career prospects with postgraduate study or research at AUB. If you don’t quite meet our undergraduate entry requirements, we’d likely recommend that you undertake a foundation year to build up your experience and portfolio."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Distance%20learning&providers=Arts%20University%20Bournemouth"
+          },
+          {
+            "mode": "Full-time",
+            "count": "48 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Arts%20University%20Bournemouth"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Distance%20learning&providers=Arts%20University%20Bournemouth",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [],
+            "error": "Waiting for selector `.grid--equal-height, .grid.grid--max-h4` failed: Waiting failed: 30000ms exceeded"
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Arts%20University%20Bournemouth",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "48 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Acting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/347800c4-5fdd-1874-e0ae-280bfccf814f?academicYearId=2025"
+              },
+              {
+                "title": "Animation Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1714f9fe-f435-8ccd-aa81-9997f828ac9b?academicYearId=2025"
+              },
+              {
+                "title": "Architecture",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3dcd6c27-191d-03c5-308e-c077ff236ad0?academicYearId=2025"
+              },
+              {
+                "title": "Commercial Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b2b38d98-acd1-c9ce-01d6-054ecdc3dc6d?academicYearId=2025"
+              },
+              {
+                "title": "Communication Design and Strategy",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b127d1ed-f2ea-4207-a1b8-2bf20e30e33c?academicYearId=2025"
+              },
+              {
+                "title": "Content Creation with Marketing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/443417a9-8ce4-4fad-ba40-37d22220f57e?academicYearId=2025"
+              },
+              {
+                "title": "Costume",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f0c477b5-c1b6-4e81-8585-dc35cb2bd736?academicYearId=2025"
+              },
+              {
+                "title": "Creative Direction",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8661a2c8-e23f-428a-a176-e9d55b3a05c5?academicYearId=2025"
+              },
+              {
+                "title": "Creative Writing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6c62179b-d5b6-6c37-571d-7e670361b06b?academicYearId=2025"
+              },
+              {
+                "title": "Design for Costume and Performance",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b7457df9-f236-401f-b260-51dbab21004c?academicYearId=2025"
+              },
+              {
+                "title": "Events Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "29/09/2025",
+                "ucasPoints": "104-120",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8189c58-df14-1b5e-8c6e-726f9c8ade26?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Distance learning",
+            "count": "7 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=Arts%20University%20Bournemouth"
+          },
+          {
+            "mode": "Full-time",
+            "count": "9 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Arts%20University%20Bournemouth"
+          },
+          {
+            "mode": "Part-time",
+            "count": "8 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Arts%20University%20Bournemouth"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Distance%20learning&providers=Arts%20University%20Bournemouth",
+            "studyOptions": [
+              {
+                "mode": "Distance learning",
+                "count": "7 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Creative Writing (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/39d0409a-05ed-4c30-974b-1f3906464fc1?academicYearId=2025"
+              },
+              {
+                "title": "Film Practice (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/55611d75-a9fa-487a-a691-528927343998?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fdac470b-cad6-4154-a3c0-120e5fea8b9e?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f0fccb45-0b1e-4feb-8515-e17a6fd484c8?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e8551303-fb78-47f9-8a87-a54f8c3812fc?academicYearId=2025"
+              },
+              {
+                "title": "Landscape Architecture Studies (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a8a90e80-c4bb-4e8c-868a-64e6f72d1724?academicYearId=2025"
+              },
+              {
+                "title": "Photography (Online)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Distance learning (part-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0a908800-c046-4d8b-8eb5-9d07253556f7?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=Arts%20University%20Bournemouth",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "9 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Animation Production",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dd3b7dab-4851-614f-a31e-1f322994f97b?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (ARB/RIBA Part 2)",
+                "qualification": "MArch",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/162ec0cd-75eb-67db-8b1d-fb00b1d7e5b3?academicYearId=2025"
+              },
+              {
+                "title": "Digital Fashion Innovation",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b7e3810b-4395-4c7b-acd0-ad22f5ae6737?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/78218e73-0224-39a2-43c1-dd8d16356f17?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4b544576-0c39-8584-4a80-d98a1ca8f2fd?academicYearId=2025"
+              },
+              {
+                "title": "Historical Costume",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad7c411a-5bca-48e4-85ed-0a4efa28e880?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4026284d-2165-c5f7-7cda-6b852b090786?academicYearId=2025"
+              },
+              {
+                "title": "Painting",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1039e280-9259-4123-8b94-706bdab82266?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/443f8f4f-5cd3-987f-6e05-943c8f159a7a?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=Arts%20University%20Bournemouth",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "8 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Animation Production",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dd3b7dab-4851-614f-a31e-1f322994f97b?academicYearId=2025"
+              },
+              {
+                "title": "Digital Fashion Innovation",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b7e3810b-4395-4c7b-acd0-ad22f5ae6737?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/78218e73-0224-39a2-43c1-dd8d16356f17?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4b544576-0c39-8584-4a80-d98a1ca8f2fd?academicYearId=2025"
+              },
+              {
+                "title": "Historical Costume",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad7c411a-5bca-48e4-85ed-0a4efa28e880?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4026284d-2165-c5f7-7cda-6b852b090786?academicYearId=2025"
+              },
+              {
+                "title": "Painting",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "02/2026",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1039e280-9259-4123-8b94-706bdab82266?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "10/2025",
+                "ucasPoints": "",
+                "provider": "Arts University Bournemouth",
+                "location": "Main Site - Arts University Bournemouth",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/443f8f4f-5cd3-987f-6e05-943c8f159a7a?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "International": {
+      "metaLabels": [
+        "Location: Seaside, Town"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "Why AUB?",
+        "We’ve been a specialist university focusing on art, design, media and performance since 1883.",
+        "With just over 3,000 students based on campus (approximately 150 of which are postgraduate), AUB is a close-knit community of creative and collaborative innovators, who all share a common commitment to the arts. The university fosters an environment where boundaries can be pushed, beliefs and practices can be challenged, and conventions can be tested.",
+        "We offer a range of Master of Arts degrees and supervision for students who wish to undertake a Research degree (MPhil/PhD). Research degrees are validated by the University of the Arts London (UAL).",
+        "In the Research Excellence Framework (REF), over 40% of AUB’s university research was deemed to be ‘internationally excellent’ or ‘world-leading’.",
+        "Based on the border between Bournemouth and Poole, means that AUB is close to all the best student spots – including clubs and restaurants, art galleries and shops and miles of sandy beaches.",
+        "Our campus is a living, breathing, academic environment for creativity. It’s where you’ll make amazing things happen. We invest in the technology and spaces that equip you for life in your chosen field, and ensure that you have access to the equipment and facilities you’ll find in the real world."
+      ]
+    }
+  }
+}

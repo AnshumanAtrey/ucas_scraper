@@ -1,0 +1,3031 @@
+{
+  "id": "UK0014",
+  "slug": "university-for-the-creative-arts",
+  "scrapedAt": "2025-07-04T14:55:29.227Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "International"
+  ],
+  "pages": {
+    "About": {
+      "name": "University for the Creative Arts",
+      "location": "Farnham",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/ucas_2025_header_0.jpg",
+      "about": "Dream. Discover. Disrupt.\nAt the University for the Creative Arts, you can be as unique as the work you create. We help creatives take their specialist skills further, providing the tools and experiences needed for a rewarding career in the creative industries.\nOffering a range of Undergraduate and Postgraduate courses across the arts, business, and technology, with us you’ll be supported to find your creative voice and specialise in the area that excites you the most.\nWe have vibrant campuses located across the South East of England in Canterbury, Epsom, Farnham, and Maidstone. Each campus is home to a unique set of dedicated creative spaces and workshops, as well as a community of like-minded creatives ready to meet you.\nWhy not find out for yourself? Visit our website to register for the next UCA Open Day.",
+      "whatMakesUsDifferent": "UCA has more than 160 years of history, but we’re always looking forward. Our experienced academics come from all walks of life and bring a huge variety of specialist knowledge from the creative sector. This will give you the confidence that you'll not only learn more about your chosen creative subject, but be ready to take on the world when you leave.\nWe’ll help turn your creative ideas into reality thanks to the extensive industry standard facilities, resources, and connections you'll have access to, as well as support from those around you in our close-knit community.\nYou’ll find the experience with us to be quieter and calmer than that offered at bigger universities, giving you the freedom to express yourself openly alongside like-minded others. Plus, our campuses are still in easy reach of lively cities and London, keeping you well-connected.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/architecture.jpg?itok=3pxgPn6q",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/crafts.jpg?itok=va1NMC8e",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/fashion.jpg?itok=eMxnxDL7",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/fine_art.jpg?itok=Z5ViND7M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/music.jpg?itok=_RPlH5BS",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/screen_printing.jpg?itok=cJUdmwaf",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/architecture.jpg?itok=3pxgPn6q",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/crafts.jpg?itok=va1NMC8e",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/fashion.jpg?itok=eMxnxDL7",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/fine_art.jpg?itok=Z5ViND7M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/music.jpg?itok=_RPlH5BS",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/screen_printing.jpg?itok=cJUdmwaf"
+      ],
+      "website": "https://www.uca.ac.uk/?utm_source=ucas&utm_medium=profile&utm_campaign=ug_annual_awareness&utm_content=uca_gb_b_brand",
+      "email": "enquiries@uca.ac.uk",
+      "phone": "01252 722 441",
+      "metaLabels": [
+        "Location: Town, City, Rural"
+      ],
+      "courseLocations": [
+        {
+          "title": "Epsom",
+          "address": "Ashley Road, Epsom, KT18 5BE"
+        },
+        {
+          "title": "Canterbury",
+          "address": "New Dover Road, Canterbury, CT1 3AN"
+        },
+        {
+          "title": "Farnham",
+          "address": "Falkner Road, Farnham, GU9 7DS"
+        },
+        {
+          "title": "Maidstone TV Studios",
+          "address": "Maidstone Studios, New Cut Road, Maidstone, ME14 5NZ"
+        },
+        {
+          "title": "Main Site",
+          "address": "Falkner Road, Farnham, GU9 7DS"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Town, City, Rural"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "58%"
+            },
+            {
+              "label": "Male",
+              "value": "42%"
+            },
+            {
+              "label": "Unknown",
+              "value": "1%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "68%"
+            },
+            {
+              "label": "EU Students",
+              "value": "2%"
+            },
+            {
+              "label": "International",
+              "value": "30%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "86%"
+            },
+            {
+              "label": "Part-time",
+              "value": "14%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "59%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "41%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "20%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "80%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Town, City, Rural"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "Our creative communities are tight-knit, welcoming, and inclusive. Creative minds come in all shapes and sizes, and you’ll be sure to find social groups of like-minded people who’ll become friends for life.",
+        "Each of our campuses are in towns and cities with their own unique charms. Whether it’s the bustling city of Canterbury close to the Kent coast, homely craft town of Farnham nestled in the natural Surrey Hills, or the market town of Epsom where London’s just a short train ride away, there’s options for all personalities.",
+        "At each campus you’ll find the UCA Student’s Union, who represent the student voice and organise the annual Fresher’s Week and unique social events throughout the year. They host a number of identity communities, clubs, and societies – from K-Pop dance to film societies, life drawing and cheerleading – for you to meet and make new friends."
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "The Canterbury campus is close to the bustling historic city centre, which has a large selection of shops, restaurants, and nightlife. It's about 1 hour 30 minutes from London and also close to Continental ferry ports and Eurotunnel. Creative students will be well served in Canterbury, with the Turner Contemporary Gallery and major art events such as the Folkestone Triennial.",
+        "The modern UCA Epsom campus is a short walk from the friendly town, which itself has been named one of the most desirable places to live in the country because of its friendly feel. And it's only 30 minutes from London's rich culture, nightlife, and work placement opportunities.",
+        "The largest UCA campus is at Farnham, a market town with a rich creative past. The campus is a five minute walk from a host of shops, restaurants and pubs, together with vibrant arts' facilities such as The Maltings. Surrounded by beautiful countryside, and London only 30 minutes away by train."
+      ],
+      "courseLocations": [
+        {
+          "title": "Epsom",
+          "address": "Ashley Road, Epsom, KT18 5BE"
+        },
+        {
+          "title": "Canterbury",
+          "address": "New Dover Road, Canterbury, CT1 3AN"
+        },
+        {
+          "title": "Farnham",
+          "address": "Falkner Road, Farnham, GU9 7DS"
+        },
+        {
+          "title": "Maidstone TV Studios",
+          "address": "Maidstone Studios, New Cut Road, Maidstone, ME14 5NZ"
+        },
+        {
+          "title": "Main Site",
+          "address": "Falkner Road, Farnham, GU9 7DS"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Town, City, Rural"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "At UCA, we are a university purposely built for the creative arts, business, and technology. Our courses offer a variety of creative skills, with subjects ranging from Animation and Architecture to Games Technology and Fashion Design. We also offer different levels of courses, including undergraduate and postgraduate.",
+        "Many courses encourage and support work experience within your chosen creative industry and even offer the chance for you to study abroad for a year. With all of this at your fingertips, and the ability to work collaboratively on projects with other courses, UCA has everything to help you prepare for life after your qualification.",
+        "The university uses the UCAS points system for entry and the majority of courses require a portfolio. Although grades are important, we also value you and your creativity, which is why we ask for a portfolio with your application."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "309 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "309 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Acting",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3c0db270-686e-ed44-37f4-7860314bc4a4?academicYearId=2025"
+              },
+              {
+                "title": "Acting (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1fbccb93-bbde-4ff6-93ae-173b9c9de86e?academicYearId=2025"
+              },
+              {
+                "title": "Acting (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4c6f719e-edd5-45af-b7be-7f65a671dd41?academicYearId=2025"
+              },
+              {
+                "title": "Acting (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fa0d13d1-ea0c-4e5e-ab70-fd8f5b23a04a?academicYearId=2025"
+              },
+              {
+                "title": "Animation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/796a6723-6c0d-7d25-d657-2b51e7a151f0?academicYearId=2025"
+              },
+              {
+                "title": "Animation (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/409d0792-5d0b-41a2-9882-8b54f1afa1b2?academicYearId=2025"
+              },
+              {
+                "title": "Animation (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/684eec5b-8f3c-45eb-a9a6-49fcb82bcf94?academicYearId=2025"
+              },
+              {
+                "title": "Animation (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2ab68094-5892-4c1f-927d-ce9aafefd146?academicYearId=2025"
+              },
+              {
+                "title": "Architecture",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92e56eb5-0239-99b7-101e-db57b1e15637?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/01c192e9-83e3-4eef-b9d1-0bb044707f5c?academicYearId=2025"
+              },
+              {
+                "title": "Automotive & Transport Design",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dd918763-3527-421b-b5b7-8df5419bcd4a?academicYearId=2025"
+              },
+              {
+                "title": "Body Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b9e1b008-a781-4637-aec7-4064bd7ec157?academicYearId=2025"
+              },
+              {
+                "title": "Body Art (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/86c28a67-690b-479c-94a9-cb34f2afcb1e?academicYearId=2025"
+              },
+              {
+                "title": "Business & Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4db8c2cf-b3dd-4615-8fc6-8e2b7a207cf9?academicYearId=2025"
+              },
+              {
+                "title": "Business & Management (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/50e4d190-d075-4802-b414-e77006858be6?academicYearId=2025"
+              },
+              {
+                "title": "Business & Management (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/103e463d-fac0-404c-9138-55fe8b0e8806?academicYearId=2025"
+              },
+              {
+                "title": "Business & Management (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a6086b1f-0aaf-4ef9-8f52-b72d1bdf9f1f?academicYearId=2025"
+              },
+              {
+                "title": "Business Innovation & Management (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bb002253-a34e-4576-8d50-54094f6645f7?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics & Glass",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b4b9e130-4e3d-41fb-9191-5b65114bedfd?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics & Glass (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/753e7593-45f7-4961-a1d6-51897d85b949?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics & Glass (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/975b2880-044b-4f41-af72-925fed75697f?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics & Glass (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e61375e-39cc-4017-8f92-42928acbd7de?academicYearId=2025"
+              },
+              {
+                "title": "Comic & Concept Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/940e0e92-958e-4ef5-bd89-751f9704cbf3?academicYearId=2025"
+              },
+              {
+                "title": "Comic & Concept Art (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2358f1a8-f921-40c0-90c1-3db90b6e4fe4?academicYearId=2025"
+              },
+              {
+                "title": "Comic & Concept Art (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b34951fe-8744-4a87-8339-0c7476ef3f81?academicYearId=2025"
+              },
+              {
+                "title": "Comic & Concept Art (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/839fafca-55f4-4d27-b4c1-473d0d2356e3?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93c48827-eadc-46d8-a22b-34279aa0a85d?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac7bddfc-ea99-46e3-9d89-e05d48650a69?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/44dd5382-92de-4619-a25c-f5a232aef336?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science (with Professional Practice Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3d4d772e-15c7-409a-b8fc-dfefd65551fa?academicYearId=2025"
+              },
+              {
+                "title": "Computer Science and Practice (Top Up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0f8eedac-6f48-4fc4-8c7d-074c905f9de1?academicYearId=2025"
+              },
+              {
+                "title": "Creative Computing",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8e2ff6c0-352f-40d2-e877-49aab878fa68?academicYearId=2025"
+              },
+              {
+                "title": "Creative Computing (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9eb34269-837c-49f1-bf43-08706508b45d?academicYearId=2025"
+              },
+              {
+                "title": "Creative Computing (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/97c25bd6-e380-49be-bfb2-be72c42b2018?academicYearId=2025"
+              },
+              {
+                "title": "Creative Computing (with Professional Practice Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/10cf7e51-52ea-409f-bfad-ab3ebdec9b49?academicYearId=2025"
+              },
+              {
+                "title": "Creative Industries Management in Fashion (top-up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ffd729e1-f947-41d2-87fd-d44717c0c2a3?academicYearId=2025"
+              },
+              {
+                "title": "Design for Theatre & Screen",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5a521a99-1a66-a3f3-30c5-facf5841b55f?academicYearId=2025"
+              },
+              {
+                "title": "Design for Theatre & Screen (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0a81e0fe-b52f-476a-8125-1faf05a81298?academicYearId=2025"
+              },
+              {
+                "title": "Design for Theatre & Screen (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47c36d80-0015-4d71-8484-0ced8d6eb9b9?academicYearId=2025"
+              },
+              {
+                "title": "Design for Theatre & Screen (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/39c76e4a-971b-4d2c-a0d5-2dd5b18a9257?academicYearId=2025"
+              },
+              {
+                "title": "Digital Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f32fc0dc-ead4-39e1-3201-c76609ed9f98?academicYearId=2025"
+              },
+              {
+                "title": "Digital Art (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/919e464d-e5d7-4015-9b48-a937c633c323?academicYearId=2025"
+              },
+              {
+                "title": "Digital Art (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0e651be4-afab-4a3a-b382-b4452aa3145d?academicYearId=2025"
+              },
+              {
+                "title": "Digital Art (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d2f73672-1bb4-482b-a190-a61767454f8d?academicYearId=2025"
+              },
+              {
+                "title": "Digital Marketing & Social Media",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6868bb50-8852-46f9-92be-91f068332802?academicYearId=2025"
+              },
+              {
+                "title": "Digital Marketing & Social Media (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4b6858f7-41fa-4e6a-b39b-ea01b5ff0ad9?academicYearId=2025"
+              },
+              {
+                "title": "Digital Marketing & Social Media (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/771486cd-b7b4-4527-872a-1097a94a64d7?academicYearId=2025"
+              },
+              {
+                "title": "Digital Marketing & Social Media (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/120e7de7-4637-4944-8aab-78a3c490b300?academicYearId=2025"
+              },
+              {
+                "title": "Events & Festivals Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6e3ee2d9-9198-4078-bb92-807ea9c2b412?academicYearId=2025"
+              },
+              {
+                "title": "Events & Festivals Management (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a5c4b777-05a3-4878-bf78-58f52f6af3b7?academicYearId=2025"
+              },
+              {
+                "title": "Events & Festivals Management (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/75cecd6d-267c-4492-8f77-d4a61f8a1dbb?academicYearId=2025"
+              },
+              {
+                "title": "Events & Festivals Management (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/75d1ac42-f894-444c-b4fc-f8c81471c124?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Atelier",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/db6858ce-7efa-9b4f-2422-c3d8b3e2b52a?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Atelier (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/205e42e1-7f00-461a-93fc-cbc8f2e442b5?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Atelier (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/14d260c1-fe0f-437d-b0f3-40ec80aa7cee?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Atelier (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91797288-73e9-4c4c-97e6-fc3ceaad51bc?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Branding & Communication",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a871d56e-321a-b49b-724a-623c04c54a43?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Branding & Communication (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2bdd2802-76d5-41a8-8128-5b1eb682d35c?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Branding & Communication (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f47ee744-e417-45b9-85d9-88d84edad1ce?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Branding & Communication (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1c72edca-f0e1-490b-8083-42d672c0e74d?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Business & Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fbbd9393-1da6-4476-8109-e7790cb1610a?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Business & Management (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/310da61d-912f-45cd-8cf8-46fe28c66400?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Business & Management (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c11196a0-43bf-4c10-babb-48a368a23d57?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Business & Management (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/45e350b8-97d2-4e29-953c-70c186acb723?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/60083f40-8aec-234b-7578-62ce8aaf6fcd?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b4b284d-fb80-4d29-ad75-4a1fc8fdc2a0?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/892a29e9-6ac0-4588-8c5e-43ee5cd674b5?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/839f83c8-feea-a9e5-c553-772faca0091e?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Image & Styling",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0834c790-8b93-44d0-81ce-ccf0a02a9c19?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Image & Styling (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/59a39a95-1371-4abd-9444-02a1188a2c97?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Image & Styling (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92e91c10-3511-424e-b34c-4375163b8633?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Image & Styling (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e496043f-d874-4491-9e0b-1a503ce0a774?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8a1a84b4-1a28-e95e-a865-682984f9e76a?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Photography (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0035d013-7649-4e88-966d-900eac776697?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Photography (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/766bdd14-ef01-41b3-ac15-d3adbc44ab6c?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Photography (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/72366f79-0238-48aa-9468-521e47cb40da?academicYearId=2025"
+              },
+              {
+                "title": "Film & Screen Studies",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f1f17962-6d73-41bd-a6c7-1826ce343476?academicYearId=2025"
+              },
+              {
+                "title": "Film Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6a3b6d3a-554c-3c1c-8c66-735cc077a2f1?academicYearId=2025"
+              },
+              {
+                "title": "Film Production (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8163c783-e66e-4a2d-ad7d-8009e32e0b7c?academicYearId=2025"
+              },
+              {
+                "title": "Film Production (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff74803f-2751-4b95-9499-e2e37b40e2e0?academicYearId=2025"
+              },
+              {
+                "title": "Film Production (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/44e5ea1d-3b17-4696-884b-de01429801af?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f78478bc-6343-f028-a2b7-168e223cfa84?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dc3f286f-cf72-3502-6870-969f8a4bcde4?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Integrated Foundation & Professional Practice Years) (Farnham)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e183ae8a-bcd6-481e-a8c7-befb25cc0589?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Integrated Foundation & Professional Practice) - (Canterbury)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8dcce5c2-3eae-487e-812c-2e48a2690f79?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Integrated Foundation Year) (Canterbury)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1ac6dfdd-f8b1-4556-b654-929166a7ba6f?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Integrated Foundation Year) (Farnham)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2e93edb3-e45b-4014-a624-6cf65dfce5fb?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Professional Practice Year) (Canterbury)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/472cb6fb-4e52-48dd-8ce4-434a64fc6659?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Professional Practice Year) (Farnham)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71ea5fdb-e630-4fe6-a51f-5cdc5e6f76cf?academicYearId=2025"
+              },
+              {
+                "title": "Games Animation",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4994a5e7-1f88-bb61-5c0f-112286fe7458?academicYearId=2025"
+              },
+              {
+                "title": "Games Arts",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b7cff95-817f-33ed-913d-3a167050e0e3?academicYearId=2025"
+              },
+              {
+                "title": "Games Arts (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/668cfd20-6cff-457e-9110-d88da2de9875?academicYearId=2025"
+              },
+              {
+                "title": "Games Arts (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5c6b09ad-0308-4c12-bef9-d0cd2b6a83b1?academicYearId=2025"
+              },
+              {
+                "title": "Games Arts (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4e9dcac9-bc79-4a44-9476-2c3800e33063?academicYearId=2025"
+              },
+              {
+                "title": "Games Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/71897533-5063-9bb6-31a4-f9f004d50bc7?academicYearId=2025"
+              },
+              {
+                "title": "Games Design (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92f22533-bf96-4381-b8b0-aaefd66e7110?academicYearId=2025"
+              },
+              {
+                "title": "Games Design (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/50301807-478e-4a6c-8d15-7525cf5265f4?academicYearId=2025"
+              },
+              {
+                "title": "Games Design (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d2092d61-3010-4efc-83af-d7310250e165?academicYearId=2025"
+              },
+              {
+                "title": "Games Development",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81c46519-d92c-5766-50ee-d7fea54f849b?academicYearId=2025"
+              },
+              {
+                "title": "Games Development (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BSc (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/56b18574-6cde-4639-b92c-3ef049375305?academicYearId=2025"
+              },
+              {
+                "title": "Games Development (with Integrated Foundation Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/320b5f45-1276-479b-bde0-bbaffc79f456?academicYearId=2025"
+              },
+              {
+                "title": "Games Development (with Professional Practice Year)",
+                "qualification": "BSc (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7c38f8d4-07a0-4984-87e9-c82e39f0c7b8?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e193fce2-b356-8cf0-2406-42b5d1cac218?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/70708fde-febb-4e4a-b9be-d68831133ad0?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1895a5a4-ad0d-4988-90c4-77f33fc9213e?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2c4fea8b-83ce-4d07-9ea8-2a9e5325a26d?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a773bc79-bede-8396-1ae7-9f5b0fb944ba?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6dc633f3-1394-4e5a-b5db-254d3c640ebc?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2bddb374-3aba-44d6-9d14-46584c36ab42?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/070b6e6e-d653-4fbc-a5c1-4e4ce46044f4?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ca4a2a96-1d09-4c5e-bab8-009ef631da3b?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/623185e1-8976-4063-8f62-655a782b17e8?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/722611d4-e2ad-48c3-9f4f-bfac93762511?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9195e92b-ad75-4868-b9c4-6e7552768bc4?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery & Silversmithing",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1e421afc-3a04-43cf-bd1a-f13ed3250dc2?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery & Silversmithing (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cce45f29-c11f-45c3-b182-5fa752eb53ce?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery & Silversmithing (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/61501a78-2f2e-4974-954f-a694c4e761de?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery & Silversmithing (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/20bb1e9c-3373-45f9-81ba-80c7c63944bc?academicYearId=2025"
+              },
+              {
+                "title": "Make-up & Hair Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81732d16-6b60-4d67-a849-34336ddd2121?academicYearId=2025"
+              },
+              {
+                "title": "Make-up & Hair Design (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/79ab9b85-d8cb-41a0-a24a-b0243f6b9226?academicYearId=2025"
+              },
+              {
+                "title": "Modelmaking",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/baeb8a9e-3317-4e38-8a08-5631652626e6?academicYearId=2025"
+              },
+              {
+                "title": "Music & Sound Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/34787be0-e1c1-4459-a1de-535a679ba9e6?academicYearId=2025"
+              },
+              {
+                "title": "Music & Sound Production (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8c8a492a-de42-498a-9294-bb972e33b16d?academicYearId=2025"
+              },
+              {
+                "title": "Music Business & Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8faea1f6-e707-4f9e-9c2c-9df892d38aa3?academicYearId=2025"
+              },
+              {
+                "title": "Music Business & Management (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/68b92ca7-bd09-4183-8d4d-c279e73fcadf?academicYearId=2025"
+              },
+              {
+                "title": "Music Business & Management (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d8ae3527-1af0-46f9-878b-ed330013f840?academicYearId=2025"
+              },
+              {
+                "title": "Music Business & Management (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/719f39e9-d0f4-4160-8b63-f438dbabb8a8?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/52b9c916-9bc8-1ec3-74e1-9892ad6f9583?academicYearId=2025"
+              },
+              {
+                "title": "Photography (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/1cb0184f-a5d9-40bd-870a-60d5fce7d432?academicYearId=2025"
+              },
+              {
+                "title": "Photography (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/474f611a-8584-43cf-a5c2-a7c51cb96cef?academicYearId=2025"
+              },
+              {
+                "title": "Photography (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/92b10a6e-ab5b-440e-a169-b41e5238d654?academicYearId=2025"
+              },
+              {
+                "title": "Product Design",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b4bea055-5fa9-4046-a7a7-5f1ca71b6ef7?academicYearId=2025"
+              },
+              {
+                "title": "Product Design (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c1dcd733-a01b-46cf-8923-328ec5a8d98c?academicYearId=2025"
+              },
+              {
+                "title": "Product Design (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/557319e3-606d-439f-8f11-895e763a3ed2?academicYearId=2025"
+              },
+              {
+                "title": "Product Design (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4ebbbe87-36c3-4ccc-9c78-2eeb782dd4e2?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Fashion Design) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4475760f-4575-457c-9487-286072aa14d2?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Fashion Image & Styling) (Top-up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bef2000b-6014-4552-a34b-8955db622976?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Filmmaking) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2e66a7f0-31d4-4569-87f1-429e826be808?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Fine Art) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7e5094e9-0f61-4795-a2f3-515d0160bfd4?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Games) (Top-Up)",
+                "qualification": "BA/BSc (H)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fa215d72-2566-466b-adf9-4e6d2b3ef163?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Graphic Design) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/520b6e20-e736-427d-ae73-d349e728397b?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Illustration) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b5b6f8bc-9306-4050-83d7-d4f108416e9f?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Interior Design) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9e46bed0-2e5b-46bd-9ff8-9af52dcbcf3e?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Make-up & Hair Design) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bff3b29f-ad4c-4116-b06d-ed42efb2f0c0?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Product Design) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6c47120e-e24f-4d96-a080-cd29bc62a809?academicYearId=2025"
+              },
+              {
+                "title": "Studio Practice (Visual Communication) (Top-Up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "N/A",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ed648485-165d-459c-8c1c-77332d383d12?academicYearId=2025"
+              },
+              {
+                "title": "Television Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Maidstone TV Studios",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/33407e0f-4727-cc4d-8026-02ce031f2c2c?academicYearId=2025"
+              },
+              {
+                "title": "Television Production (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Maidstone TV Studios",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b68e416b-b07a-400d-928b-94e36c2b26bb?academicYearId=2025"
+              },
+              {
+                "title": "Television Production (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Maidstone TV Studios",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ac6e55b5-20d1-4828-8690-59870e3b521e?academicYearId=2025"
+              },
+              {
+                "title": "Television Production (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Maidstone TV Studios",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f815547e-f254-40e8-9d19-cf57dedaab06?academicYearId=2025"
+              },
+              {
+                "title": "Textiles",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4a49c2e-4afd-cd7a-c0a9-bca517d40163?academicYearId=2025"
+              },
+              {
+                "title": "Textiles (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c7ba04f9-0a4b-4241-b838-34d1b1daaf83?academicYearId=2025"
+              },
+              {
+                "title": "Textiles (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/20cea107-1c37-4371-af7a-c9a5ca67080c?academicYearId=2025"
+              },
+              {
+                "title": "Textiles (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/81556192-730a-4079-b976-4eb3b9f6cfe5?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/59f79e89-5703-4052-897f-7f6096c386eb?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5599e70c-cce0-4f5c-9d1d-8baedc397a40?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8eb17970-9c6f-490c-a113-a270959ec6ab?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/dec9e181-cab8-435f-8896-91c20a680427?academicYearId=2025"
+              },
+              {
+                "title": "Visual Effects",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5d4b37d6-9206-4cf4-b555-f944deb71181?academicYearId=2025"
+              },
+              {
+                "title": "Visual Effects (with Integrated Foundation & Professional Practice Years)",
+                "qualification": "BA (Hons)",
+                "duration": "5 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8bafd138-beca-455e-b6fb-f2254b1881de?academicYearId=2025"
+              },
+              {
+                "title": "Visual Effects (with Integrated Foundation Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time including foundation year",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2818dcc2-43a9-41ae-959e-9db850d00399?academicYearId=2025"
+              },
+              {
+                "title": "Visual Effects (with Professional Practice Year)",
+                "qualification": "BA (Hons)",
+                "duration": "4 years",
+                "studyMode": "Full-time with year in industry",
+                "startDate": "15/09/2025",
+                "ucasPoints": "32-168",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e123508b-2f4b-4afa-adc9-c1db027bdbe6?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "104 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)"
+          },
+          {
+            "mode": "Other mode",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)"
+          },
+          {
+            "mode": "Part-time",
+            "count": "11 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Full-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "104 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "1 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Animation",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/57780deb-bd45-0b55-e69e-36965c01f6b6?academicYearId=2025"
+              },
+              {
+                "title": "Animation (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7f658430-6188-4d0d-832f-8d42e9688427?academicYearId=2025"
+              },
+              {
+                "title": "Architecture",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/36e359a4-01ab-49a0-9de6-5b867ab4c896?academicYearId=2025"
+              },
+              {
+                "title": "Architecture (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/cf692e3e-48df-40bf-9a6b-be5d252952fd?academicYearId=2025"
+              },
+              {
+                "title": "Art Writing",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/983ebd80-fe71-487b-8ff6-d168ccc63197?academicYearId=2025"
+              },
+              {
+                "title": "Art Writing",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7f84d399-7719-487d-8d36-bfaa8873e80a?academicYearId=2025"
+              },
+              {
+                "title": "Art Writing (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/05ba09cc-19a0-49e5-ae50-5986e99827ad?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/46634ae8-a66a-4b2d-8c62-9b5d55a0b4f4?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/73e4c811-5beb-4b4c-800c-19f306d60c54?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/40b24b37-8c25-4e4e-9f8f-9e5706636f29?academicYearId=2025"
+              },
+              {
+                "title": "Creative Direction for Fashion",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/55820046-c644-443e-bcaf-21a905ffff64?academicYearId=2025"
+              },
+              {
+                "title": "Creative Direction for Fashion (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9f3ad59f-2b3c-4362-b244-dab3ade15e2e?academicYearId=2025"
+              },
+              {
+                "title": "Curating",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/443e9081-3dc2-489e-9ad0-667a66d2656e?academicYearId=2025"
+              },
+              {
+                "title": "Curating",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6498844e-c7c6-40c2-b449-9ee70d00ef41?academicYearId=2025"
+              },
+              {
+                "title": "Curating (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e11c1e0a-f765-407c-91e1-3f81c1f873fb?academicYearId=2025"
+              },
+              {
+                "title": "Design, Innovation & Brand Management",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/af81645b-f512-410d-81e6-bbb7d5e8bfed?academicYearId=2025"
+              },
+              {
+                "title": "Design, Innovation & Brand Management (with Integrated International Pre-Masters)",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/007bc791-bba8-4bcb-b098-d4660369c689?academicYearId=2025"
+              },
+              {
+                "title": "Digital Fashion",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c0d9f103-ff5d-484a-80ea-a63f98197184?academicYearId=2025"
+              },
+              {
+                "title": "Digital Fashion (with Integrated International Pre-Masters)",
+                "qualification": "MA (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c34b538f-e201-400d-88b8-9ab3b58a281f?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Business & Management",
+                "qualification": "MA/MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4b6029c7-d469-4add-b208-e79d814e2167?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Business & Management (with Integrated International Pre-Masters)",
+                "qualification": "MA/MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e5caf4bf-4127-4267-83ad-4b54d712997b?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/945e3a5d-8273-40cb-aad3-cb94054c2ddd?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/77c5c2c7-396c-4a02-9bde-6613dbfea97b?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Photography",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4390e565-df39-4d92-aa6a-65372243110d?academicYearId=2025"
+              },
+              {
+                "title": "Fashion Photography (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/716ee0b9-9144-407b-bf53-68cb0106e821?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Canterbury)",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/29430a60-ea82-4033-b419-aa4332e41ef4?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Canterbury)",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0c382ee9-acc7-4fca-8694-cd813d6695cc?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Farnham)",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5ec31dd3-879a-491d-af13-577fdcfd1bf3?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Farnham)",
+                "qualification": "MA (PG)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9b0bd212-1735-45f5-9530-96d5fce76164?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Integrated International Pre-Masters) (Canterbury)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/17ac5a21-7cbf-4e56-ac18-adbb96bdf7ca?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (with Integrated International Pre-Masters) (Farnham)",
+                "qualification": "MFA (PG)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/8b60fdea-3b45-45d0-ac49-cf933e1a774c?academicYearId=2025"
+              },
+              {
+                "title": "Game Engineering",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a23dc9db-4755-451a-b2a7-51ed2bf0aa3b?academicYearId=2025"
+              },
+              {
+                "title": "Games Arts",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ed3e0e76-58f2-4670-84cd-1ced5b65d876?academicYearId=2025"
+              },
+              {
+                "title": "Games Arts (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e9f595d6-e5b7-4261-9442-c07c32b8ca3c?academicYearId=2025"
+              },
+              {
+                "title": "Games Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/372f6d8c-4875-438f-afc8-b4635c161383?academicYearId=2025"
+              },
+              {
+                "title": "Games Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/799cbad9-00b6-447c-8285-6296f0c8f4e1?academicYearId=2025"
+              },
+              {
+                "title": "Glass",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad0dec20-10a9-41aa-b0fe-18319ed0c905?academicYearId=2025"
+              },
+              {
+                "title": "Glass",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6613b967-1a69-42ff-8e55-20f155e8b974?academicYearId=2025"
+              },
+              {
+                "title": "Glass (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3977db85-dc1c-4145-906d-e07c4fe96163?academicYearId=2025"
+              },
+              {
+                "title": "Global Marketing & Communications",
+                "qualification": "MA/MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/406ef09e-3bea-4927-a3eb-2a03dcf07b29?academicYearId=2025"
+              },
+              {
+                "title": "Global Marketing & Communications (with Integrated International Pre-Masters)",
+                "qualification": "MA/MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f28aa356-b27b-4cc3-9b77-42b12a41c8d2?academicYearId=2025"
+              },
+              {
+                "title": "Global Master of Business & Management",
+                "qualification": "MBM",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e1446b3e-3589-4e8d-8547-292c7a3a62d5?academicYearId=2025"
+              },
+              {
+                "title": "Global Master of Business & Management (with Integrated International Pre-Masters)",
+                "qualification": "MBM",
+                "duration": "2 years",
+                "studyMode": "Blended learning (full-time)",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d8bb8265-d151-4a65-b449-2ef30c47de94?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/fb39a8c1-b2e6-e791-550c-6879ec127f30?academicYearId=2025"
+              },
+              {
+                "title": "Graphic Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3529bc36-0a79-4d8e-8c75-7dcdfa918fb4?academicYearId=2025"
+              },
+              {
+                "title": "Human Computer Interaction",
+                "qualification": "MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5349d31d-534a-4663-8edd-f42695ac1165?academicYearId=2025"
+              },
+              {
+                "title": "Human Computer Interaction (with Integrated International Pre-Masters)",
+                "qualification": "MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e240ef5c-d043-4744-a529-7aad4cca8381?academicYearId=2025"
+              },
+              {
+                "title": "Human Resource Management for the Creative Industries",
+                "qualification": "MA/MSc",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/be9a9059-ffde-42fa-a822-2f134026703c?academicYearId=2025"
+              },
+              {
+                "title": "Human Resource Management for the Creative Industries (with Integrated International Pre-Masters)",
+                "qualification": "MA/MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e5637df1-1287-4670-9459-de622d39df12?academicYearId=2025"
+              },
+              {
+                "title": "Illustration",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/93f29f80-1f0a-44eb-bdd9-1fec1ffaf793?academicYearId=2025"
+              },
+              {
+                "title": "Illustration (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5e0bcda3-925e-43f0-8e21-442510dc9e98?academicYearId=2025"
+              },
+              {
+                "title": "Immersive & Virtual Reality",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4d035b4a-f70a-42f5-93ee-91a100063ea8?academicYearId=2025"
+              },
+              {
+                "title": "Interface & Interactive Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e252169a-6dc7-40d1-a3ec-f90ce4f8c1df?academicYearId=2025"
+              },
+              {
+                "title": "Interface & Interactive Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f3f96cc4-af4d-464c-b426-fb59dc601c3a?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/b431f709-3af5-11ce-5e71-93cab2c360c4?academicYearId=2025"
+              },
+              {
+                "title": "Interior Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ad08b228-5a4c-412d-99eb-e05dc948b877?academicYearId=2025"
+              },
+              {
+                "title": "International Music Management",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7e06e3b1-854c-4818-b71c-4c5f7ccfa590?academicYearId=2025"
+              },
+              {
+                "title": "International Music Management (with Integrated International Pre-Masters)",
+                "qualification": "MA/MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/9646d24a-f3fd-41f6-b991-3e77014866e1?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/86accd9f-66a8-4ab6-bf35-3222ac4e8462?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/140d7b87-4e5b-45fc-9a1d-2d1f97421489?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c45e0e7a-aa3d-47f2-a3e4-16fff3f87738?academicYearId=2025"
+              },
+              {
+                "title": "Luxury Business Management",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/91c0ce04-2da8-4b6d-994e-debf8d5501d2?academicYearId=2025"
+              },
+              {
+                "title": "Luxury Business Management (with Integrated International Pre-Masters)",
+                "qualification": "MA/MSc",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/c4f88004-2da4-4eb8-8361-1edc81cc6a1e?academicYearId=2025"
+              },
+              {
+                "title": "Master of Architecture (ARB/RIBA part 2)",
+                "qualification": "MArch",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/5bf2d0e1-ee84-ea0d-6969-9a04c2ec9908?academicYearId=2025"
+              },
+              {
+                "title": "Master of Business Administration MBA",
+                "qualification": "MBA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/47a6c2c1-871d-4787-8521-18bccbfb78d7?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/3bc1b772-b929-e889-04fe-8a61c4825c32?academicYearId=2025"
+              },
+              {
+                "title": "Photography",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d709fddf-71f0-410c-aa89-8c306b48f3e9?academicYearId=2025"
+              },
+              {
+                "title": "Photography (with Integrated International Pre-Masters)",
+                "qualification": "MFA (PG)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6f8be410-2930-4976-997e-4ae81ce9a991?academicYearId=2025"
+              },
+              {
+                "title": "Product Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "No Locations",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/97d0b25f-2928-4e05-abeb-fe0673567c63?academicYearId=2025"
+              },
+              {
+                "title": "Product Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2c736085-a744-43d8-bd82-42102ef572f8?academicYearId=2025"
+              },
+              {
+                "title": "Screen Acting & Performance",
+                "qualification": "MA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/bfe479ee-3a09-402a-b395-b4a68acdb50e?academicYearId=2025"
+              },
+              {
+                "title": "Screen Acting & Performance (with Integrated International Pre-Masters)",
+                "qualification": "MA (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d935b9c3-4373-4da8-aecb-df2901499847?academicYearId=2025"
+              },
+              {
+                "title": "Textiles",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/385b361c-5fca-2137-d954-09eb79df7bbd?academicYearId=2025"
+              },
+              {
+                "title": "Textiles (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Epsom",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/6be8d2a2-d707-4f76-adcb-1ff8ef8886ea?academicYearId=2025"
+              },
+              {
+                "title": "User Experience Design",
+                "qualification": "MA",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7abc9c87-eca1-49de-9b57-18cf84150b40?academicYearId=2025"
+              },
+              {
+                "title": "User Experience Design (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7f974299-4b84-4010-88bd-5c5fe3bf7bed?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7a08b4f6-2eb6-4c0b-bbb8-b35583d25b7b?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication",
+                "qualification": "MFA (PG)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/7a08b4f6-2eb6-4c0b-bbb8-b35583d25b7b?academicYearId=2025"
+              },
+              {
+                "title": "Visual Communication (with Integrated International Pre-Masters)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/163e573a-abd0-4ea4-8582-c6466903aee9?academicYearId=2025"
+              }
+            ]
+          },
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Postgraduate&attendanceTypes=Part-time&providers=University%20for%20the%20Creative%20Arts%20(UCA)",
+            "studyOptions": [
+              {
+                "mode": "Part-time",
+                "count": "11 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Art Writing",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d41da454-8b4c-4b36-975e-10c71665e540?academicYearId=2025"
+              },
+              {
+                "title": "Ceramics",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a5878af0-a4e1-44b3-b3eb-a83377a39245?academicYearId=2025"
+              },
+              {
+                "title": "Curating",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/236899e8-5b0b-43ea-8470-ac65ee1a601a?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Canterbury)",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/e66371c7-7861-489b-973f-2aa479c68770?academicYearId=2025"
+              },
+              {
+                "title": "Fine Art (Farnham)",
+                "qualification": "MA (PG)",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/902fae85-867c-49d4-a1ae-4b01f07ce9dc?academicYearId=2025"
+              },
+              {
+                "title": "Glass",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/0fa3662c-bbce-4393-a9f9-3aaf2f6877b4?academicYearId=2025"
+              },
+              {
+                "title": "Jewellery",
+                "qualification": "MA",
+                "duration": "2 years",
+                "studyMode": "Part-time",
+                "startDate": "15/09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Farnham",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a28d1eba-2841-4f70-8685-530619b532b8?academicYearId=2025"
+              },
+              {
+                "title": "Professional Practice in Architecture (ARB/RIBA Part 3)",
+                "qualification": "PgCert",
+                "duration": "1 year",
+                "studyMode": "Part-time",
+                "startDate": "09/2025",
+                "ucasPoints": "",
+                "provider": "University for the Creative Arts",
+                "location": "Canterbury",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/109d9cfb-3dec-4032-8a5c-22b875e46f63?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "International": {
+      "metaLabels": [
+        "Location: Town, City, Rural"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "As a specialist arts institution, we are 100% creative. Our students develop their skills and thinking in environments that replicate the studios found within the creative industries, alongside peers on courses spanning arts, business and technology.",
+        "Oscar-winning film makers and animators, world-renowned fashion designers, television presenters and Turner-Prize nominees are just some of UCA's high-profile graduates who have enriched the world with their creative talents. Taught and guided by our experienced, industry-connected academic staff, our students reap the benefits of studying at the highest-ranked creative specialist in the UK.",
+        "As one of the largest specialist creative arts universities in Europe, we offer a truly global perspective in creative education, with our students coming to study with us from overseas. We have a diverse international community that welcomes students from 91 nations from all over the world."
+      ],
+      "lists": [
+        [
+          "We’ve been providing creative education for 160 years.",
+          "We’re the 2nd largest provider of creative education in Europe.",
+          "Based in scenic Surrey and Kent, we have campuses in Canterbury, Epsom and Farnham.",
+          "We provide pre-degree, undergraduate and postgraduate education to the next generation of creatives.",
+          "Our Business School for the Creative Industries is the first of its kind in the UK.",
+          "Courses include Architecture, Crafts, Fashionm Graphic Design, Illustration, Fine Art, Photography, Film, Media, the Performing Arts and Creative Business."
+        ],
+        [
+          "We are the 2nd highest-ranked specialist creative university in the UK for 2024, according to the Guardian.",
+          "We are the 3rd highest-ranked specialist creative university in the UK in The Times/ Sunday Times and Daily Mail rankings for 2024.",
+          "We are the 1st top speciliast art and design university for world-leading research outputs in the most recent Research Excellence Framework in the UK.",
+          "We are ranked 12th for social inclusion by The Times / Sunday Times for 2025."
+        ]
+      ]
+    }
+  }
+}

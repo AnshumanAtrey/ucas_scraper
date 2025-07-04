@@ -1,0 +1,257 @@
+{
+  "id": "UK0010",
+  "slug": "british-academy-of-jewellery",
+  "scrapedAt": "2025-07-04T13:20:46.031Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses",
+    "International"
+  ],
+  "pages": {
+    "About": {
+      "name": "British Academy of Jewellery",
+      "location": "London",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/alise-kennedy_v2_1_copy.jpg",
+      "about": "The British Academy of Jewellery is a hub for technical excellence in jewellery, creative, and business education.\nFor over two decades, we have been providing cutting-edge training and inspiration to the next generation of jewellers, while supporting existing jewellery professionals through opportunities for upskilling.",
+      "whatMakesUsDifferent": "All our lecturers are practising jewellers, bringing real-world experience and industry knowledge into the classroom. With over 20 specialists, each with expertise in areas like fashion, fine, and conceptual jewellery, we offer tailored guidance and support.\nBe part of our lively Camden-based jewellery community in London, where creativity, technical excellence, and entrepreneurial spirit fuel academic and professional growth.\nWith strong ties to the jewellery industry, you’ll engage in live projects with exciting partners, gaining opportunities to participate in competitions and exhibitions. At BAJ, we encourage a professional approach throughout the course, preparing you for a successful career.\nThe BA (Hons) Jewellery Design and Production at the British Academy of Jewellery is validated by Kingston University, recognised with the Gold Award in the Teaching Excellence Framework, and ranked among the top 10 institutions in the country.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_conceptual_chain_project_year_1s_avant_williams_student_wearing_bubble_blower_chain_2025.01.28_3.jpg?itok=mj4VhY_-",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_charity_sale_fashion_project_yr_1_2s_piece_on_display_sheldrick_wildlife_trust_charity_metal_copper_ear_piece_elephant_ear_2025.02.13.jpg?itok=gW8p376M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_jewellery_ignite_exhibition_event_glow_project_yr_1_2s_gouache_hand_drawn_rendering_display_naima_cheniya_work_2025.04.04_copy.jpg?itok=gtnWlI90",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_jewellery_ignite_exhibition_event_glow_project_yr_1_2s_glow-in-the-dark_gemstone_jewellery_display_iman_mohammed_brooch_2025.04.04_copy_0.jpg?itok=gq2tZYtf",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_ring_with_candle_in_the_darkness_project_blue_twyman_2024.01.16.jpg_copy.jpg?itok=a8on1S1P",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/brooch.jpg?itok=-1834Xml",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_baj_x_the_place_lcds_event_performance_dance_live_project_connection_anna_heineman_wearing_bayleigh_morris_electrical_cords_cables_3_2024.12.06_copy.jpg?itok=E9UJygHt",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_alana_sweet_fashion_project_silver_soul_rings_a_love_letter_to_valentines_2024.01.31_copy.jpg?itok=EihoDjSo",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/raw_image_ba_hons_jewellery_design_production_welcome_to_london_project_rozana_piper_euston_copy.jpg?itok=ccazeU6l",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_conceptual_chain_project_year_1s_avant_williams_student_wearing_bubble_blower_chain_2025.01.28_3.jpg?itok=mj4VhY_-",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_charity_sale_fashion_project_yr_1_2s_piece_on_display_sheldrick_wildlife_trust_charity_metal_copper_ear_piece_elephant_ear_2025.02.13.jpg?itok=gW8p376M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_jewellery_ignite_exhibition_event_glow_project_yr_1_2s_gouache_hand_drawn_rendering_display_naima_cheniya_work_2025.04.04_copy.jpg?itok=gtnWlI90",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_jewellery_ignite_exhibition_event_glow_project_yr_1_2s_glow-in-the-dark_gemstone_jewellery_display_iman_mohammed_brooch_2025.04.04_copy_0.jpg?itok=gq2tZYtf",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_ring_with_candle_in_the_darkness_project_blue_twyman_2024.01.16.jpg_copy.jpg?itok=a8on1S1P",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/brooch.jpg?itok=-1834Xml",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_baj_x_the_place_lcds_event_performance_dance_live_project_connection_anna_heineman_wearing_bayleigh_morris_electrical_cords_cables_3_2024.12.06_copy.jpg?itok=E9UJygHt",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/image_ba_hons_jewellery_design_and_production_alana_sweet_fashion_project_silver_soul_rings_a_love_letter_to_valentines_2024.01.31_copy.jpg?itok=EihoDjSo",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/raw_image_ba_hons_jewellery_design_production_welcome_to_london_project_rozana_piper_euston_copy.jpg?itok=ccazeU6l"
+      ],
+      "website": "https://baj.ac.uk/ba-hons-jewellery-design-and-production/",
+      "email": "info@baj.ac.uk",
+      "phone": "+44 (0)20 7405 0197",
+      "metaLabels": [
+        "Location: City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Chalk Farm",
+          "address": "81-84 Chalk Farm Road, London, NW1 8AR"
+        },
+        {
+          "title": "Leicester",
+          "address": "Humberstone House, 83 Humberstone Gate, Leicester, LE1 1WB"
+        },
+        {
+          "title": "Sheffield",
+          "address": "Atlas House, Attercliffe Road, Sheffield, S4 7WZ"
+        },
+        {
+          "title": "Birmingham",
+          "address": "Mill Wharf, Mill Street, Birmingham, B6 4BS"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "40%"
+            },
+            {
+              "label": "Male",
+              "value": "59%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "98%"
+            },
+            {
+              "label": "EU Students",
+              "value": "1%"
+            },
+            {
+              "label": "International",
+              "value": "1%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "100%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "81%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "19%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Undergraduate",
+              "value": "100%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student life",
+      "studentLifeParagraphs": [
+        "We recognise that studying can have its challenges, that’s why we provide resources to support your journey at every BAJ campus.",
+        "We have a dynamic and diverse community of students, tutors, and alumni, all of whom contribute to the unique creative energy of BAJ.",
+        "Careers & Industry EngagementAt BAJ, we believe in supporting you every step of the way on your career journey. From the moment you join, our dedicated Careers Service Team is here to help you thrive.",
+        "More here"
+      ],
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-1133845967-london-header.jpg?itok=hnr94oeS",
+          "heading": "What's it like to live in London?Check out our region guide",
+          "paragraphs": [
+            "There are 32 boroughs in Greater London, stretching from the City of London and Westminster, to surrounding areas like Chelsea, Camden, Richmond, Hackney and Islington.",
+            "It’s big, but it’s easy to jump on a train, tube or bus to experience everything on offer – from food pop-ups to world famous music acts, free museums and West End shows.",
+            "Fantastically diverse and historical, with many industries and businesses based here to kickstart your career, London is one of the most desirable – if pricey – cities in the world."
+          ],
+          "link": "https://www.ucas.com/study-in/london"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-637710754-london-header.jpg?itok=AN_St7__",
+          "heading": "What's it like to live in London?Check out our city guide",
+          "paragraphs": [
+            "Discover what it’s really like to live in London as a student, including information on finding accommodation, cost of living and budgeting, and student life."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-london"
+        }
+      ],
+      "campusHeading": "Campus and facilities",
+      "campusParagraphs": [
+        "London is well known as one of the cultural capitals of the world and is also home to a plethora of jewellery and diamond businesses and organisations. Studying in the heart of this vibrant and multicultural city, you will have the opportunity to make valuable links with top manufacturers and employers through BAJ’s dedicated networking and events programme.",
+        "You will also have access to the hundreds of internationally recognised galleries and museums that London has to offer, many of which are free. The campus’ surrounding area of Camden has a long history of both youth culture and independent businesses."
+      ],
+      "courseLocations": [
+        {
+          "title": "Chalk Farm",
+          "address": "81-84 Chalk Farm Road, London, NW1 8AR"
+        },
+        {
+          "title": "Leicester",
+          "address": "Humberstone House, 83 Humberstone Gate, Leicester, LE1 1WB"
+        },
+        {
+          "title": "Sheffield",
+          "address": "Atlas House, Attercliffe Road, Sheffield, S4 7WZ"
+        },
+        {
+          "title": "Birmingham",
+          "address": "Mill Wharf, Mill Street, Birmingham, B6 4BS"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Courses",
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "1 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=British%20Academy%20of%20Jewellery%20(BAJ)"
+          },
+          {
+            "mode": "Other mode",
+            "count": "3 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=British%20Academy%20of%20Jewellery%20(BAJ)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=British%20Academy%20of%20Jewellery%20(BAJ)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "1 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "3 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Jewellery Design and Production",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "22/09/2025",
+                "ucasPoints": "112",
+                "provider": "British Academy of Jewellery",
+                "location": "Chalk Farm",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/4bc2b8f9-ebae-4d6e-b6cf-bed0ead6a559?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [],
+        "courseGroups": []
+      }
+    },
+    "International": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "International",
+      "paragraphs": [
+        "London is well known as one of the world's cultural capitals and is also home to many jewellery and diamond businesses and organisations. Studying in the heart of this vibrant and multicultural city, you can make valuable links with top manufacturers and employers through BAJ’s dedicated networking and live projects.",
+        "You will also have access to the hundreds of internationally recognised galleries and museums that London has to offer, many of which are free. The campus’ surrounding area of Camden has a long history of both youth culture and independent businesses."
+      ]
+    }
+  }
+}

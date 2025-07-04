@@ -1,0 +1,300 @@
+{
+  "id": "UK0006",
+  "slug": "bloomsbury-institute-london",
+  "scrapedAt": "2025-07-04T12:29:48.701Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses"
+  ],
+  "pages": {
+    "About": {
+      "name": "Bloomsbury Institute London",
+      "location": "Bloomsbury",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/6d5a9679.jpg",
+      "about": "Bloomsbury Institute is a close-knit learning community at the heart of the UK's capital. World-class learning within a uniquely supportive environment – that’s what we’re about at Bloomsbury Institute. We offer practical, career-focused degrees in Accounting, Business and Law taught by experts with extensive experience, both in practice and academia. All of our programmes are designed to equip you with the knowledge and skills needed to thrive in your chosen profession and all of our undergraduates receive accreditations from relevant professional bodies alongside their degrees.",
+      "whatMakesUsDifferent": "We're not like other Higher Education providers. Our personalised approach ensures that the barriers or challenges you may have faced in the past do not determine your future. We will support you every step of the way, practically and financially, within a warm, kind, encouraging and coaching environment. We attract people who believe in contributing to the public good and want to make a positive change for themselves and for the world around them. By studying with us, we will enable you to make a positive difference in society by discovering your own potential, strength and influence.",
+      "galleryImages": [
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1394.jpg?itok=CrxY4kM8",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1622.jpg?itok=3B2B5vrq",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1814.jpg?itok=gNapgvo9",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a2177.jpg?itok=-S7r-z_M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a3477.jpg?itok=egqk-E9H",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a4011.jpg?itok=un9BA8QL",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/373_euston_rd-105_c_agnese_sanvito.jpg?itok=HnU8HNXC",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/888f449f07085ed429108086c52ccabd-1.jpg?itok=XAU8f2Fm",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/bed4d.jpg?itok=zX1YODU4",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1713.jpg?itok=_kyqnBfv",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1394.jpg?itok=CrxY4kM8",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1622.jpg?itok=3B2B5vrq",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1814.jpg?itok=gNapgvo9",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a2177.jpg?itok=-S7r-z_M",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a3477.jpg?itok=egqk-E9H",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a4011.jpg?itok=un9BA8QL",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/373_euston_rd-105_c_agnese_sanvito.jpg?itok=HnU8HNXC",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/888f449f07085ed429108086c52ccabd-1.jpg?itok=XAU8f2Fm",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/bed4d.jpg?itok=zX1YODU4",
+        "https://www.ucas.com/sites/default/files/styles/content_block/public/provider-gallery/3c2a1713.jpg?itok=_kyqnBfv"
+      ],
+      "website": "http://www.bil.ac.uk/",
+      "email": "reception@bil.ac.uk",
+      "phone": "020 7078 8840",
+      "metaLabels": [
+        "Location: City"
+      ],
+      "courseLocations": [
+        {
+          "title": "Bloomsbury Campus",
+          "address": "7 Bedford Square, London, WC1B 3RA"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "53%"
+            },
+            {
+              "label": "Male",
+              "value": "47%"
+            },
+            {
+              "label": "Unknown",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "31%"
+            },
+            {
+              "label": "EU Students",
+              "value": "0%"
+            },
+            {
+              "label": "International",
+              "value": "69%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "100%"
+            },
+            {
+              "label": "Part-time",
+              "value": "0%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "80%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "20%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "52%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "48%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Student life",
+      "regionGuides": [
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-1133845967-london-header.jpg?itok=hnr94oeS",
+          "heading": "What's it like to live in London?Check out our region guide",
+          "paragraphs": [
+            "There are 32 boroughs in Greater London, stretching from the City of London and Westminster, to surrounding areas like Chelsea, Camden, Richmond, Hackney and Islington.",
+            "It’s big, but it’s easy to jump on a train, tube or bus to experience everything on offer – from food pop-ups to world famous music acts, free museums and West End shows.",
+            "Fantastically diverse and historical, with many industries and businesses based here to kickstart your career, London is one of the most desirable – if pricey – cities in the world."
+          ],
+          "link": "https://www.ucas.com/study-in/london"
+        },
+        {
+          "image": "https://www.ucas.com/sites/default/files/styles/tile/public/location-guide-images/banners/istock-637710754-london-header.jpg?itok=AN_St7__",
+          "heading": "What's it like to live in London?Check out our city guide",
+          "paragraphs": [
+            "Discover what it’s really like to live in London as a student, including information on finding accommodation, cost of living and budgeting, and student life."
+          ],
+          "link": "https://www.ucas.com/study-in/study-in-london"
+        }
+      ],
+      "courseLocations": [
+        {
+          "title": "Bloomsbury Campus",
+          "address": "7 Bedford Square, London, WC1B 3RA"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: City"
+      ],
+      "heading": "Courses",
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "9 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Bloomsbury%20Institute%20London"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=Bloomsbury%20Institute%20London",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "9 courses"
+              }
+            ],
+            "courses": [
+              {
+                "title": "Accounting and Finance",
+                "qualification": "BSc (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "112",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/f8885a4c-d877-4092-a652-5ec5e0006c17?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance (Accelerated)",
+                "qualification": "BSc (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "112",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/a9753759-f3a6-4325-b28f-782d2a774bcb?academicYearId=2025"
+              },
+              {
+                "title": "Accounting and Finance (Top-up)",
+                "qualification": "BSc (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ee436be6-9578-4479-a96a-ddbcc7545b3f?academicYearId=2025"
+              },
+              {
+                "title": "Business Management",
+                "qualification": "BA (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "112",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/2190ed46-55c7-4807-95c9-4807b89cd167?academicYearId=2025"
+              },
+              {
+                "title": "Business Management (Accelerated)",
+                "qualification": "BA (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "112",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/61c04f34-3ca0-489f-9d77-3177c09be90d?academicYearId=2025"
+              },
+              {
+                "title": "Business Management (Top-up)",
+                "qualification": "BA (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/694b6b98-a1fa-45e7-9d3a-6674012d4da8?academicYearId=2025"
+              },
+              {
+                "title": "Law and Legal Practice",
+                "qualification": "LLB (Hons)",
+                "duration": "3 years",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "112",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/d298f7ac-95c5-4c1c-9250-dc0c37cb56e7?academicYearId=2025"
+              },
+              {
+                "title": "Law and Legal Practice (Accelerated)",
+                "qualification": "LLB (Hons)",
+                "duration": "2 years",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "112",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/56cae5cc-150b-4a25-a775-02fb7bfbc8e5?academicYearId=2025"
+              },
+              {
+                "title": "Law and Legal Practice (Top-up)",
+                "qualification": "LLB (Hons)",
+                "duration": "1 year",
+                "studyMode": "Full-time",
+                "startDate": "06/10/2025",
+                "ucasPoints": "N/A",
+                "provider": "Bloomsbury Institute London",
+                "location": "Bloomsbury Campus",
+                "detailLink": "https://digital.ucas.com/coursedisplay/courses/ff948423-1871-458a-969e-ffbdcb49c894?academicYearId=2025"
+              }
+            ]
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [],
+        "courseGroups": []
+      }
+    }
+  }
+}

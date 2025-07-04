@@ -1,0 +1,197 @@
+{
+  "id": "UK0001",
+  "slug": "acm-the-academy-of-contemporary-music",
+  "scrapedAt": "2025-07-04T12:13:03.426Z",
+  "foundTabs": [
+    "About",
+    "Stats",
+    "StudentLife",
+    "Courses"
+  ],
+  "pages": {
+    "About": {
+      "name": "ACM (The Academy of Contemporary Music)",
+      "location": "Guildford",
+      "bannerImage": "https://www.ucas.com/sites/default/files/provider-images/banners/ucas_hdr.jpg",
+      "about": "ACM is a specialist provider, delivering degrees, diplomas and postgraduate provision across creative industries programmes in subjects including, music performance, games development, sound engineering, visual arts, and business.\nOur students collaborate in interdisciplinary teams on industry-set projects throughout their programme. This is done in our state-of-the-art facilities, supported by industry mentors and an academic staff team who are also practicing professionals. ACM is a microcosm of the creative industries, giving our students an impactful space to start their journey into their chosen field whilst still on programme.",
+      "whatMakesUsDifferent": "At ACM, we do things differently. We’re not just a place to study, we’re a launchpad for your career in the creative industries. From our industry-focused Metropolis Degree to our specialist courses in Music, Business, and Games Development, we offer pathways that reflect the real world.\nWhatever your passion, we cover any and all learning in the creative industries to get you where you want to be.\nWe’re proud to call the legendary Metropolis Studios – Europe’s largest recording facility – part of our family. More than just a world-renowned studio where over 70% of this year’s BRITs winners were produced, Metropolis is where our students learn, collaborate, and grow.\nAnd our support doesn’t stop at graduation. With Industry Link, our dedicated careers team, we’re here to help you connect with employers, gain experience, and thrive long after your studies.",
+      "website": "http://www.acm.ac.uk/",
+      "email": "admissions@acm.ac.uk",
+      "phone": "01483 500841",
+      "metaLabels": [
+        "Location: Town"
+      ],
+      "courseLocations": [
+        {
+          "title": "ACM Guildford",
+          "address": "The Rodboro Buildings, Bridge Street, Guildford, GU1 4SB"
+        },
+        {
+          "title": "ACM Birmingham",
+          "address": "3 Lionel St, Birmingham, B3 1AG"
+        },
+        {
+          "title": "ACM Online",
+          "address": "The Rodboro Buildings, Bridge Street, Guildford, GU1 4SB"
+        },
+        {
+          "title": "ACM London",
+          "address": "16 Bromell's Road, London, SW4 0BG"
+        }
+      ]
+    },
+    "Stats": {
+      "metaLabels": [
+        "Location: Town"
+      ],
+      "heading": "Stats",
+      "description": "Statistics and reviews are supplied by trusted partners and are independent to UCAS. You should also consider attending an open day and talking to staff and students.",
+      "studentStats": [
+        {
+          "category": "sex",
+          "items": [
+            {
+              "label": "Female",
+              "value": "29%"
+            },
+            {
+              "label": "Male",
+              "value": "67%"
+            },
+            {
+              "label": "Unknown",
+              "value": "4%"
+            }
+          ]
+        },
+        {
+          "category": "domicile",
+          "items": [
+            {
+              "label": "UK Students",
+              "value": "97%"
+            },
+            {
+              "label": "EU Students",
+              "value": "2%"
+            },
+            {
+              "label": "International",
+              "value": "1%"
+            }
+          ]
+        },
+        {
+          "category": "study_mode",
+          "items": [
+            {
+              "label": "Full-time",
+              "value": "100%"
+            },
+            {
+              "label": "Part-time",
+              "value": "1%"
+            }
+          ]
+        },
+        {
+          "category": "year_marker",
+          "items": [
+            {
+              "label": "Entrant",
+              "value": "55%"
+            },
+            {
+              "label": "Not an entrant",
+              "value": "45%"
+            }
+          ]
+        },
+        {
+          "category": "study_level",
+          "items": [
+            {
+              "label": "Postgraduate",
+              "value": "2%"
+            },
+            {
+              "label": "Undergraduate",
+              "value": "98%"
+            }
+          ]
+        }
+      ],
+      "source": "Source: HESA"
+    },
+    "StudentLife": {
+      "metaLabels": [
+        "Location: Town"
+      ],
+      "heading": "Student life",
+      "courseLocations": [
+        {
+          "title": "ACM Guildford",
+          "address": "The Rodboro Buildings, Bridge Street, Guildford, GU1 4SB"
+        },
+        {
+          "title": "ACM Birmingham",
+          "address": "3 Lionel St, Birmingham, B3 1AG"
+        },
+        {
+          "title": "ACM Online",
+          "address": "The Rodboro Buildings, Bridge Street, Guildford, GU1 4SB"
+        },
+        {
+          "title": "ACM London",
+          "address": "16 Bromell's Road, London, SW4 0BG"
+        }
+      ]
+    },
+    "Courses": {
+      "metaLabels": [
+        "Location: Town"
+      ],
+      "heading": "Courses",
+      "paragraphs": [
+        "We are a leading music school and specialist provider of creative industries education.",
+        "Our courses offer ACM students a comprehensive and immersive learning experience, connecting them directly with their chosen industry.",
+        "We’ll help turn a course into a career by facilitating the skills and knowledge you require, as well as introducing and connecting you to the people and organisations you need to know the most."
+      ],
+      "undergrad": {
+        "studyOptions": [
+          {
+            "mode": "Full-time",
+            "count": "44 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=ACM%20(The%20Academy%20of%20Contemporary%20Music)"
+          },
+          {
+            "mode": "Other mode",
+            "count": "23 courses",
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=ACM%20(The%20Academy%20of%20Contemporary%20Music)"
+          }
+        ],
+        "courseGroups": [
+          {
+            "link": "https://digital.ucas.com/coursedisplay?studyYear=2025&destination=Undergraduate&attendanceTypes=Full-time&providers=ACM%20(The%20Academy%20of%20Contemporary%20Music)",
+            "studyOptions": [
+              {
+                "mode": "Full-time",
+                "count": "44 courses"
+              },
+              {
+                "mode": "Other mode",
+                "count": "23 courses"
+              }
+            ],
+            "courses": [],
+            "error": "Waiting for selector `.grid--equal-height, .grid.grid--max-h4` failed: Waiting failed: 30000ms exceeded"
+          }
+        ]
+      },
+      "postgrad": {
+        "studyOptions": [],
+        "courseGroups": []
+      }
+    }
+  }
+}
